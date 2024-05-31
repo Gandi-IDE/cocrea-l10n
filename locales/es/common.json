@@ -1,0 +1,148 @@
+{
+  "comment": {
+    "add": "Deja un comentario",
+    "commentButton": "Correo",
+    "delete": {
+      "label": "Borrar"
+    },
+    "hide": "Ocultar {{count}} respuestas",
+    "pin": {
+      "content": "comentario fijado",
+      "title": "Alfiler"
+    },
+    "reply": "Responder",
+    "report": {
+      "desc": "Los informes serán revisados por el equipo Mod. Si se aprueba, los comentarios reportados se eliminarán.",
+      "label": "Informe",
+      "reason": {
+        "label": "Razón",
+        "optional1": "Publicidad o spam",
+        "optional2": "Ofensivo",
+        "optional3": "Acoso o amenazas",
+        "optional4": "Violación de privacidad",
+        "optional5": "Otro",
+        "title": "Razón"
+      },
+      "title": "Reportar comentario"
+    },
+    "seeMore": "Ver {{count}} respuestas",
+    "totalNum": "{{count}} Comentarios",
+    "unpin": {
+      "title": "desprender"
+    }
+  },
+  "common": {
+    "back": "Atrás",
+    "bio": "Biografía",
+    "cancel": "Cancelar",
+    "change": "Cambiar",
+    "charactersLimit": "caracteres",
+    "commingSoon": "Muy pronto",
+    "confirm": "Confirmar",
+    "copied": "COPIADO!",
+    "copy": "COPIAR",
+    "days": "hace días",
+    "delete": "Borrar",
+    "description": "Descripción",
+    "done": "Hecho",
+    "edit": "Editar",
+    "email": "Correo electrónico",
+    "GotIt": "Entiendo",
+    "hours": "horas atras",
+    "Import": "Importar",
+    "Imported": "Importado",
+    "justNow": "En este momento",
+    "learnMore": "Aprende más",
+    "Likes": "Gustos",
+    "loginTitle": "¡Bienvenidos a Cocrea!",
+    "minutes": "hace minutos",
+    "months": "Hace meses",
+    "next": "Próximo",
+    "nickname": "Apodo",
+    "ok": "DE ACUERDO",
+    "password": "Contraseña",
+    "preview": "Avance",
+    "previous": "Anterior",
+    "projectsNum": "Proyectos",
+    "publish": "Publicar",
+    "reset": "Reiniciar",
+    "save": "Ahorrar",
+    "send": "ENVIAR",
+    "sent": "¡ENVIADO!",
+    "share": "Compartir",
+    "signIn": "Iniciar sesión",
+    "signOut": "Desconectar",
+    "subscribe": "SUSCRIBIR",
+    "subscribed": "SUSCRITO",
+    "subscribers": "Suscriptores",
+    "title": "Título",
+    "tryIt": "Intentalo",
+    "unlimited": "Ilimitado",
+    "unsavedLeaveDialog": {
+      "desc": "Tienes cambios sin guardar. ¿Estás seguro de que quieres salir de esta página?",
+      "leaveButton": "Reiniciar y salir",
+      "stayButton": "Quédate en esta página",
+      "title": "¡Vaya, cuidado!"
+    },
+    "update": "Actualizar",
+    "upload": "Subir",
+    "url": "URL",
+    "username": "Nombre de usuario",
+    "years": "hace años que"
+  },
+  "explore": {
+    "section1Populargames": "Juegos populares",
+    "section1ProjectCardLikedData": "Me gusta totales",
+    "section1ProjectCardPlayedData": "Total jugado",
+    "section2ExcellentCreators": "Excelentes creadores"
+  },
+  "refer": {
+    "balance": "Naquagemas",
+    "burn": {
+      "storage": "Almacenamiento en la nube",
+      "typeAsset": "artículo"
+    },
+    "data": {
+      "tableHeaderEarned": "GANADO",
+      "tableHeaderPage": "PÁGINA",
+      "tableHeaderPV": "PV DESDE TU ENLACE",
+      "tableHeaderSignup": "INSCRIPCIONES",
+      "title": "Personas que has invitado"
+    },
+    "howWork": {
+      "desc": "Cuando refieres a alguien a Cocrea.world usando tu enlace de referencia único, recibirá 1 Nequagem tan pronto como cree un proyecto calificado. Y también recibirás 1 Nequagem con Cocrea.",
+      "step1Content": "Cuéntales a tus amigos sobre Cocrea. Copie y envíeles su enlace de referencia. O simplemente juegos, historias o proyectos que te gusten con ellos.",
+      "step1Title": "Dile a tus amigos",
+      "step2Content": "Puedes realizar un seguimiento de cuándo se registran, comienzan a crear un proyecto, publican su primer juego y más.",
+      "step2Title": "Sigue su progreso",
+      "step3Content": "Gana Naguagems cuando crean un proyecto calificado.",
+      "step3Title": "¡Obtener recompensa!",
+      "title": "¿Como funciona?"
+    },
+    "link": {
+      "desc": "Copie y comparta su enlace de referencia con amigos.",
+      "subtitle": "Invita a alguien que pueda crear juegos, animaciones, historias interactivas y ganar Naquagems cuando cree un proyecto calificado.",
+      "title": "Gana Naquagems por cada nuevo creador que recomiendes"
+    },
+    "share": {
+      "answer": "R: ¡Absolutamente! ¡Cuenta!",
+      "nextGroup": "Siguiente grupo",
+      "othersProjectDesc": "Mira estos proyectos, elige uno y compártelo con tus amigos.",
+      "ownProjectDesc": "¡Por supuesto, tu proyecto también cuenta!",
+      "question": "P: ¿Cuenta para un creador que se registra con el enlace del juego que comparto?"
+    },
+    "sharecard": {
+      "title": "Invita a un amigo a Cocrea"
+    }
+  },
+  "fullScreen": {
+    "cocrea": {
+      "desc": "Construya My Scratch Space con una personalización simple y flexible",
+      "title": "Bienvenidos a Cocrea"
+    },
+    "gandi": {
+      "desc": "Codifique, diseñe y cree juegos juntos",
+      "title": "Hola, este es Gandi IDE"
+    }
+  }
+}

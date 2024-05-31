@@ -1,0 +1,149 @@
+{
+  "comment": {
+    "add": "Leave a comment",
+    "commentButton": "Post",
+    "delete": {
+      "label": "Delete"
+    },
+    "hide": "Hide {{count}} replies",
+    "pin": {
+      "content": "pinned comment",
+      "title": "Pin"
+    },
+    "reply": "Reply",
+    "report": {
+      "desc": "Reports will be reviewed by the Mod team. If approved, reported comments will be deleted.",
+      "label": "Report",
+      "reason": {
+        "label": "Reason",
+        "optional1": "Advertising or Spam",
+        "optional2": "Offensive",
+        "optional3": "Harassment or Threats",
+        "optional4": "Privacy Violation",
+        "optional5": "Other",
+        "title": "Reason"
+      },
+      "title": "Report comment"
+    },
+    "seeMore": "View {{count}} replies",
+    "totalNum": "{{count}} Comments",
+    "unpin": {
+      "title": "unpin"
+    }
+  },
+  "common": {
+    "back": "Back",
+    "bio": "Bio",
+    "cancel": "Cancel",
+    "change": "Change",
+    "charactersLimit": "characters",
+    "commingSoon": "Coming soon",
+    "confirm": "Confirm",
+    "copied": "COPIED!",
+    "copy": "COPY",
+    "days": "days ago",
+    "delete": "Delete",
+    "description": "Description",
+    "done": "Done",
+    "edit": "Edit",
+    "email": "Email",
+    "GotIt": "Got it",
+    "hours": "hours ago",
+    "Import": "Import",
+    "Imported": "Imported",
+    "justNow": "just now",
+    "learnMore": "Learn more",
+    "Likes": "Likes",
+    "loginTitle": "Welcome to Cocrea! ",
+    "minutes": "minutes ago",
+    "months": "months ago",
+    "next": "Next",
+    "nickname": "Nickname",
+    "ok": "OK",
+    "password": "Password",
+    "preview": "Preview",
+    "previous": "Previous",
+    "projectsNum": "Projects",
+    "publish": "Publish",
+    "reset": "Reset",
+    "save": "Save",
+    "send": "SEND",
+    "sent": "SENT!",
+    "share": "Share",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "subscribe": "SUBSCRIBE",
+    "subscribed": "SUBSCRIBED",
+    "subscribers": "Subscribers",
+    "title": "Title",
+    "tryIt": "Try it",
+    "unlimited": "Unlimited",
+    "unsavedLeaveDialog": {
+      "desc": "You have unsaved changes. Are you sure you want to leave this page?",
+      "leaveButton": "Reset and leave",
+      "stayButton": "Stay on this page",
+      "title": "Whoa, careful!"
+    },
+    "update": "Update",
+    "upload": "Upload",
+    "url": "URL",
+    "username": "Username",
+    "years": "years ago"
+  },
+  "explore": {
+    "section1Populargames": "Popular games",
+    "section1ProjectCardLikedData": "Total Likes",
+    "section1ProjectCardPlayedData": "Total played",
+    "section2ExcellentCreators": "Excellent Creators"
+  },
+  "refer": {
+    "balance": "Naquagems",
+    "burn": {
+      "burnButton": "BURN",
+      "storage": "Cloud storage",
+      "title": "Burn CWC",
+      "typeAsset": "item"
+    },
+    "data": {
+      "tableHeaderEarned": "EARNED",
+      "tableHeaderPage": "PAGE",
+      "tableHeaderPV": "PV FROM YOUR LINK",
+      "title": "People you’ve invited"
+    },
+    "howWork": {
+      "desc": "When you refer someone to Cocrea.world using your unique referral link, they’ll receive 1 Nequagem as soon as they create a qualifying project. And you’ll also receive 1 Nequagem with Cocrea.",
+      "step1Content": "Tell your friends about Cocrea. Copy and send your referral link to them. Or simply games, stories or projects you like with them.",
+      "step1Title": "Tell your friends",
+      "step2Content": "You can track when they signup, start creating a project, publish their first game, and more.",
+      "step2Title": "Follow their progress",
+      "step3Content": "Earn Naguagems when they create a qualifying project.",
+      "step3Title": "Get reward!",
+      "title": "How does it work?"
+    },
+    "link": {
+      "desc": "Copy and share your referral link with friends.",
+      "subtitle": "Invite someone that can create games, animation, interactive stories and earn Naquagems when they create a qualifying project.",
+      "title": "Earn Naquagems for every new creator you refer"
+    },
+    "share": {
+      "answer": "A: Absolutely! It counts!",
+      "nextGroup": "Next group",
+      "othersProjectDesc": "Check out these projects, choose one, and share it with your friends.",
+      "ownProjectDesc": "Of course, your project also counts!",
+      "question": "Q: Does it count for a creator who signs up with the game link I share?"
+    },
+    "sharecard": {
+      "title": "Invite a friend to Cocrea"
+    }
+  },
+  "fullScreen": {
+    "cocrea": {
+      "desc": "Build My Scratch Space with Simple and Flexible Customization",
+      "title": "Welcome to Cocrea"
+    },
+    "gandi": {
+      "desc": "Code, Design, and Create Games Together",
+      "title": "Hey, this is Gandi IDE"
+    }
+  }
+}

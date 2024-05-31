@@ -1,0 +1,191 @@
+{
+  "bio": {
+    "default": "Describete..."
+  },
+  "joinedTime": "Se unió hace xxx",
+  "joinTime": "Unido",
+  "multiplePage": {
+    "addPage": "Añadir página",
+    "duplicate": "Duplicar",
+    "pageManagement": "Administrar páginas",
+    "remove": "Eliminar",
+    "removeDialogDes": "Esta acción no se puede deshacer y se eliminará de tu cuenta.",
+    "removeDialogTitle": "¿Quieres eliminar esta página?",
+    "rename": "Rebautizar",
+    "title": "Página"
+  },
+  "pageEdit": {
+    "bgColor": {
+      "tab": "Color"
+    },
+    "bgImage": {
+      "cancel": "Cancelar y no guardar",
+      "clear": "Vacío",
+      "fill": {
+        "auto": "Auto",
+        "contain": "Contener",
+        "cover": "Cubrir"
+      },
+      "fillTitle": "Tamaño",
+      "position": {
+        "centerBottom": "Centro inferior",
+        "centerCenter": "centro centro",
+        "centerTop": "Centro superior",
+        "leftBottom": "Abajo a la izquierda",
+        "leftCenter": "centro izquierda",
+        "leftTop": "arriba izquierda",
+        "rightBottom": "Boton derecho",
+        "rightCenter": "centro derecho",
+        "rightTop": "Justo arriba"
+      },
+      "positionTitle": "Posición",
+      "repeat": {
+        "no-repeat": "No repetir",
+        "repeat": "Repetir",
+        "repeat-x": "Repita solo horizontalmente",
+        "repeat-y": "Repita solo verticalmente"
+      },
+      "repeatTitle": "Repetir",
+      "scroll": {
+        "fixed": "Fijado",
+        "scroll": "Desplazarse"
+      },
+      "scrollTitle": "Adjunto",
+      "subtitle": "Estilo",
+      "tab": "Imagen",
+      "upload": "Subir",
+      "uploadChange": "Reemplazar"
+    },
+    "bgTitle": "Fondo",
+    "edit": "Edición",
+    "theme": {
+      "title": "Elige la plantilla de página que te guste"
+    },
+    "editor": {
+      "editMenu": {
+        "addBelow": "Agrega abajo",
+        "Image": "Imagen",
+        "ImageDesc": "Insertar una imagen",
+        "project": "Proyecto",
+        "projectDesc": "Insertar un proyecto reproducido recientemente",
+        "projectList": "Lista de proyectos",
+        "projectListDesc": "Insertar una lista de proyectos",
+        "titleOption": "Opción",
+        "titleStyle": "Estilo",
+        "user": "Usuario",
+        "userDesc": "Mencionar un usuario",
+        "website": "Enlace",
+        "websiteDesc": "Insertar un enlace web",
+        "websiteTip": {
+          "desc": "Este enlace te llevará a otro sitio web. ¿Estás seguro de que quieres continuar?",
+          "title": "SOSTENER"
+        }
+      },
+      "imageCardSize": {
+        "brief": "Breve",
+        "fullscreen": "Pantalla completa",
+        "minimal": "Mínimo",
+        "normal": "Normal"
+      },
+      "imageInput": {
+        "inputBoxPlaceholder": "titulo de la imagen",
+        "placeholder": "Pega o arrastra para subir aquí"
+      },
+      "linkCardSize": {
+        "card": "Tarjeta",
+        "minimal": "Mínimo"
+      },
+      "linkInput": {
+        "titleDefault": "Título de entrada",
+        "URLDefault": "URL de entrada",
+        "URLerror": "La URL no es válida."
+      },
+      "linkSafeTip": "El sitio web es seguro, puedes confiar en él.",
+      "project": {
+        "cardDesc": "Agregar proyecto",
+        "invalid": "Proyecto no válido",
+        "searchInputText": "Nombre del proyecto de entrada"
+      },
+      "projectCardSize": {
+        "fullScreen": "Pantalla completa",
+        "minimal": "Mínimo",
+        "stageCard": "Escenario",
+        "workCard": "Miniatura"
+      },
+      "projectList": {
+        "repeatTip": "El proyecto ya existe"
+      },
+      "projectListCardSize": {
+        "four": "4 artículos/filas",
+        "three": "3 artículos/filas"
+      },
+      "useInfo": {
+        "editDialog": {
+          "photoDes": "Sólo se permiten .png, .jpg, .jpeg"
+        }
+      },
+      "user": {
+        "invalid": "Usuario invalido"
+      },
+      "userCardSize": {
+        "brief": "Breve",
+        "crosswise": "Al través",
+        "minimal": "Mínimo",
+        "normal": "Normal",
+        "rich": "Rico"
+      }
+    }
+  },
+  "SEO_Edit": {
+    "homepage": {
+      "defaultDesc": "¡Ven a visitar mi nueva página de inicio y crea conmigo!",
+      "defaultKeywords": "scratch mit página de inicio proyecto juego crear"
+    },
+    "keywords": {
+      "label": "Palabras clave",
+      "desc": "Las palabras clave pueden hacer posible que las personas encuentren su página a través de motores de búsqueda."
+    },
+    "projectPage": {
+      "defaultDesc": "¡Bienvenido a mi juego {projectName}!",
+      "defaultKeywords": "scratch mit proyecto juego crear"
+    },
+    "title": "Información SEO",
+    "URL": {
+      "pathLengthError": "Debe tener entre 4 y 60 caracteres.",
+      "pathTaken": "Esta URL ya la utiliza otro usuario.",
+      "pathTypeError": "Las URL pueden contener letras, números, guiones (-) y guiones bajos (_)."
+    },
+    "username": {
+      "confirmText": "Entiendo que el nombre de usuario que reclamo NO PUEDE cambiarse",
+      "lengthError": "4-20 caracteres",
+      "takenError": "Este nombre de usuario ya está en uso.",
+      "title": "Reclama un nombre de usuario para ti",
+      "typeError": "Los nombres de usuario pueden contener letras, números, guiones (-) y guiones bajos (_)."
+    }
+  },
+  "pageError": {
+    "accessRestrictions": {
+      "desc": "No tienes permiso para acceder a esta página. Por favor regístrese.",
+      "title": "Oh... ¡No estás autorizado! 🔐"
+    },
+    "authorized": {
+      "desc": "No tienes permiso para acceder a esta página. Actualízate a Creator para desbloquearla.",
+      "title": "¡No estás autorizado! 🔐"
+    },
+    "launching": {
+      "desc": "Nuestro sitio web se abrirá pronto.",
+      "title": "Estamos lanzando pronto 🚀"
+    },
+    "notFound": {
+      "desc": "No podemos encontrar la página que estás buscando.",
+      "title": "Página no encontrada ⚠️"
+    },
+    "nothing": {
+      "desc": "Nada que mostrar"
+    },
+    "serverError": {
+      "desc": "¡Huy! Algo salió mal!",
+      "title": "Error interno del servidor 👨🏻‍💻"
+    }
+  }
+}

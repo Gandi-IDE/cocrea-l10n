@@ -1,0 +1,144 @@
+{
+  "home": {
+    "className": "Class Name"
+  },
+  "student": {
+    "class": {
+      "classwork": {
+        "cancelButton": "Cancel",
+        "desc": "Display all your projects, where you can submit and check the status of your projects.",
+        "selectProject": "Select your project",
+        "title": "Classwork",
+        "turnInButton": "Turn in "
+      },
+      "classworkList": {
+        "dueDate": "DUE DATE",
+        "options": "OPTIONS",
+        "status": "STATUS",
+        "submissionTime": "SUBMISSION TIME",
+        "title": "TITLE",
+        "workLink": "WORK LINK"
+      },
+      "invitation": {
+        "joinButton": "JOIN",
+        "tips": "You will join the classroom with current account."
+      },
+      "materials": {
+        "title": "Materials"
+      }
+    },
+    "projectDetail": {
+      "submitTitle": "Turn in your project to"
+    },
+    "turnIn": {
+      "card": {
+        "assignment": "Assignment",
+        "classroom": "Cocrea Classroom",
+        "classroomList": "My Classrooms",
+        "title": "Turn in your project to:"
+      },
+      "form": {
+        "myWork": "My work",
+        "title": "Turn in your work"
+      }
+    }
+  },
+  "teacher": {
+    "class": {
+      "assignment": {
+        "addNew": "Create new",
+        "create": {
+          "dueDate": "Due date",
+          "instruction": "instructions",
+          "name": "Create Assignment",
+          "title": "Create title"
+        },
+        "desc": "This displays a list of all the assignments you've created for students. You can also assign new assignments to students. Need more help? <a href=\"https://scratch.st/zncr3D\" target=\"_blank\">Join our Facebook Group</a>",
+        "listCompleted": "COMPLETED",
+        "listDue": "DUE DATE",
+        "listOptions": "OPTIONS",
+        "listStatus": "STATUS",
+        "listTitle": "TITLE",
+        "title": "Assignments",
+        "turnedIn": "Turned in",
+        "unsubmitted": "Unsubmitted"
+      },
+      "assignmentSummary": {
+        "assigned": "Assigned",
+        "listId": "ID",
+        "listTeamMembers": "TEAM MEMBERS",
+        "listTime": "SUBMISSION TIME",
+        "listWorkLink": "WORK LINK",
+        "turnedIn": "Turned In",
+        "unsubmit": "Unsubmitted"
+      },
+      "card": {
+        "operation": {
+          "delete": "Delete",
+          "edit": "Edit",
+          "more": "More"
+        },
+        "studentcount": "students"
+      },
+      "courseCard": {
+        "addButton": "Add to class",
+        "deleteButton": "Remove from class",
+        "menuTitle": "No classes",
+        "usedCount": "Used",
+        "viewButton": "View"
+      },
+      "create": {
+        "title": "Create class"
+      },
+      "createAssignment": {
+        "latePermitted": "Late submission is permitted"
+      },
+      "createButton": "Cancel",
+      "createName": "Class name (Required)",
+      "createSubject": "Subject (Required)",
+      "deleteAssignment": {
+        "desc": "This action can't be undone and it will be removed from your classroom.",
+        "tips": "Do you want to delete this assignment?"
+      },
+      "deleteClassroom": {
+        "desc": "This action can't be undone and it will be removed from your classroom.",
+        "tips": "Do you want to delete this classroom?"
+      },
+      "deleteStudent": {
+        "desc": "This action can't be undone and it will be removed from your classroom.",
+        "tips": "Do you want to delete this student?"
+      },
+      "reources": {
+        "title": "Resources"
+      },
+      "student": {
+        "copyLInk": "COPY LINK",
+        "count": "Students count",
+        "desc": "This list displays the students from all the classes.",
+        "desc01": "Display the class student list and invite new students to join the class. If you need other ways to invite students, please join our <a href=\"https://scratch.st/0FtQNz\" target=\"_blank\">Facebook Group</a> and tell us.",
+        "invite": "Invite students",
+        "inviteLink": "Invite link"
+      },
+      "studentList": {
+        "class": "CLASS",
+        "email": "EMAIL",
+        "name": "NAME",
+        "options": "OPTIONS"
+      },
+      "updateAssignment": {
+        "title": "Update Assignment"
+      },
+      "updateClass": {
+        "title": "Update Class"
+      }
+    },
+    "home": {
+      "addNewClasses": "Add new class",
+      "allClasses": "All classes",
+      "classes": "Classes",
+      "myClasses": "My Classes",
+      "settings": "Settings",
+      "students": "Students"
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "bio": {
+    "default": "添加签名"
+  },
+  "joinedTime": "已经加入 xxx",
+  "joinTime": "加入",
+  "multiplePage": {
+    "addPage": "添加页面",
+    "duplicate": "复制页面",
+    "pageManagement": "页面管理",
+    "remove": "删除页面",
+    "removeDialogDes": "这个操作无法撤消，当前页面将从您的帐户中删除。",
+    "removeDialogTitle": "你确定想要删除页面吗？",
+    "rename": "重命名",
+    "title": "页面"
+  },
+  "pageEdit": {
+    "bgColor": {
+      "tab": "颜色"
+    },
+    "bgImage": {
+      "cancel": "取消",
+      "clear": "清空",
+      "fill": {
+        "auto": "自动",
+        "contain": "拉伸",
+        "cover": "填充"
+      },
+      "fillTitle": "填充",
+      "position": {
+        "centerBottom": "居中靠下",
+        "centerCenter": "居中",
+        "centerTop": "居中靠上",
+        "leftBottom": "左侧下方",
+        "leftCenter": "左侧居中",
+        "leftTop": "左侧上方",
+        "rightBottom": "右侧下方",
+        "rightCenter": "右侧居中",
+        "rightTop": "右侧上方"
+      },
+      "positionTitle": "位置",
+      "repeat": {
+        "no-repeat": "不循环",
+        "repeat": "循环",
+        "repeat-x": "水平循环",
+        "repeat-y": "垂直循环"
+      },
+      "repeatTitle": "循环",
+      "scroll": {
+        "fixed": "固定",
+        "scroll": "滚动"
+      },
+      "scrollTitle": "滚动",
+      "subtitle": "样式",
+      "tab": "图片",
+      "upload": "上传",
+      "uploadChange": "替换"
+    },
+    "bgTitle": "背景",
+    "edit": "编辑中",
+    "theme": {
+      "title": "挑选你喜欢的页面模板"
+    },
+    "editor": {
+      "editMenu": {
+        "addBelow": "在下方添加",
+        "Image": "图片",
+        "ImageDesc": "添加一张图片",
+        "project": "作品",
+        "projectDesc": "添加一个作品",
+        "projectList": "作品列表",
+        "projectListDesc": "添加一个作品列表",
+        "user": "用户",
+        "userDesc": "提及一个用户",
+        "website": "链接",
+        "websiteDesc": "添加一个网站链接",
+        "websiteTip": {
+          "desc": "你即将跳转到其他网站，确认跳转吗？",
+          "title": "提示"
+        }
+      },
+      "imageCardSize": {
+        "brief": "缩略图",
+        "fullscreen": "大尺寸",
+        "minimal": "最小",
+        "normal": "小尺寸"
+      },
+      "imageInput": {
+        "inputBoxPlaceholder": "图片名称",
+        "placeholder": "将图片粘贴或上传到这里"
+      },
+      "linkCardSize": {
+        "card": "卡片",
+        "minimal": "链接"
+      },
+      "linkInput": {
+        "titleDefault": "添加标题",
+        "URLDefault": "添加链接",
+        "URLerror": "URL 无效"
+      },
+      "linkSafeTip": "网站安全，可以放心访问",
+      "project": {
+        "cardDesc": "添加项目",
+        "invalid": "作品无效",
+        "searchInputText": "请输入项目名称"
+      },
+      "projectCardSize": {
+        "fullScreen": "大尺寸",
+        "minimal": "最小",
+        "stageCard": "舞台",
+        "workCard": "缩略图"
+      },
+      "projectList": {
+        "repeatTip": "作品已添加"
+      },
+      "projectListCardSize": {
+        "four": "一行 4 个",
+        "three": "一行 3 个"
+      },
+      "useInfo": {
+        "editDialog": {
+          "photoDes": "支持.png .jpg .jpeg"
+        }
+      },
+      "user": {
+        "invalid": "无效用户"
+      },
+      "userCardSize": {
+        "brief": "缩略图",
+        "crosswise": "横向",
+        "minimal": "文字链",
+        "normal": "小尺寸",
+        "rich": "大尺寸"
+      }
+    }
+  },
+  "SEO_Edit": {
+    "homepage": {
+      "defaultDesc": "",
+      "defaultKeywords": ""
+    },
+    "keywords": {
+      "label": "关键词",
+      "desc": "关键词可以帮助您的页面更容易在搜索引擎中被检索"
+    },
+    "title": "SEO 设置",
+    "URL": {
+      "pathLengthError": "4~60个字符",
+      "pathTaken": "这个 URL 已经被占用",
+      "pathTypeError": "支持字母、数字和特殊字符“-”“_”"
+    },
+    "username": {
+      "confirmText": "我已知晓当前域名只允许被修改一次",
+      "lengthError": "4~20个字符",
+      "takenError": "域名已被占用",
+      "title": "为您的网站设置一个域名",
+      "typeError": "支持字母、数字和特殊字符“-”“_”"
+    }
+  },
+  "pageError": {
+    "accessRestrictions": {
+      "desc": "你没有权限访问这个页面。请注册登录",
+      "title": "你没有被授权!"
+    },
+    "authorized": {
+      "desc": "你没有权限访问这个页面。升级到\"创作者\"解锁。",
+      "title": "你没有被授权!"
+    },
+    "launching": {
+      "desc": "我们的网站即将开放。",
+      "title": "即将推出，敬请期待！"
+    },
+    "notFound": {
+      "desc": "我们找不到你要找的页面",
+      "title": "页面不存在"
+    },
+    "nothing": {
+      "desc": "没有可展示内容"
+    },
+    "serverError": {
+      "desc": "哎呀，出事了!",
+      "title": "内部服务器错误"
+    }
+  }
+}

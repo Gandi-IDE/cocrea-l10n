@@ -1,0 +1,191 @@
+{
+  "bio": {
+    "default": "Terangkan mengenai diri anda..."
+  },
+  "joinedTime": "Menyertai xxx yang lalu",
+  "joinTime": "Menyertai",
+  "multiplePage": {
+    "addPage": "Tambah Halaman",
+    "duplicate": "Pendua",
+    "pageManagement": "Urus Halaman",
+    "remove": "Alih keluar",
+    "removeDialogDes": "Tindakan ini tidak boleh diulangi dan tindakan ini akan dibuang daripada akaun anda",
+    "removeDialogTitle": "Adakah anda mahu memadamkan halaman ini?",
+    "rename": "Namakan semula",
+    "title": "Halaman"
+  },
+  "pageEdit": {
+    "bgColor": {
+      "tab": "Warna"
+    },
+    "bgImage": {
+      "cancel": "Batal dan jangan simpan",
+      "clear": "kosong",
+      "fill": {
+        "auto": "Auto",
+        "contain": "Dikandung",
+        "cover": "Penutup"
+      },
+      "fillTitle": "Saiz",
+      "position": {
+        "centerBottom": "Bawah tengah",
+        "centerCenter": "Pusat pusat",
+        "centerTop": "Atas tengah",
+        "leftBottom": "Bawah kiri",
+        "leftCenter": "Tengah kiri",
+        "leftTop": "Atas kiri",
+        "rightBottom": "Bawah kanan",
+        "rightCenter": "Tengah kanan",
+        "rightTop": "Atas kanan"
+      },
+      "positionTitle": "kedudukan",
+      "repeat": {
+        "no-repeat": "Tiada ulangan",
+        "repeat": "Ulang",
+        "repeat-x": "Ulang secara mendatar",
+        "repeat-y": "Ulang secara menegak"
+      },
+      "repeatTitle": "Ulang",
+      "scroll": {
+        "fixed": "Tetap",
+        "scroll": "Tatal"
+      },
+      "scrollTitle": "Lampiran",
+      "subtitle": "Gaya",
+      "tab": "Gambar",
+      "upload": "Muat naik",
+      "uploadChange": "Gantikan"
+    },
+    "bgTitle": "Latar belakang",
+    "edit": "Mengedit",
+    "theme": {
+      "title": "Pilih templat halaman yang anda suka"
+    },
+    "editor": {
+      "editMenu": {
+        "addBelow": "Tambah di bawah",
+        "Image": "Gambar",
+        "ImageDesc": "Sisipkan imej",
+        "project": "Projek",
+        "projectDesc": "Sisipkan projek daripada yang dimainkan baru-baru ini",
+        "projectList": "Senarai projek",
+        "projectListDesc": "Masukkan senarai projek",
+        "titleOption": "Pilihan",
+        "titleStyle": "Gaya",
+        "user": "pengguna",
+        "userDesc": "Sebut seorang Pengguna",
+        "website": "Pautan",
+        "websiteDesc": "Masukkan pautan web",
+        "websiteTip": {
+          "desc": "Pautan ini akan membawa anda ke laman web lain. Adakah anda pasti mahu meneruskan?",
+          "title": "TAHAN"
+        }
+      },
+      "imageCardSize": {
+        "brief": "ringkas",
+        "fullscreen": "Skrin penuh",
+        "minimal": "Yang minimum",
+        "normal": "Yang biasa"
+      },
+      "imageInput": {
+        "inputBoxPlaceholder": "Tajuk Imej",
+        "placeholder": "Tampal atau seret untuk memuat naik di sini"
+      },
+      "linkCardSize": {
+        "card": "Kad",
+        "minimal": "Yang minimum"
+      },
+      "linkInput": {
+        "titleDefault": "Tajuk input",
+        "URLDefault": "URL Input",
+        "URLerror": "URL tidak sah"
+      },
+      "linkSafeTip": "Laman web selamat. Anda boleh mempercayainya.",
+      "project": {
+        "cardDesc": "Tambah Projek",
+        "invalid": "Projek tidak sah",
+        "searchInputText": "Masukkan nama projek"
+      },
+      "projectCardSize": {
+        "fullScreen": "Skrin penuh",
+        "minimal": "Yang minimum",
+        "stageCard": "Pentas",
+        "workCard": "Gambaran kecil"
+      },
+      "projectList": {
+        "repeatTip": "Project tersebut sudah pun wujud"
+      },
+      "projectListCardSize": {
+        "four": "4 Item / Baris",
+        "three": "3 Item / Baris"
+      },
+      "useInfo": {
+        "editDialog": {
+          "photoDes": "Hanya .png, .jpg, .jpeg dibenarkan"
+        }
+      },
+      "user": {
+        "invalid": "Pengguna tidak sah"
+      },
+      "userCardSize": {
+        "brief": "ringkas",
+        "crosswise": "Melintang",
+        "minimal": "Yang minimum",
+        "normal": "Biasalah",
+        "rich": "Kaya"
+      }
+    }
+  },
+  "SEO_Edit": {
+    "homepage": {
+      "defaultDesc": "Jom lawat profil baharu saya dan kita mula mencipta!",
+      "defaultKeywords": "scratch mit homepage laman utama projek permainan mencipta"
+    },
+    "keywords": {
+      "label": "Kata kunci",
+      "desc": "Kata kunci boleh membolehkan orang ramai mencari halaman anda melalui enjin carian."
+    },
+    "projectPage": {
+      "defaultDesc": "Selamat datang ke permainan saya, {projectName}!",
+      "defaultKeywords": "scratch mit projek permainan mencipta"
+    },
+    "title": "Maklumat SEO",
+    "URL": {
+      "pathLengthError": "Ia sepatutnya 4-60 aksara",
+      "pathTaken": "URL ini telah digunakan oleh pengguna lain.",
+      "pathTypeError": "URL boleh mengandungi huruf, nombor, sempang (-) dan garis bawah (_)."
+    },
+    "username": {
+      "confirmText": "Saya faham bahawa nama pengguna yang saya pilih TIDAK BOLEH ditukar",
+      "lengthError": "4-20 Aksara",
+      "takenError": "Nama pengguna ini telah pun diambil.",
+      "title": "Tuntut nama pengguna untuk diri sendiri",
+      "typeError": "Nama pengguna boleh mengandungi huruf, nombor, sempang (-) dan garis bawah (_)."
+    }
+  },
+  "pageError": {
+    "accessRestrictions": {
+      "desc": "Anda tidak mempunyai kebenaran untuk mengakses halaman ini. Sila daftar.",
+      "title": "Oh..Anda tidak dibenarkan! 🔐"
+    },
+    "authorized": {
+      "desc": "Anda tidak mempunyai kebenaran untuk mengakses halaman ini. Tingkatkan kepada Pencipta untuk membuka kunci.",
+      "title": "Anda tidak dibenarkan! 🔐"
+    },
+    "launching": {
+      "desc": "Laman web kami akan dibuka tidak lama lagi.",
+      "title": "Kami akan melancarkan tidak lama lagi 🚀"
+    },
+    "notFound": {
+      "desc": "Kami tidak menemui halaman yang anda cari",
+      "title": "Halaman Tidak Ditemui ⚠️"
+    },
+    "nothing": {
+      "desc": "Tiada apa-apa untuk ditunjukkan"
+    },
+    "serverError": {
+      "desc": "Oops, sesuatu telah berlaku!",
+      "title": "Ralat pelayan dalaman 👨🏻‍💻"
+    }
+  }
+}

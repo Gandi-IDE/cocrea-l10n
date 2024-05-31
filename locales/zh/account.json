@@ -1,0 +1,112 @@
+{
+  "connect": {
+    "connect": "关联",
+    "connected": "已关联",
+    "disconnect": "取消关联",
+    "disconnectConfirm": "你确定要取消关联么？",
+    "join": "加入 Discord",
+    "title": "关联服务"
+  },
+  "deleteRequest": {
+    "tips": "请注意，删除您的账户是不可逆的。一旦账户被删除，您的所有数据，包括个人资料信息和项目，将永久从我们的系统中删除。",
+    "title": "删除账户"
+  },
+  "deleteRequestConfirm": {
+    "tips": "您的账户将在30天后被永久删除。\n如果您改变主意并希望保留您的账户，请在30天内登录以取消删除流程。一旦截止日期过去，您的账户将被永久删除，无法恢复。请确保提前备份任何相关数据。",
+    "title": "您确定要删除账户么？"
+  },
+  "deleteRequestRevert": {
+    "button": "撤回",
+    "time": "永久删除时间",
+    "tips": "在提交申请后的30天内，您仍然可以正常访问Cocrea，并随时撤销删除操作。30天后，将会被永久删除。",
+    "title": "账户待删除"
+  },
+  "domain": {
+    "title": "域名",
+    "URLdesc": "用户名用于您的页面链接"
+  },
+  "loginDetail": {
+    "changePassword": {
+      "desc": "请输入您的新密码",
+      "easyGuess": "密码长度 6~20位，必须包含字母和数字",
+      "inputConfirmPlaceholder": "确认新密码",
+      "inputPlaceholder": "新密码",
+      "notSame": "两次密码不一致",
+      "title": "更新密码",
+      "update": "更新密码"
+    },
+    "newEmail": {
+      "confirmButton": "发送验证邮件",
+      "desc1": "我们将会向您的新邮箱发送一个4位数的代码，以确保您的帐户安全。",
+      "desc2": "您当前的邮箱地址是{{email}}",
+      "inputPlaceholder": "您的新邮箱地址",
+      "title": "更新邮箱地址"
+    },
+    "title": "登录详情",
+    "validationDialog": {
+      "desc": "已向{ {email}} 发送了一个4位数的代码，以确保您的帐户安全。",
+      "title": "验证邮箱"
+    }
+  },
+  "other": {
+    "label": "其他",
+    "language": {
+      "label": "语言"
+    }
+  },
+  "profile": {
+    "birthday": "生日",
+    "title": "基础信息"
+  },
+  "welcomeCard": {
+    "desc": {
+      "answer1": "玩家",
+      "answer2": "游戏创作者",
+      "answer3": "教育工作者",
+      "birthday": {
+        "tip": "出于保护未成年人的目的，将通过年龄信息过滤掉不适合13岁以下儿童游玩的项目。",
+        "title": "您的出生日期是多少？"
+      },
+      "Question": "请选择您的身份："
+    },
+    "Done": "开始体验",
+    "hearUs": {
+      "option1": "Youtube",
+      "option2": "谷歌搜索",
+      "option3": "Scratch 社区",
+      "option4": "亲朋好友",
+      "option5": "老师",
+      "option6": "Discord",
+      "option7": "Scratch game jam & Itch.io & Gamejolt",
+      "option8": "社交媒体",
+      "option9": "其他",
+      "Question": "您从哪个渠道了解到我们？",
+      "title": "选择一个"
+    },
+    "title": "欢迎来到 COCREA"
+  },
+  "signIn": {
+    "dialog": {
+      "confirmButton": "继续",
+      "emailInputBox": "邮箱",
+      "emailTypeError": "请输入正确的邮箱",
+      "otherSignIn": "尝试用以下方式登录",
+      "password": {
+        "back": "使用邮箱登录",
+        "Error": "请输入正确的邮箱或密码",
+        "label": "使用密码登录",
+        "usernameInput": "用户名或邮箱"
+      },
+      "pricacy": "已阅读并同意《法律声明》和《隐私协议》",
+      "pricacyPolicy": "《隐私协议》",
+      "title": "欢迎来到 Cocrea！ 👋🏻",
+      "verifyEmail": {
+        "codeError": "验证码错误，请重试",
+        "des": "4 位数字验证码已发送至<email></email>，请注意查收",
+        "resend": "重新发送",
+        "resendTip": "验证码已发送!"
+      },
+      "warn": "建议登录，否则可能丢失工程数据"
+    }
+  }
+}

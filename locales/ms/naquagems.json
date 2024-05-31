@@ -1,0 +1,41 @@
+{
+  "balance": {
+    "desc": "Baki Naquagems",
+    "leaderboard": {
+      "clickDCUserTip": "Pengguna adalah dari Discord dan belum mendaftar untuk Cocrea."
+    },
+    "leaderboardTitle": "Papan kedudukan NG",
+    "whatNG": "Apa itu Naquagems?"
+  },
+  "detail": {
+    "chart": {
+      "noData": "Kami tidak menemui sebarang data."
+    },
+    "chartTitle": "Carta",
+    "earnNG": "memperoleh NG",
+    "form": {
+      "change": "BAKI",
+      "date": "TARIKH",
+      "instruction": "ARAHAN"
+    },
+    "formTitle": "Borang",
+    "LAST_1_DAY": "Semalam",
+    "LAST_7_DAYS": "7 hari lepas",
+    "LAST_30_DAYS": "30 hari lepas",
+    "LAST_90_DAYS": "90 hari lepas",
+    "selectDate": "Pilih tarikh",
+    "title": "Butiran NG"
+  },
+  "earnNG": {
+    "desc": "Anda boleh memperoleh NG dengan menyelesaikan tugasan, menjemput rakan ke Cocrea dan menyertai pertandingan!",
+    "taskBoard": {
+      "completed": "Selesai",
+      "desc": "Penerangan",
+      "remark": "Cara ganjaran diberi",
+      "reward": "Ganjaran",
+      "time": "Masa",
+      "title": "Papan tugasan"
+    },
+    "title": "Bagaimanakah saya memperoleh NG?"
+  }
+}

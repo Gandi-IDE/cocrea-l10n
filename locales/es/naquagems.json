@@ -1,0 +1,41 @@
+{
+  "balance": {
+    "desc": "Equilibrio de Naquagemas",
+    "leaderboard": {
+      "clickDCUserTip": "El usuario es de Discord y no se ha registrado en Cocrea."
+    },
+    "leaderboardTitle": "Tabla de clasificación de NG",
+    "whatNG": "¿Qué son los Naquagems?"
+  },
+  "detail": {
+    "chart": {
+      "noData": "No pudimos encontrar ningún dato."
+    },
+    "chartTitle": "Cuadro",
+    "earnNG": "ganado NG",
+    "form": {
+      "change": "CAMBIAR",
+      "date": "FECHA",
+      "instruction": "INSTRUCCIÓN"
+    },
+    "formTitle": "Forma",
+    "LAST_1_DAY": "Ayer",
+    "LAST_7_DAYS": "Los últimos 7 días",
+    "LAST_30_DAYS": "últimos 30 días",
+    "LAST_90_DAYS": "últimos 90 días",
+    "selectDate": "Seleccione una fecha",
+    "title": "Detalles de NG"
+  },
+  "earnNG": {
+    "desc": "¡Puedes ganar NG completando tareas, invitando amigos a Cocrea y participando en Game Jams!",
+    "taskBoard": {
+      "completed": "Terminado",
+      "desc": "Descripción",
+      "remark": "Observación",
+      "reward": "Premio",
+      "time": "Tiempo",
+      "title": "Tablero de tareas"
+    },
+    "title": "¿Cómo gano NG?"
+  }
+}

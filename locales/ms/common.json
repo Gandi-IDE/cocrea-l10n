@@ -1,0 +1,131 @@
+{
+  "comment": {
+    "add": "Tinggalkan komen",
+    "commentButton": "Hantar",
+    "hide": "Sembunyikan {{count}} balasan",
+    "pin": {
+      "content": "komen disematkan",
+      "title": "Pin"
+    },
+    "reply": "Balas",
+    "seeMore": "Lihat {{count}} balasan",
+    "totalNum": "{{count}} Komen",
+    "unpin": {
+      "title": "nyahpin"
+    }
+  },
+  "common": {
+    "back": "belakang",
+    "bio": "Bio",
+    "cancel": "Batal",
+    "change": "Ubah",
+    "charactersLimit": "aksara",
+    "commingSoon": "Akan datang",
+    "confirm": "sahkan",
+    "copied": "DISALIN!",
+    "copy": "SALIN",
+    "days": "hari lalu",
+    "delete": "Padam",
+    "description": "Penerangan",
+    "done": "Selesai",
+    "edit": "Sunting",
+    "email": "E-mel",
+    "GotIt": "Faham",
+    "hours": "beberapa jam lalu",
+    "Import": "Import",
+    "Imported": "Diimport",
+    "justNow": "tadi",
+    "learnMore": "Ketahui lebih lanjut",
+    "Likes": "Suka",
+    "loginTitle": "Selamat datang ke Cocrea!",
+    "minutes": "minit lalu",
+    "months": "bulan lalu",
+    "next": "Seterusnya",
+    "nickname": "Nama pendek",
+    "ok": "OK",
+    "password": "Kata laluan",
+    "preview": "Lihat",
+    "previous": "Sebelumnya",
+    "projectsNum": "Projek-projek",
+    "publish": "Terbit",
+    "reset": "Tetapkan semula",
+    "save": "Simpan",
+    "send": "HANTAR",
+    "sent": "DIHANTAR!",
+    "share": "Kongsi",
+    "signIn": "Log Masuk",
+    "signOut": "Log Keluar",
+    "subscribe": "LANGGAN",
+    "subscribed": "DILANGGAN",
+    "subscribers": "Pelanggan",
+    "title": "Tajuk",
+    "tryIt": "Cuba ia",
+    "unlimited": "Tidak terhad",
+    "unsavedLeaveDialog": {
+      "desc": "Anda mempunyai perubahan yang belum disimpan. Adakah anda pasti mahu meninggalkan halaman ini?",
+      "leaveButton": "Tetapkan semula dan pergi",
+      "stayButton": "Kekal di halaman ini",
+      "title": "Wah, hati-hati!"
+    },
+    "update": "Kemas kini",
+    "upload": "Muat naik",
+    "url": "URL",
+    "username": "Nama pengguna",
+    "years": "tahun lalu"
+  },
+  "explore": {
+    "section1Populargames": "Permainan popular",
+    "section1ProjectCardLikedData": "Jumlah Suka",
+    "section1ProjectCardPlayedData": "Jumlah yang dimainkan",
+    "section2ExcellentCreators": "Pencipta Cemerlang"
+  },
+  "refer": {
+    "balance": "Naquagems",
+    "burn": {
+      "storage": "Storan awan",
+      "typeAsset": "item"
+    },
+    "data": {
+      "tableHeaderEarned": "DIPEROLEHI",
+      "tableHeaderPage": "HALAMAN",
+      "tableHeaderPV": "PV DARI PAUTAN ANDA",
+      "tableHeaderSignup": "PENDAFTAR",
+      "title": "Orang yang telah anda jemput"
+    },
+    "howWork": {
+      "desc": "Apabila anda merujuk seseorang ke Cocrea.world menggunakan pautan rujukan unik anda, mereka akan menerima 1 Nequagem sebaik sahaja mereka membuat projek yang layak. Dan anda juga akan menerima 1 Nequagem dengan Cocrea.",
+      "step1Content": "Beritahu rakan anda tentang Cocrea. Salin dan hantar pautan rujukan anda kepada mereka. Atau sekadar permainan, cerita atau projek yang anda suka bersama mereka.",
+      "step1Title": "Beritahu rakan anda",
+      "step2Content": "Anda boleh menjejaki bila mereka mendaftar, mula membuat projek, menerbitkan permainan pertama mereka dan banyak lagi.",
+      "step2Title": "Ikuti perkembangan mereka",
+      "step3Content": "Peroleh Naguagems apabila mereka mencipta projek yang layak.",
+      "step3Title": "Dapat hadiah!",
+      "title": "Bagaimanakah ia berfungsi?"
+    },
+    "link": {
+      "desc": "Salin dan kongsi pautan rujukan anda dengan rakan-rakan.",
+      "subtitle": "Jemput seseorang yang boleh mencipta permainan, animasi, cerita interaktif dan memperoleh Naquagems apabila mereka membuat projek yang layak.",
+      "title": "Peroleh Naquagems untuk setiap pencipta baharu yang anda rujuk"
+    },
+    "share": {
+      "answer": "A: Sudah tentu! Ia dikira!",
+      "nextGroup": "Kumpulan seterusnya",
+      "othersProjectDesc": "Lihat projek ini, pilih satu dan kongsi dengan rakan anda.",
+      "ownProjectDesc": "Sudah tentu, projek anda juga penting!",
+      "question": "S: Adakah ini dikira untuk pencipta yang mendaftar dengan pautan permainan yang saya kongsi?"
+    },
+    "sharecard": {
+      "title": "Jemput rakan ke Cocrea"
+    }
+  },
+  "fullScreen": {
+    "cocrea": {
+      "desc": "Bina ruang Scratch Saya dengan penyesuaian mudah dan fleksibel",
+      "title": "Selamat datang ke Cocrea"
+    },
+    "gandi": {
+      "desc": "Kod, Reka Bentuk dan Cipta Permainan Bersama-sama",
+      "title": "Hei, ini Gandi IDE"
+    }
+  }
+}

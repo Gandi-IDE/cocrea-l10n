@@ -1,0 +1,79 @@
+{
+  "button": {
+    "like": {
+      "label": "Como"
+    }
+  },
+  "description": {
+    "default": "Esta es la descripción de su proyecto. Proporcione un breve resumen para ayudar a los jugadores a comprender la historia y los antecedentes de su proyecto. Haga clic en el cuadro de texto para comenzar.",
+    "label": "Descripción"
+  },
+  "instructions": {
+    "default": "Estas son las instrucciones de tu proyecto. Proporciona una breve instrucción para ayudar a los jugadores a entender cómo jugar tu proyecto. Haz clic en el cuadro de texto para comenzar.",
+    "label": "InstructionsInstrucciones"
+  },
+  "otherProjects": {
+    "emptyDesc": "No más proyectos",
+    "title": "Proyectos de"
+  },
+  "projectEditButton": "Editar proyecto",
+  "projectRemixButton": "remezclar",
+  "projectType": {
+    "original": "ORIGINAL",
+    "originalTitle": "El enlace original del proyecto:",
+    "remixed": "REMEZCLAR",
+    "reposted": "VOLVER A ENVIAR"
+  },
+  "rating": {
+    "tip": "Este contenido puede contener violencia, temas sugerentes, humor crudo, sangre y otro material no apto para usuarios menores de 13 años."
+  },
+  "report": {
+    "desc": "El contenido reportado será revisado por el equipo oficial o de mods y, si se determina que es cierto, el trabajo será calificado o eliminado.",
+    "label": "Informe",
+    "optional1": {
+      "content": "Contenido pornográfico o para adultos; Lenguaje violento, odioso o discriminatorio; Acoso o amenazas hacia otros.",
+      "label": "Contenido inapropiado"
+    },
+    "optional2": {
+      "content": "Obras que infrinjan los derechos de propiedad intelectual de otra persona, como el uso no autorizado de imágenes, audio, vídeos, etc.",
+      "label": "Infracción de copyright"
+    },
+    "optional3": {
+      "content": "Información en el trabajo que sea inventada o engañosa y que pueda engañar a otros usuarios.",
+      "label": "Información falsa"
+    },
+    "optional4": {
+      "content": "Trabajos utilizados para promocionar productos, servicios o enlaces a sitios web externos; Contenido excesivamente repetitivo, como mensajes spam.",
+      "label": "Publicidad o spam"
+    },
+    "optional5": {
+      "content": "Trabajos que revelen información personal de los usuarios o violen su privacidad; Trabajos que divulguen maliciosamente información personal de otros.",
+      "label": "Violación de privacidad"
+    },
+    "optional6": {
+      "label": "Otro"
+    },
+    "title": "Informe del proyecto"
+  },
+  "stage": {
+    "cocreaText": "cocrea",
+    "continue": "continuar",
+    "fullScreen": "Pantalla completa",
+    "fullScreenQuit": "Abandonar",
+    "like": "Como",
+    "pause": "Pausa",
+    "played": "Jugó",
+    "restart": "Reanudar",
+    "run": "Correr",
+    "scratchText": "Rascar",
+    "share": "Compartir",
+    "total": "Total"
+  },
+  "teamTitle": "Equipo",
+  "versions": {
+    "changelogDefault": "Este es su registro de cambios. Un breve registro de cambios puede ayudar a los jugadores a comprender qué nuevas funciones se han actualizado en esta versión. Haga clic en el cuadro de texto para comenzar.",
+    "hideHistory": "Esconder",
+    "history": "Historial de versiones",
+    "label": "Versiones"
+  }
+}

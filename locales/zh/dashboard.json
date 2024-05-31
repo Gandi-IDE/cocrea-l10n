@@ -1,0 +1,18 @@
+{
+  "data": {
+    "Subscribers": "订阅者",
+    "totalPlayed": "总试玩次数",
+    "totalPlaytime": "总试玩时长"
+  },
+  "guide": {
+    "task1Create": "使用 Gandi 编辑器创建一个作品并完成发布",
+    "task2DesignProjectPage": "自定义作品发行页",
+    "task3ProfileDomain": "自定义页面域名",
+    "task4SharePage": "将作品发行页或个人主页分享给好友",
+    "task5DesignHomepage": "自定义个人主页",
+    "title": "新手引导"
+  },
+  "subscribe": {
+    "subscriptionsTab": "已订阅"
+  }
+}

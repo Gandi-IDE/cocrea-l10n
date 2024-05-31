@@ -1,0 +1,142 @@
+{
+  "home": {
+    "className": "Nama Kelas"
+  },
+  "student": {
+    "class": {
+      "classwork": {
+        "cancelButton": "Batal",
+        "desc": "Paparkan semua projek anda, di mana anda boleh menyerahkan dan menyemak status projek anda.",
+        "selectProject": "Pilih projek anda",
+        "title": "Kerja kelas",
+        "turnInButton": "Penyerahan"
+      },
+      "classworkList": {
+        "dueDate": "TARIKH TUTUP",
+        "options": "PILIHAN",
+        "status": "STATUS",
+        "submissionTime": "MASA PENYERAHAN",
+        "title": "TAJUK",
+        "workLink": "PAUTAN KERJA"
+      },
+      "invitation": {
+        "joinButton": "SERTAI",
+        "tips": "Anda akan menyertai bilik darjah dengan akaun semasa."
+      },
+      "materials": {
+        "title": "Bahan"
+      }
+    },
+    "projectDetail": {
+      "submitTitle": "Serahkan projek anda ke"
+    },
+    "turnIn": {
+      "card": {
+        "assignment": "Tugasan",
+        "classroom": "Bilik Darjah Cocrea",
+        "classroomList": "Bilik Darjah Saya",
+        "title": "Serahkan projek anda kepada:"
+      },
+      "form": {
+        "myWork": "Kerja saya",
+        "title": "Serahkan kerja anda"
+      }
+    }
+  },
+  "teacher": {
+    "class": {
+      "assignment": {
+        "addNew": "Buat baru",
+        "create": {
+          "dueDate": "tarikh tamat tempoh",
+          "instruction": "arahan",
+          "name": "Buat Tugasan",
+          "title": "Buat tajuk"
+        },
+        "desc": "Ini memaparkan senarai semua tugasan yang telah anda buat untuk pelajar. Anda juga boleh memberikan tugasan baharu kepada pelajar. Perlukan bantuan lagi? <a href=\"https://scratch.st/zncr3D\" target=\"_blank\">Sertai Kumpulan Facebook kami</a>",
+        "listCompleted": "SELESAI",
+        "listDue": "TARIKH TUTUP",
+        "listOptions": "PILIHAN",
+        "listStatus": "STATUS",
+        "listTitle": "TAJUK",
+        "title": "Tugasan",
+        "turnedIn": "Sudah diserahkan",
+        "unsubmitted": "Tidak diserahkan"
+      },
+      "assignmentSummary": {
+        "assigned": "Ditugaskan",
+        "listId": "ID",
+        "listTeamMembers": "ANGGOTA KUMPULAN",
+        "listTime": "MASA PENYERAHAN",
+        "listWorkLink": "PAUTAN KERJA",
+        "turnedIn": "Dipalingkan",
+        "unsubmit": "Tidak diserahkan"
+      },
+      "card": {
+        "operation": {
+          "delete": "Padam",
+          "edit": "Sunting",
+          "more": "Lagi"
+        },
+        "studentcount": "pelajar"
+      },
+      "courseCard": {
+        "addButton": "Tambah ke kelas",
+        "deleteButton": "Alih keluar dari kelas",
+        "menuTitle": "Tiada kelas",
+        "usedCount": "terpakai",
+        "viewButton": "Lihat"
+      },
+      "create": "Cipta kelas",
+      "createAssignment": {
+        "latePermitted": "Penyerahan lewat dibenarkan"
+      },
+      "createButton": "Batal",
+      "createName": "Nama kelas (Wajib)",
+      "createSubject": "Subject (Wajib)",
+      "deleteAssignment": {
+        "desc": "Tindakan ini tidak boleh dibuat asal dan tindakan ini akan dialih keluar daripada bilik darjah anda.",
+        "tips": "Adakah anda mahu memadamkan tugasan ini?"
+      },
+      "deleteClassroom": {
+        "desc": "Tindakan ini tidak boleh dibuat asal dan tindakan ini akan dialih keluar daripada bilik darjah anda.",
+        "tips": "Adakah anda mahu memadamkan bilik darjah ini?"
+      },
+      "deleteStudent": {
+        "desc": "Tindakan ini tidak boleh dibuat asal dan tindakan ini akan dialih keluar daripada bilik darjah anda.",
+        "tips": "Adakah anda mahu memadamkan pelajar ini?"
+      },
+      "reources": {
+        "title": "Sumber"
+      },
+      "student": {
+        "copyLInk": "SALIN PAUTAN",
+        "count": "Pelajar mengira",
+        "desc": "Senarai ini memaparkan pelajar dari semua kelas.",
+        "desc01": "Paparkan senarai pelajar kelas dan jemput pelajar baharu untuk menyertai kelas. Jika anda memerlukan cara lain untuk menjemput pelajar, sila sertai kami <a href=\"https://scratch.st/0FtQNz\" target=\"_blank\">Kumpulan Facebook</a> dan beritahu kami.",
+        "invite": "Jemput pelajar",
+        "inviteLink": "Pautan jemputan"
+      },
+      "studentList": {
+        "class": "KELAS",
+        "email": "EMAIL",
+        "name": "nama",
+        "options": "PILIHAN"
+      },
+      "updateAssignment": {
+        "title": "Kemas kini Tugasan"
+      },
+      "updateClass": {
+        "title": "Kemas kini Kelas"
+      }
+    },
+    "home": {
+      "addNewClasses": "Tambah kelas baharu",
+      "allClasses": "Semua kelas",
+      "classes": "Kelas",
+      "myClasses": "Kelas-kelas saya",
+      "settings": "tetapan",
+      "students": "Pelajar-pelajar"
+    }
+  }
+}

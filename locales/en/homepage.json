@@ -1,0 +1,191 @@
+{
+  "bio": {
+    "default": "Describe yourself..."
+  },
+  "joinedTime": "Joined xxx ago",
+  "joinTime": "Joined",
+  "multiplePage": {
+    "addPage": "Add Page",
+    "duplicate": "Duplicate",
+    "pageManagement": "Manage Pages",
+    "remove": "Remove",
+    "removeDialogDes": "This action can’t be undone and it will be removed from your account",
+    "removeDialogTitle": "Do you want to delete this page?",
+    "rename": "Rename",
+    "title": "Page"
+  },
+  "pageEdit": {
+    "bgColor": {
+      "tab": "Color"
+    },
+    "bgImage": {
+      "cancel": "Cancel and do not save",
+      "clear": "Empty",
+      "fill": {
+        "auto": "Auto",
+        "contain": "Contain",
+        "cover": "Cover"
+      },
+      "fillTitle": "Size",
+      "position": {
+        "centerBottom": "Center bottom",
+        "centerCenter": "Center center",
+        "centerTop": "Center top",
+        "leftBottom": "Left bottom",
+        "leftCenter": "Left center",
+        "leftTop": "Left top",
+        "rightBottom": "Right bottom",
+        "rightCenter": "Right center",
+        "rightTop": "Right top"
+      },
+      "positionTitle": "Position",
+      "repeat": {
+        "no-repeat": "No repeat",
+        "repeat": "Repeat",
+        "repeat-x": "Repeat only horizontally",
+        "repeat-y": "Repeat only vertically"
+      },
+      "repeatTitle": "Repeat",
+      "scroll": {
+        "fixed": "Fixed",
+        "scroll": "Scroll"
+      },
+      "scrollTitle": "Attachment",
+      "subtitle": "Style",
+      "tab": "Image",
+      "upload": "Upload",
+      "uploadChange": "Replace"
+    },
+    "bgTitle": "Background",
+    "edit": "Editing",
+    "theme": {
+      "title": "Pick the page template you love"
+    },
+    "editor": {
+      "editMenu": {
+        "addBelow": "Add below",
+        "Image": "Image",
+        "ImageDesc": "Insert an image",
+        "project": "Project",
+        "projectDesc": "Insert a project from recently played",
+        "projectList": "Project list",
+        "projectListDesc": "Insert a project list",
+        "titleOption": "Option",
+        "titleStyle": "Style",
+        "user": "User",
+        "userDesc": "Mention a User",
+        "website": "Link",
+        "websiteDesc": "Insert a web link",
+        "websiteTip": {
+          "desc": "This link will take you to another website. Are you sure you want to continue?",
+          "title": "HOLD UP"
+        }
+      },
+      "imageCardSize": {
+        "brief": "Brief",
+        "fullscreen": "Full-screen",
+        "minimal": "Minimal",
+        "normal": "Normal"
+      },
+      "imageInput": {
+        "inputBoxPlaceholder": "Image Title",
+        "placeholder": "Paste or drag to upload here"
+      },
+      "linkCardSize": {
+        "card": "Card",
+        "minimal": "Minimal"
+      },
+      "linkInput": {
+        "titleDefault": "Input title",
+        "URLDefault": "Input URL",
+        "URLerror": "URL is invalid"
+      },
+      "linkSafeTip": "The website is safe. You can trust it.",
+      "project": {
+        "cardDesc": "Add Project",
+        "invalid": "Invalid project",
+        "searchInputText": "Input project name"
+      },
+      "projectCardSize": {
+        "fullScreen": "Full-screen",
+        "minimal": "Minimal",
+        "stageCard": "Stage",
+        "workCard": "Thumbnail"
+      },
+      "projectList": {
+        "repeatTip": "The project already exists"
+      },
+      "projectListCardSize": {
+        "four": "4 Items / Row",
+        "three": "3 Items / Row"
+      },
+      "useInfo": {
+        "editDialog": {
+          "photoDes": "Only .png, .jpg, .jpeg are allowed"
+        }
+      },
+      "user": {
+        "invalid": "Invalid user"
+      },
+      "userCardSize": {
+        "brief": "Brief",
+        "crosswise": "Crosswise",
+        "minimal": "Minimal",
+        "normal": "Normal",
+        "rich": "Rich"
+      }
+    }
+  },
+  "SEO_Edit": {
+    "homepage": {
+      "defaultDesc": "Come visit my brand new homepage and create with me!",
+      "defaultKeywords": "scratch mit homepage project game create"
+    },
+    "keywords": {
+      "label": "Keywords",
+      "desc": "Keywords can make it possible for people to find your page via search engines."
+    },
+    "projectPage": {
+      "defaultDesc": "Welcome to my game {projectName}!",
+      "defaultKeywords": "scratch mit project game create"
+    },
+    "title": "SEO Information",
+    "URL": {
+      "pathLengthError": "It should be 4-60 characters",
+      "pathTaken": "This URL is already used by another user.",
+      "pathTypeError": "URLs can contain letters, numbers, hyphens (-) and underscores (_)."
+    },
+    "username": {
+      "confirmText": "I understand that the username I claim CANNOT be changed",
+      "lengthError": "4-20 Characters",
+      "takenError": "This username is already taken.",
+      "title": "Claim a username for yourself",
+      "typeError": "Usernames can contain letters, numbers, hyphens (-) and underscores (_)."
+    }
+  },
+  "pageError": {
+    "accessRestrictions": {
+      "desc": "You don't have permission to access this page. Please sign up.",
+      "title": "Oh..You are not authorized! 🔐"
+    },
+    "authorized": {
+      "desc": "You don't have permission to access this page. Upgrade to Creator to unlock.",
+      "title": "You are not authorized! 🔐"
+    },
+    "launching": {
+      "desc": "Our website is opening soon.",
+      "title": "We are launching soon 🚀"
+    },
+    "notFound": {
+      "desc": "We can't find the page you're looking for",
+      "title": "Page Not Found ⚠️"
+    },
+    "nothing": {
+      "desc": "Nothing to show"
+    },
+    "serverError": {
+      "desc": "Oops, something went wrong!",
+      "title": "Internal server error 👨🏻‍💻"
+    }
+  }
+}

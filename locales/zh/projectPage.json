@@ -1,0 +1,79 @@
+{
+  "button": {
+    "like": {
+      "label": "点赞"
+    }
+  },
+  "description": {
+    "default": "这是你的项目描述。提供一个简短的总结，帮助玩家了解你的项目的故事和背景。单击文本框开始。",
+    "label": "描述"
+  },
+  "instructions": {
+    "default": "这是你的项目指导。提供简短的说明，以帮助玩家了解如何玩您的项目。单击文本框开始。",
+    "label": "操作说明"
+  },
+  "otherProjects": {
+    "emptyDesc": "暂无更多作品",
+    "title": "的作品"
+  },
+  "projectEditButton": "编辑作品",
+  "projectRemixButton": "改编",
+  "projectType": {
+    "original": "原创",
+    "originalTitle": "原创作品链接：",
+    "remixed": "改编",
+    "reposted": "转载"
+  },
+  "rating": {
+    "tip": "该内容可能包含暴力、暗示性主题、粗俗幽默、血腥以及其他不适合13岁以下用户的内容。"
+  },
+  "report": {
+    "desc": "举报内容将由官方或模组团队审核，如发现属实，将对作品进行评级或下架。",
+    "label": "举报",
+    "optional1": {
+      "content": "色情或成人内容；暴力、仇恨或歧视性语言；对他人的骚扰或威胁。",
+      "label": "不适当的内容"
+    },
+    "optional2": {
+      "content": "未经授权使用图像、音频、视频等侵犯他人知识产权的作品。",
+      "label": "版权侵权"
+    },
+    "optional3": {
+      "content": "作品中的信息是捏造的或具有误导性的，可能会误导其他用户。",
+      "label": "虚假信息"
+    },
+    "optional4": {
+      "content": "用于宣传产品、服务或链接到外部网站的作品；过多的重复内容，例如垃圾邮件。",
+      "label": "广告或垃圾邮件"
+    },
+    "optional5": {
+      "content": "泄露用户个人信息或侵犯用户隐私的作品；恶意泄露他人个人信息的作品。",
+      "label": "侵犯隐私"
+    },
+    "optional6": {
+      "label": "其他"
+    },
+    "title": "举报项目"
+  },
+  "stage": {
+    "cocreaText": "Cocrea",
+    "continue": "继续",
+    "fullScreen": "全屏",
+    "fullScreenQuit": "退出",
+    "like": "点赞",
+    "pause": "暂停",
+    "played": "试玩人数",
+    "restart": "重试",
+    "run": "运行",
+    "scratchText": "Scratch",
+    "share": "分享",
+    "total": "总数"
+  },
+  "teamTitle": "团队",
+  "versions": {
+    "changelogDefault": "这是您的更改日志。简短的更改日志可以帮助玩家了解此版本中更新了哪些新功能。单击文本框开始。",
+    "hideHistory": "隐藏",
+    "history": "历史版本",
+    "label": "版本"
+  }
+}

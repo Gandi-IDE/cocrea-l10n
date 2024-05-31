@@ -1,0 +1,44 @@
+{
+  "about": "关于我们",
+  "classroom": "教室",
+  "createButton": "创建作品",
+  "discord": "加入 Discord",
+  "docs": "教程文档",
+  "educators": "教育工作者",
+  "explore": "探索",
+  "facebook": "加入Facebook群组",
+  "home": "仪表盘",
+  "homepage": "个人主页",
+  "menu": {
+    "account": "账户设置",
+    "signout": "退出登录"
+  },
+  "projects": "我的作品",
+  "refer": "Naquagems",
+  "search": {
+    "placeholder": "请输入项目名称或创作者",
+    "resultTitle": "搜索结果",
+    "popularSearches": "热门搜索",
+    "seeMore": "查看更多>",
+    "tab": {
+      "all": "综合",
+      "creators": "创作者",
+      "projects": "作品"
+    }
+  },
+  "notification": {
+    "comment": " 评论了",
+    "creationCreated": "发布了新作品",
+    "creationUpdated": "更新了作品",
+    "follow": "关注了您",
+    "joinClass": "加入班级",
+    "like": "点赞了您的作品",
+    "likeButtonText": "点赞",
+    "loadMore": "加载更多",
+    "publishAssignment": "新发布的作业！",
+    "reply": "回复了您的评论",
+    "submitWork": "提交了作业",
+    "subscribedUserLike": "点赞了作品",
+    "title": "消息"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "collaboratorEditTip": "当前作品仅支持管理员修改",
+  "createButton": "创建作品",
+  "draftLabel": "草稿",
+  "editTime": "最近修改",
+  "filterTitleProperty": {
+    "label": "作品类型",
+    "normal": "普通"
+  },
+  "filterTitleStatus": "状态",
+  "importAllFromScratch": "导入我的所有作品",
+  "importScratch": "从 Scratch 官网导入",
+  "projectDeleteConfirmDescription": "删除后作品不可恢复，建议将作品设为“仅自己可见”",
+  "projectDeleteConfirmTitle": "确定删除这个作品吗？",
+  "projectFilterTypeAll": "全部",
+  "projectPrivateButton": "仅自己可见",
+  "projectPrivateConfirmDescription": "作品设为隐私后，其他玩家将无法看到该作品。",
+  "projectPrivateConfirmTitle": "确定此作品不再公开？",
+  "projectTypeDraft": "草稿",
+  "projectTypePrivate": "仅自己可见",
+  "projectTypePublished": "已发布",
+  "publishLabel": "已发布",
+  "publishTime": "最近发布",
+  "setPrivate": "设为仅自己可见",
+  "setPublic": "设为所有人可见",
+  "teamLabel": "团队协作"
+}

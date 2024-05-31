@@ -1,0 +1,47 @@
+{
+  "host": {
+    "acceleratedBy": "Acelerado por",
+    "archive": "Archivo",
+    "createBy": "Creado por",
+    "footer": {
+      "aboutGandi": "Acerca de Gandi",
+      "contactUs": "Contáctenos",
+      "copyright": "Cocrea.world · Desarrollado por Gandi",
+      "policy": "política de privacidad"
+    },
+    "instructionsTab": "Instrucciones",
+    "loadingSpeed": "Velocidad de carga",
+    "notesCredits": "Notas y créditos",
+    "Played": "Jugó",
+    "poweredBy": "Energizado por",
+    "publish": {
+      "advancedExtensionTip": "Esta extensión es incompatible con Scratch. Los proyectos realizados con él no se pueden cargar en el sitio web de Scratch. Puedes compartir el proyecto en Cocrea. Asegúrate antes de usarlo.",
+      "cocrea": {
+        "label": "Publicar en Cocrea"
+      },
+      "dialogCocreaAnswer1": "Cocrea es compatible con todas las Extensiones Gandi.",
+      "dialogCocreaAnswer2": "Los proyectos complejos se podían cargar y ejecutar muy rápido.",
+      "dialogCocreaAnswer3": "Puede personalizar las páginas de su propio proyecto de forma flexible.",
+      "dialogCocreaTitle": "¿Por qué publicar en Cocrea?",
+      "dialogScratchTitle": "¿Cómo publicar en Scratch?",
+      "dialogTitle": "Publicar proyecto",
+      "retainDialogDesc": "Cocrea es compatible con todas las Extensiones Gandi. Los proyectos complejos se pueden cargar y ejecutar muy rápido.",
+      "retainDialogLearnMore": "Ummmm... ¡Quiero aprender más!",
+      "retainDialogScratch": {
+        "goScratch": "Ir a Scratch",
+        "label": "El proyecto se ha guardado en su computadora."
+      },
+      "retainDialogTitle": "Intenta publicar en Cocrea",
+      "retainDialogTryButton": "¡Genial! Déjame probarlo.",
+      "scratch": {
+        "label": "Compartir en Scratch"
+      },
+      "warnDesc": "Este proyecto está creado con extensiones que son incompatibles con Scratch. No se puede cargar en el sitio web de Scratch.",
+      "warnTitle": "Advertencia",
+      "welcomeDialogTitle": "¡Bienvenido a Gandi IDE!"
+    },
+    "run": "Ejecutar",
+    "runningSpeed": "Velocidad de carrera",
+    "seeInside": "Ver Interior"
+  }
+}

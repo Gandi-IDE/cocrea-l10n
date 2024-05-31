@@ -1,0 +1,47 @@
+{
+  "host": {
+    "acceleratedBy": "Accelerated by",
+    "archive": "Archive",
+    "createBy": "Created by",
+    "footer": {
+      "aboutGandi": "About Gandi",
+      "contactUs": "Contact Us",
+      "copyright": "Cocrea.world · Powered by Gandi",
+      "policy": "Privacy Policy"
+    },
+    "instructionsTab": "Instructions",
+    "loadingSpeed": "Loading Speed",
+    "notesCredits": "Notes and Credits",
+    "Played": "Played",
+    "poweredBy": "Powered by",
+    "publish": {
+      "advancedExtensionTip": "This extension is incompatible with Scratch. Projects made with it cannot be uploaded to the Scratch website. You can share the project on Cocrea. Make sure before you use it.",
+      "cocrea": {
+        "label": "Publish on Cocrea"
+      },
+      "dialogCocreaAnswer1": "Cocrea is compatible with all Gandi Extensions.",
+      "dialogCocreaAnswer2": "Complex projects could be loaded and run really fast.",
+      "dialogCocreaAnswer3": "You can customize your own project pages flexibly.",
+      "dialogCocreaTitle": "Why publish to Cocrea?",
+      "dialogScratchTitle": "How to publish to Scratch?",
+      "dialogTitle": "Publish Project",
+      "retainDialogDesc": "Cocrea is compatible with all Gandi Extensions. Complex projects can be loaded and run really fast.",
+      "retainDialogLearnMore": "Ummmm, I want to learn more",
+      "retainDialogScratch": {
+        "goScratch": "Go to Scratch",
+        "label": "The project has been saved to your computer"
+      },
+      "retainDialogTitle": "Try to publish on Cocrea",
+      "retainDialogTryButton": "Cool! Let me try it",
+      "scratch": {
+        "label": "Share on Scratch"
+      },
+      "warnDesc": "This project is created with extensions that are incompatible with Scratch. It cannot be uploaded to the Scratch website.",
+      "warnTitle": "Warning",
+      "welcomeDialogTitle": "Welcome to Gandi IDE !"
+    },
+    "run": "Run",
+    "runningSpeed": "Running Speed",
+    "seeInside": "See Inside"
+  }
+}

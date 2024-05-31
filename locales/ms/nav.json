@@ -1,0 +1,43 @@
+{
+  "about": "Tentang kami",
+  "classroom": "Bilik Darjah",
+  "createButton": "Cipta",
+  "discord": "Sertai Discord",
+  "docs": "Belajar & Dokumen",
+  "educators": "Bagi pendidik",
+  "explore": "Teroka",
+  "home": "Papan pemuka",
+  "homepage": "Laman utama",
+  "menu": {
+    "account": "Tetapan Akaun",
+    "signout": "Log keluar"
+  },
+  "projects": "Projek",
+  "refer": "Naquagems",
+  "search": {
+    "placeholder": "Cari projek atau pencipta",
+    "resultTitle": "Hasil carian",
+    "popularSearches": "Carian Popular",
+    "seeMore": "Lihat lagi>",
+    "tab": {
+      "all": "Semua",
+      "creators": "Pencipta",
+      "projects": "Projek"
+    }
+  },
+  "notification": {
+    "comment": "mengulas di",
+    "creationCreated": "telah mengeluarkan projek baru",
+    "creationUpdated": "telah mengemas kini projek",
+    "follow": "kini melanggan anda",
+    "joinClass": "menyertai kelas",
+    "like": "menyukai projek anda",
+    "likeButtonText": "Suka",
+    "loadMore": "Tambah lagi",
+    "publishAssignment": "Tugasan baru!",
+    "reply": "membalas komen anda pada",
+    "submitWork": "menyerahkan kerja kelas",
+    "subscribedUserLike": "menyukai projek itu",
+    "title": "Mesej"
+  }
+}

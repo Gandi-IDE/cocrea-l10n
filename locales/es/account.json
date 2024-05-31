@@ -1,0 +1,112 @@
+{
+  "connect": {
+    "connect": "Conectar",
+    "connected": "Conectado",
+    "disconnect": "Desconectar",
+    "disconnectConfirm": "¿Estás seguro de que quieres desconectarte?",
+    "join": "¡Únase a nuestra Discord!",
+    "title": "SERVICIOS CONECTADOS"
+  },
+  "deleteRequest": {
+    "tips": "Tenga en cuenta que al eliminar la cuenta, será irreversible. Todos sus datos, incluida la información del perfil, los proyectos, etc., se eliminarán permanentemente del sistema si decide hacer esto. Esta acción no se puede deshacer. ",
+    "title": "BORRAR CUENTA"
+  },
+  "deleteRequestConfirm": {
+    "tips": "Su cuenta se eliminará permanentemente después de 30 días. Si cambia de opinión y desea conservar su cuenta, inicie sesión dentro de los 30 días para cancelar el proceso de eliminación. Una vez que hayan pasado los 30 días, su cuenta se eliminará permanentemente y no se podrá recuperar. recuperado. Asegúrese de hacer una copia de seguridad de todos los datos relevantes con antelación.",
+    "title": "¿Estás seguro de que deseas eliminar la cuenta?"
+  },
+  "deleteRequestRevert": {
+    "button": "REVERTIR",
+    "time": "Tiempo real de eliminación",
+    "tips": "Después de enviar la solicitud, aún puede acceder a Cocrea normalmente dentro de los 30 días y revocar la operación de eliminación en cualquier momento durante este período. Después de 30 días, se eliminará permanentemente.",
+    "title": "DESACTIVAR CUENTA"
+  },
+  "domain": {
+    "title": "DOMINIO",
+    "URLdesc": "El nombre de usuario se utiliza en la URL de su página."
+  },
+  "loginDetail": {
+    "changePassword": {
+      "desc": "Por favor ingrese su nueva contraseña",
+      "easyGuess": "Ingrese una contraseña de entre 6 y 20 caracteres, que contenga letras y números.",
+      "inputConfirmPlaceholder": "Confirmar nueva contraseña",
+      "inputPlaceholder": "Nueva contraseña",
+      "notSame": "Dos contraseñas no son iguales",
+      "title": "Actualiza contraseña",
+      "update": "Actualiza contraseña"
+    },
+    "newEmail": {
+      "confirmButton": "Enviar correo electrónico de confirmación",
+      "desc1": "Ingrese una nueva dirección de correo electrónico y le enviaremos un código de 4 dígitos para confirmar que le pertenece y mantener su cuenta segura.",
+      "desc2": "Su dirección de correo electrónico actual es {{email}}",
+      "inputPlaceholder": "Tu nuevo correo electrónico",
+      "title": "Actualización de la dirección de correo electrónico"
+    },
+    "title": "CONFIGURACIÓN DE INICIO DE SESIÓN",
+    "validationDialog": {
+      "desc": "Enviamos un código de 4 dígitos a {{email}}. Confirma que te pertenece para mantener tu cuenta segura.",
+      "title": "Validación de correo electrónico"
+    }
+  },
+  "other": {
+    "label": "OTRO",
+    "language": {
+      "label": "Idioma"
+    }
+  },
+  "profile": {
+    "birthday": "Cumpleaños",
+    "title": "PERFIL"
+  },
+  "welcomeCard": {
+    "desc": {
+      "answer1": "Jugador",
+      "answer2": "Creador de juegos/Scratcher",
+      "answer3": "Maestro",
+      "birthday": {
+        "tip": "Para la protección de los menores, la información de edad se utilizará para filtrar proyectos que no son adecuados para que jueguen niños menores de 13 años.",
+        "title": "¿Cuando es tu cumpleaños?"
+      },
+      "Question": "¿Cómo te describes?"
+    },
+    "Done": "¡Vamos!",
+    "hearUs": {
+      "option1": "YouTube",
+      "option2": "búsqueda de Google",
+      "option3": "Scratch.mit.edu",
+      "option4": "Amigo y familia",
+      "option5": "Maestro",
+      "option6": "Discordia",
+      "option7": "Rasca y gana Jam, Itch.io y Gamejolt",
+      "option8": "publicación en redes sociales",
+      "option9": "Otro",
+      "Question": "¿Cómo se enteró de nosotros?",
+      "title": "Seleccione uno"
+    },
+    "title": "¡Bienvenidos a Cocrea!"
+  },
+  "signIn": {
+    "dialog": {
+      "confirmButton": "Continuar",
+      "emailInputBox": "Correo electrónico",
+      "emailTypeError": "Email incorrecto.",
+      "otherSignIn": "O puedes iniciar sesión con",
+      "password": {
+        "back": "Iniciar sesión con correo electrónico",
+        "Error": "Nombre de usuario o contraseña incorrecta.",
+        "label": "Iniciar sesión con contraseña",
+        "usernameInput": "Nombre de usuario o correo electrónico"
+      },
+      "pricacy": "Al iniciar sesión, acepto",
+      "pricacyPolicy": "política de privacidad",
+      "title": "¡Bienvenidos a Cocrea!",
+      "verifyEmail": {
+        "codeError": "Su código era incorrecto. Inténtelo de nuevo.",
+        "des": "Acabamos de enviar un código de 4 dígitos a <email></email>. Por favor revisa tu bandeja de entrada.",
+        "resend": "Reenviar un código",
+        "resendTip": "¡Email enviado!"
+      },
+      "warn": "Se recomienda iniciar sesión; de lo contrario, se pueden perder los datos del proyecto."
+    }
+  }
+}

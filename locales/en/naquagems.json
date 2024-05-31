@@ -1,0 +1,41 @@
+{
+  "balance": {
+    "desc": "Balance of Naquagems",
+    "leaderboard": {
+      "clickDCUserTip": "The user is from Discord and has not registered for Cocrea."
+    },
+    "leaderboardTitle": "NG Leaderboard",
+    "whatNG": "What are Naquagems?"
+  },
+  "detail": {
+    "chart": {
+      "noData": "We couldn't find any data."
+    },
+    "chartTitle": "Chart",
+    "earnNG": "earned NG",
+    "form": {
+      "change": "CHANGE",
+      "date": "DATE",
+      "instruction": "INSTRUCTION"
+    },
+    "formTitle": "Form",
+    "LAST_1_DAY": "Yesterday",
+    "LAST_7_DAYS": "Last 7 days",
+    "LAST_30_DAYS": "Last 30 days",
+    "LAST_90_DAYS": "Last 90 days",
+    "selectDate": "Select date",
+    "title": "NG Details"
+  },
+  "earnNG": {
+    "desc": "You can earn NG by completing tasks, inviting friends to Cocrea, and participating in Game Jams!",
+    "taskBoard": {
+      "completed": "Completed",
+      "desc": "Description",
+      "remark": "Remark",
+      "reward": "Reward",
+      "time": "Time",
+      "title": "Task board"
+    },
+    "title": "How do I earn NG?"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "Subscribers": "Pelanggan",
+    "totalPlayed": "Jumlah pemain sepanjang masa",
+    "totalPlaytime": "Tempoh bermain sepanjang masa"
+  },
+  "guide": {
+    "task1Create": "Cipta dan terbitkan projek anda dengan Gandi IDE.",
+    "task2DesignProjectPage": "Ubah suai halaman project anda.",
+    "task3ProfileDomain": "Pilih nama domain bagi profil anda.",
+    "task4SharePage": "Kongsi projek atau profil anda dengan rakan-rakan.",
+    "task5DesignHomepage": "Ubah suai halaman utama anda.",
+    "title": "Bagaimana untuk bermula?"
+  },
+  "subscribe": {
+    "subscriptionsTab": "Langganan"
+  }
+}

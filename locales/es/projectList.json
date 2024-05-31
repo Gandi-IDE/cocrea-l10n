@@ -1,0 +1,28 @@
+{
+  "collaboratorEditTip": "Este proyecto sólo puede ser gestionado por el propietario.",
+  "createButton": "Nuevo proyecto",
+  "draftLabel": "BORRADOR",
+  "editTime": "Editado",
+  "filterTitleProperty": {
+    "label": "Tipo",
+    "normal": "Normal"
+  },
+  "filterTitleStatus": "Estado",
+  "importAllFromScratch": "Importar todos mis proyectos de Scratch",
+  "importScratch": "Importar desde cero",
+  "projectDeleteConfirmDescription": "Esta acción no se puede deshacer y se eliminará de tu cuenta.",
+  "projectDeleteConfirmTitle": "¿Quieres eliminar este proyecto?",
+  "projectFilterTypeAll": "Todo",
+  "projectPrivateButton": "Privado",
+  "projectPrivateConfirmDescription": "Sólo tú puedes ver y reproducir este proyecto cuando lo haces privado.",
+  "projectPrivateConfirmTitle": "¿Quieres que este proyecto sea privado?",
+  "projectTypeDraft": "Borrador",
+  "projectTypePrivate": "Privado",
+  "projectTypePublished": "Publicado",
+  "projectTypeTeamwork": "Trabajo en equipo",
+  "publishLabel": "PUBLICADO",
+  "publishTime": "Publicado",
+  "setPrivate": "Establecer en privado",
+  "setPublic": "Hacer público",
+  "teamLabel": "Trabajo en equipo"
+}

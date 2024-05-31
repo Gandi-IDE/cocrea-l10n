@@ -1,0 +1,47 @@
+{
+  "host": {
+    "acceleratedBy": "Dipercepatkan oleh",
+    "archive": "Arkib",
+    "createBy": "Dicipta oleh",
+    "footer": {
+      "aboutGandi": "Tentang Gandi IDE",
+      "contactUs": "Hubungi Kami",
+      "copyright": "Cocrea.world · Dikuasakan oleh Gandi IDE",
+      "policy": "Dasar Privasi"
+    },
+    "instructionsTab": "Arahan",
+    "loadingSpeed": "Kelajuan Memuatkan",
+    "notesCredits": "Nota dan Kredit",
+    "Played": "Dimainkan",
+    "poweredBy": "Dikuasai oleh",
+    "publish": {
+      "advancedExtensionTip": "Sambungan ini tidak serasi dengan Scratch. Projek yang dibuat dengannya tidak boleh dimuat naik ke tapak web Scratch. Anda boleh berkongsi projek di Cocrea. Pastikan sebelum anda menggunakannya.",
+      "cocrea": {
+        "label": "Terbitkan di Cocrea"
+      },
+      "dialogCocreaAnswer1": "Cocrea serasi dengan semua Ciri Tambahan Gandi IDE.",
+      "dialogCocreaAnswer2": "Projek kompleks boleh dimuatkan dan berjalan dengan sangat pantas.",
+      "dialogCocreaAnswer3": "Anda boleh menyesuaikan halaman projek anda sendiri secara fleksibel.",
+      "dialogCocreaTitle": "Mengapa menerbitkan kepada Cocrea?",
+      "dialogScratchTitle": "Bagaimana untuk menerbitkan ke Scratch?",
+      "dialogTitle": "Terbitkan Projek",
+      "retainDialogDesc": "Cocrea serasi dengan semua Ciri tambahan Gandi IDE. Projek kompleks boleh dimuatkan dan berjalan dengan sangat pantas.",
+      "retainDialogLearnMore": "Ummm, saya nak belajar lagi",
+      "retainDialogScratch": {
+        "goScratch": "Pergi ke Scratch",
+        "label": "Projek telah disimpan ke komputer anda"
+      },
+      "retainDialogTitle": "Cuba terbitkan di Cocrea",
+      "retainDialogTryButton": "Hebat! Biar saya cuba",
+      "scratch": {
+        "label": "Kongsi di Scratch"
+      },
+      "warnDesc": "Projek ini dibuat dengan Ciri Tambahan yang tidak serasi dengan Scratch. Ia tidak boleh dimuat naik ke Scratch.",
+      "warnTitle": "Amaran",
+      "welcomeDialogTitle": "Selamat datang ke Gandi IDE !"
+    },
+    "run": "Main",
+    "runningSpeed": "Kelajuan Larian",
+    "seeInside": "Lihat Di Dalam"
+  }
+}

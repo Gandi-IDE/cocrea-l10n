@@ -1,0 +1,144 @@
+{
+  "home": {
+    "className": "Nombre de la clase"
+  },
+  "student": {
+    "class": {
+      "classwork": {
+        "cancelButton": "Cancelar",
+        "desc": "Muestra todos tus proyectos, donde podrás enviar y consultar el estado de tus proyectos.",
+        "selectProject": "Selecciona tu proyecto",
+        "title": "Trabajo de clase",
+        "turnInButton": "Entregar"
+      },
+      "classworkList": {
+        "dueDate": "FECHA DE VENCIMIENTO",
+        "options": "OPCIONES",
+        "status": "ESTADO",
+        "submissionTime": "TIEMPO DE PRESENTACIÓN",
+        "title": "TÍTULO",
+        "workLink": "ENLACE DE TRABAJO"
+      },
+      "invitation": {
+        "joinButton": "UNIRSE",
+        "tips": "Te incorporarás al aula con cuenta corriente."
+      },
+      "materials": {
+        "title": "Materiales"
+      }
+    },
+    "projectDetail": {
+      "submitTitle": "Entrega tu proyecto a"
+    },
+    "turnIn": {
+      "card": {
+        "assignment": "Asignación",
+        "classroom": "Aula Cocrea",
+        "classroomList": "Mis aulas",
+        "title": "Entregue su proyecto a:"
+      },
+      "form": {
+        "myWork": "Mi trabajo",
+        "title": "Entrega tu trabajo"
+      }
+    }
+  },
+  "teacher": {
+    "class": {
+      "assignment": {
+        "addNew": "Crear nuevo",
+        "create": {
+          "dueDate": "Fecha de vencimiento",
+          "instruction": "instrucciones",
+          "name": "Crear tarea",
+          "title": "Crear título"
+        },
+        "desc": "Esto muestra una lista de todas las tareas que ha creado para los estudiantes. También puede asignar nuevas tareas a los estudiantes. Necesitas más ayuda? <a href=\"https://scratch.st/zncr3D\" target=\"_blank\">Únete a nuestro grupo de Facebook</a>",
+        "listCompleted": "TERMINADO",
+        "listDue": "FECHA DE VENCIMIENTO",
+        "listOptions": "OPCIONES",
+        "listStatus": "ESTADO",
+        "listTitle": "TÍTULO",
+        "title": "Asignaciones",
+        "turnedIn": "Convertido en",
+        "unsubmitted": "No enviado"
+      },
+      "assignmentSummary": {
+        "assigned": "Asignado",
+        "listId": "IDENTIFICACIÓN",
+        "listTeamMembers": "MIEMBROS DEL EQUIPO",
+        "listTime": "TIEMPO DE PRESENTACIÓN",
+        "listWorkLink": "ENLACE DE TRABAJO",
+        "turnedIn": "Convertido en",
+        "unsubmit": "No enviado"
+      },
+      "card": {
+        "operation": {
+          "delete": "Borrar",
+          "edit": "Editar",
+          "more": "Más"
+        },
+        "studentcount": "estudiantes"
+      },
+      "courseCard": {
+        "addButton": "Añadir a clase",
+        "deleteButton": "quitar de clase",
+        "menuTitle": "No hay clases",
+        "usedCount": "Usado",
+        "viewButton": "Vista"
+      },
+      "create": {
+        "title": "crear clase"
+      },
+      "createAssignment": {
+        "latePermitted": "Se permite la presentación tardía"
+      },
+      "createButton": "Cancelar",
+      "createName": "Nombre de clase (obligatorio)",
+      "createSubject": "Sujeto (requerido)",
+      "deleteAssignment": {
+        "desc": "Esta acción no se puede deshacer y se eliminará de su salón de clases.",
+        "tips": "¿Quieres eliminar esta tarea?"
+      },
+      "deleteClassroom": {
+        "desc": "Esta acción no se puede deshacer y se eliminará de su salón de clases.",
+        "tips": "¿Quieres eliminar esta clase?"
+      },
+      "deleteStudent": {
+        "desc": "Esta acción no se puede deshacer y se eliminará de su salón de clases.",
+        "tips": "¿Quieres eliminar a este estudiante?"
+      },
+      "reources": {
+        "title": "Recursos"
+      },
+      "student": {
+        "copyLInk": "COPIAR LINK",
+        "count": "los estudiantes cuentan",
+        "desc": "Esta lista muestra los estudiantes de todas las clases.",
+        "desc01": "Muestre la lista de estudiantes de la clase e invite a nuevos estudiantes a unirse a la clase. Si necesita otras formas de invitar estudiantes, únase a nuestro <a href=\"https://scratch.st/0FtQNz\" target=\"_blank\">grupo de facebook</a> y cuéntanos.",
+        "invite": "Invitar a los estudiantes",
+        "inviteLink": "Enlace de invitación"
+      },
+      "studentList": {
+        "class": "CLASE",
+        "email": "CORREO ELECTRÓNICO",
+        "name": "nombre",
+        "options": "OPCIONES"
+      },
+      "updateAssignment": {
+        "title": "Actualizar tarea"
+      },
+      "updateClass": {
+        "title": "Actualizar clase"
+      }
+    },
+    "home": {
+      "addNewClasses": "Agregar nueva clase",
+      "allClasses": "Todas las clases",
+      "classes": "Clases",
+      "myClasses": "Mis clases",
+      "settings": "Ajustes",
+      "students": "Estudiantes"
+    }
+  }
+}

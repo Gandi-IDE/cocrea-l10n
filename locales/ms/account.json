@@ -1,0 +1,102 @@
+{
+  "connect": {
+    "connect": "Sambung",
+    "connected": "Bersambung",
+    "disconnect": "Putuskan",
+    "disconnectConfirm": "Adakah anda pasti mahu memutuskan sambungan?",
+    "join": "Sertai Discord kami!",
+    "title": "PERKHIDMATAN BERSAMBUNG"
+  },
+  "deleteRequest": {
+    "tips": "Sila ambil perhatian bahawa pemadaman akaun anda tidak boleh diterbalikkan. Setelah akaun dipadamkan, semua data-data anda, termasuk maklumat-maklumat profil dan projek akan dipadam secara KEKAL daripada sistem kami.",
+    "title": "PADAM AKAUN"
+  },
+  "deleteRequestConfirm": {
+    "tips": "Akaun anda akan dipadamkan secara kekal selepas 30 hari. Jika anda berubah fikiran dan ingin mengekalkan akaun anda, sila log masuk dalam masa 30 hari untuk membatalkan proses pemadaman. Setelah 30 hari berlalu, akaun anda akan dipadamkan secara kekal dan tidak boleh dipulihkan. Sila pastikan anda membuat sandaran sebarang data yang berkaitan terlebih dahulu.",
+    "title": "Adakah anda pasti mahu memadamkan akaun?"
+  },
+  "deleteRequestRevert": {
+    "button": "KEMBALIKAN",
+    "time": "Masa pemadaman sebenar",
+    "tips": "Selepas menyerahkan permohonan, anda masih boleh mengakses Cocrea seperti biasa dalam masa 30 hari dan membatalkan operasi pemadaman pada bila-bila masa dalam tempoh ini. Selepas 30 hari, ia akan dipadamkan secara kekal.",
+    "title": "NYAHAKTIFKAN AKAUN"
+  },
+  "domain": {
+    "title": "DOMAIN",
+    "URLdesc": "Nama pengguna yang digunakan pada URL halaman anda"
+  },
+  "loginDetail": {
+    "changePassword": {
+      "desc": "Sila masukkan kata laluan baharu anda",
+      "easyGuess": "Sila masukkan kata laluan yang diantara 6-20 aksara serta mengandungi kedua-dua huruf dan nombor.",
+      "inputConfirmPlaceholder": "Sahkan kata laluan baharu",
+      "inputPlaceholder": "Kata laluan baharu",
+      "notSame": "Kedua-dua kata laluan tidak sama",
+      "title": "Kemas kini kata laluan",
+      "update": "Kemas kini Kata Laluan"
+    },
+    "newEmail": {
+      "confirmButton": "Hantar E-mel Pengesahan",
+      "desc1": "Masukkan alamat e-mel baharu dan kami akan menghantar kod 4 digit kepada anda untuk mengesahkan ia milik anda dan memastikan akaun anda selamat.",
+      "desc2": "Alamat e-mel anda sekarang ialah {{email}}",
+      "inputPlaceholder": "e-mel baharu anda",
+      "title": "Kemas kini alamat e-mel"
+    },
+    "title": "TETAPAN LOG MASUK",
+    "validationDialog": {
+      "desc": "Kami telah menghantar kod 4 digit ke {{email}}. Sahkan ia milik anda untuk memastikan akaun anda selamat.",
+      "title": "Pengesahan E-mel"
+    }
+  },
+  "profile": {
+    "birthday": "Hari jadi",
+    "title": "PROFIL"
+  },
+  "welcomeCard": {
+    "desc": {
+      "answer1": "Pemain",
+      "answer2": "Pencipta/Scratcher",
+      "answer3": "Cikgu",
+      "Question": "Bagaimana anda menggambarkan diri anda?"
+    },
+    "Done": "Mari pergi!",
+    "hearUs": {
+      "option1": "Youtube",
+      "option2": "carian Google",
+      "option3": "Scratch.mit.edu",
+      "option4": "Rakan & Keluarga",
+      "option5": "cikgu",
+      "option6": "Perselisihan",
+      "option7": "Scratch game jam & Itch.io & Gamejolt",
+      "option8": "Siaran media sosial",
+      "option9": "Lain-lain",
+      "Question": "Bagaimana anda mendengar tentang kami?",
+      "title": "Pilih satu"
+    },
+    "title": "Selamat datang ke Cocrea!"
+  },
+  "signIn": {
+    "dialog": {
+      "confirmButton": "teruskan",
+      "emailInputBox": "E-mel",
+      "emailTypeError": "E-mel salah.",
+      "otherSignIn": "Atau anda boleh log masuk dengan",
+      "password": {
+        "back": "Log masuk dengan E-mel",
+        "Error": "Nama pengguna atau kata laluan salah.",
+        "label": "Log masuk dengan kata laluan",
+        "usernameInput": "Nama pengguna atau e-mel"
+      },
+      "pricacy": "Dengan melog masuk, saya bersetuju untuk",
+      "pricacyPolicy": "Dasar Privasi",
+      "title": "Selamat datang ke Cocrea!",
+      "verifyEmail": {
+        "codeError": "Kod anda salah. Sila cuba lagi.",
+        "des": "Kami baru sahaja menghantar kod 4 digit ke <email></email>. Sila semak peti masuk anda.",
+        "resend": "Hantar semula kod",
+        "resendTip": "Emel dihantar!"
+      },
+      "warn": "Anda digalakkan untuk log masuk, jika tidak, data projek mungkin hilang."
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "about": "Sobre nosotros",
+  "classroom": "Aula",
+  "createButton": "Crear",
+  "discord": "Únete a la discordia",
+  "docs": "Información y documentos",
+  "educators": "Para educadores",
+  "explore": "Explorar",
+  "facebook": "Únete al grupo de Facebook",
+  "home": "Panel",
+  "homepage": "Página principal",
+  "menu": {
+    "account": "Configuraciones de la cuenta",
+    "signout": "desconectar"
+  },
+  "projects": "Proyectos",
+  "refer": "Naquagemas",
+  "search": {
+    "placeholder": "Buscar proyectos o creadores",
+    "resultTitle": "Resultados de la búsqueda",
+    "popularSearches": "Búsquedas populares",
+    "seeMore": "Ver más>",
+    "tab": {
+      "all": "Todo",
+      "creators": "Creadores",
+      "projects": "Proyectos"
+    }
+  },
+  "notification": {
+    "comment": "comentado",
+    "creationCreated": "ha lanzado un nuevo proyecto",
+    "creationUpdated": "ha actualizado el proyecto",
+    "follow": "ahora está suscrito a ti",
+    "joinClass": "se unió a la clase",
+    "like": "Me gustó tu proyecto",
+    "likeButtonText": "Como",
+    "loadMore": "Carga más",
+    "publishAssignment": "¡Nueva tarea!",
+    "reply": "respondió a tu comentario en",
+    "submitWork": "envió el trabajo de clase",
+    "subscribedUserLike": "le gustó el proyecto",
+    "title": "Mensajes"
+  }
+}

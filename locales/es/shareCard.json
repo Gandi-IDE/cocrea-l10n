@@ -1,0 +1,33 @@
+{
+  "Email": "Correo electrónico",
+  "emailInvite": {
+    "desc": "Te enviaremos un correo electrónico para invitar a tus amigos a jugar tu creación.",
+    "title": "Invita a tus amigos a jugar"
+  },
+  "Embed": "Empotrar",
+  "embed": {
+    "copyButton": "Copiar código",
+    "customizeCodeHide": "Ocultar título y creador",
+    "customizeCodeHideCreator": "Ocultar creador",
+    "customizeCodeMiniCard": "Mini tarjeta",
+    "customizeCodeStageCard": "Tarjeta de escenario",
+    "customizeCodeTitle": "Personaliza tu código:",
+    "downloadHtml": "Descargar archivo HTML",
+    "embedCode": "Código de inserción:",
+    "preview": "Avance:"
+  },
+  "Facebook": "Facebook",
+  "Link": "Enlace",
+  "referralLink": {
+    "desc": "También puedes copiarlo y compartirlo en tus redes sociales. 🚀",
+    "Title": "Comparte el enlace"
+  },
+  "referralProgram": "Consulte nuestro programa de referencias",
+  "Scratch": "Rascar",
+  "socialCard": {
+    "referDesc": "Ven a visitar mi nueva página de inicio y crea conmigo.",
+    "referTitle": "{{nombre de usuario}}'Inicio"
+  },
+  "title": "Comparte {{projectName}} con amigos",
+  "Twitter": "Gorjeo"
+}

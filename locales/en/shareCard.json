@@ -1,0 +1,34 @@
+{
+  "earnCopywriting": "You will earn 1 CWC when your friend sign up",
+  "Email": "Email",
+  "emailInvite": {
+    "desc": "We will send an email to invite your friends to play your creation",
+    "title": "Invite friends to play"
+  },
+  "Embed": "Embed",
+  "embed": {
+    "copyButton": "Copy Code",
+    "customizeCodeHide": "Hide title and creator",
+    "customizeCodeHideCreator": "Hide Creator",
+    "customizeCodeMiniCard": "Mini Card",
+    "customizeCodeStageCard": "Stage Card",
+    "customizeCodeTitle": "Customize your code:",
+    "downloadHtml": "Download HTML file",
+    "embedCode": "Embed Code:",
+    "preview": "Preview:"
+  },
+  "Facebook": "Facebook",
+  "Link": "Link",
+  "referralLink": {
+    "desc": "You can also copy and share it on your social media. 🚀",
+    "Title": "Share the link"
+  },
+  "referralProgram": "Check out our referral program",
+  "Scratch": "Scratch",
+  "socialCard": {
+    "referDesc": "Come to visit my brand new homepage and create with me.",
+    "referTitle": "{{username}}’Home"
+  },
+  "title": "Share {{projectName}} with friends",
+  "Twitter": "Twitter"
+}

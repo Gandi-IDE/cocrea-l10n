@@ -1,0 +1,119 @@
+{
+  "gandi": {
+    "achievement": {
+      "createFirst ": "No achievement found",
+      "saveFirst": "You need to save the project before using achievements!"
+    },
+    "AddtoInbox": "Put it into backpack",
+    "AllowEditing": "Allow Editing",
+    "announcemen": {
+      "changelog": "Changelog",
+      "title": "Announcement"
+    },
+    "AssetsStore": "Assets Store",
+    "CloudStorage": "Cloud Storage",
+    "CollaborationInvitationLink": "Invite collaborators",
+    "Collaborators": "Collaborators",
+    "CopyLink": "Copy Link",
+    "Edit": "Edit",
+    "Extension": "Extension",
+    "ExtensionAdded": "Installed",
+    "extensionPath": {
+      "create": "Create New Track",
+      "drawPathTip": "Please draw the Track first",
+      "duration": "Duration",
+      "editPath": "Edit Track",
+      "mark": "Mark",
+      "path": "Track",
+      "pathName": "Track Name",
+      "redraw": "Redraw",
+      "selectPath": "Select Track",
+      "splitPath": "Split Track"
+    },
+    "ExtensionRecommand": "Recommand",
+    "leaderboard": {
+      "createFirst": "Click the [🏆] icon in the left menu to create the leaderboard"
+    },
+    "myBlockCreate": {
+      "%tip": "Using % as a name is not supported."
+    },
+    "NoMembersYet": "No Members Yet",
+    "Notification": "Notification",
+    "NotLoginTips": "Welcome to Gandi! You can experience the full range of features by creating or logging into your account.",
+    "ObserverInvitationLink": "Invite observers",
+    "Observers": "Observers",
+    "ObserversCanOnlyViewCodeAndRunProgram": "Observers can only view code and run the program, they cannot modify the project.",
+    "Offline": "Offline",
+    "OnlyCollaboratorsCanUploadProjectsLocally": "Only collaborators can upload projects locally",
+    "OperationFailed": "Operation Failed",
+    "OperationSucceeded": "Operation Succeeded",
+    "publish": {
+      "dialog": {
+        "rating": {
+          "optional1": {
+            "content": "the work does not contain any inappropriate content.",
+            "label": "For everyone"
+          },
+          "optional2": {
+            "content": "the work is suitable for ages 13 and above. (Please select this rating if the work contains any violence, bloodshed, crude humor, gambling, etc.)",
+            "label": "Not for everyone"
+          },
+          "title": "Please select the appropriate age rating for your project."
+        }
+      },
+      "verification": {
+        "extension": "After publishing a custom extension, it may cause the program to fail to run, so it only supports local debugging and cannot be published"
+      }
+    },
+    "PublishProject": "Publish",
+    "Reload": "Reload",
+    "ResetLinkConfirmation": "Reset Link Confirmation",
+    "ResetLinkConfirmationText": "After the link is reset, the previous links will be invalid. Please proceed with caution. Confirm reset?",
+    "SaveProject": "Save",
+    "TeamMembers": "Team Members:",
+    "TeamMembersEmpty": "Team Members Empty",
+    "teamwork": {
+      "dialog": {
+        "collaborationAnomaly": "Collaboration anomaly, something went wrong.",
+        "dataRetrievalFailed": "Project data retrieval failed. Please refresh the page and try again",
+        "errorReport": "Oops, something went wrong while collaborating. Our engineers have been notified of the issue. To avoid data loss, we suggest saving your work and refreshing the page to try it again.",
+        "refreshButton": "Refresh",
+        "restored": "The project owner has restored the project to a previous version.",
+        "restoring": "The project owner is resetting the project. Please wait...",
+        "saveToComputer": "Save to your computer"
+      },
+      "errorTip": "Only the project owner can upload local projects.",
+      "replaceSuccess": "Project replaced successfully!",
+      "resetLinkTip": "The link has been reset."
+    },
+    "Teamwork": {
+      "loadFail": "Load project failed, please refresh the page and try again.",
+      "replaceTip": "Only project owner can replace the project"
+    },
+    "TeamworkDescription": "Invite your friends, teammates, and colleagues right into your project and develop it together.",
+    "TeamworkInviteButoon": "Invite",
+    "TeamworkInviteButton": "Invite",
+    "TeamworkJoinErrorExpiredDescription": "Contact the project owner to obtain a new invitation link.",
+    "TeamworkJoinErrorFullDescription": "The collaboration team is already full. Please try again later.",
+    "TeamworkJoinErrorTitle": "Joining collaboration failed!",
+    "TeamworkJoinToast": "{{name}} joined collaboration",
+    "TeamworkLeaveConfirmation": "Are you sure you want to leave the collaboration?",
+    "TeamworkLeaveToast": "{{name}} has left the collaboration",
+    "TeamworkManageTeamCopied": "Copied",
+    "TeamworkManageTeamCopyLink": "Copy invitation link",
+    "TeamworkManageTeamLeave": "Leave",
+    "TeamworkManageTeamMembers": "members",
+    "TeamworkManageTeamMembersFull": "full",
+    "TeamworkManageTeamOwner": "Owner",
+    "TeamworkManageTeamRemove": "Remove",
+    "TeamworkManageTeamRemoveConfirmation": "Do you confirm to remove {{name}} from collaboration?",
+    "TeamworkManageTeamRemoved": "You have been removed from the collaboration by the project owner.",
+    "TeamworkManageTeamResetCopyLink": "Reset Link",
+    "TeamworkManageTeamTitle": "Team",
+    "TeamworkManageTeamTransfer": "Transfer ownership",
+    "TeamworkNetworkOffline": "The network reconnected successfully!",
+    "TeamworkNetworkOnline": "Network connection failed!",
+    "ViewOnly": "View Only",
+    "You": "You"
+  }
+}

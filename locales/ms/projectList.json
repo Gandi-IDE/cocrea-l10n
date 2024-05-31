@@ -1,0 +1,28 @@
+{
+  "collaboratorEditTip": "Projek ini hanya boleh diuruskan oleh pemilik.",
+  "createButton": "Projek baru",
+  "draftLabel": "DRAF",
+  "editTime": "disunting",
+  "filterTitleProperty": {
+    "label": "Jenis",
+    "normal": "Yang biasa"
+  },
+  "filterTitleStatus": "Status",
+  "importAllFromScratch": "Import semua projek Scratch saya",
+  "importScratch": "Import dari Scratch",
+  "projectDeleteConfirmDescription": "Tindakan ini tidak boleh dibuat asal dan tindakan ini akan dialih keluar daripada akaun anda",
+  "projectDeleteConfirmTitle": "Adakah anda mahu memadamkan projek ini?",
+  "projectFilterTypeAll": "Semua",
+  "projectPrivateButton": "Persendirian",
+  "projectPrivateConfirmDescription": "Hanya anda yang boleh melihat dan memainkan projek ini apabila anda menjadikannya peribadi.",
+  "projectPrivateConfirmTitle": "Adakah anda mahu menjadikan projek ini peribadi?",
+  "projectTypeDraft": "Draf",
+  "projectTypePrivate": "Persendirian",
+  "projectTypePublished": "Diterbitkan",
+  "projectTypeTeamwork": "Kerja berpasukan",
+  "publishLabel": "DITERBITKAN",
+  "publishTime": "Diterbitkan",
+  "setPrivate": "Tetapkan kepada peribadi",
+  "setPublic": "Buat Umum",
+  "teamLabel": "Kerja berpasukan"
+}

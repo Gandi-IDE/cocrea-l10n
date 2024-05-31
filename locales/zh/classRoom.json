@@ -1,0 +1,144 @@
+{
+  "home": {
+    "className": "班级名称"
+  },
+  "student": {
+    "class": {
+      "classwork": {
+        "cancelButton": "取消",
+        "desc": "这里展示了你提交的所有作业以及查看作业状态",
+        "selectProject": "选择作品",
+        "title": "作业",
+        "turnInButton": "提交"
+      },
+      "classworkList": {
+        "dueDate": "到期日",
+        "options": "操作",
+        "status": "状态",
+        "submissionTime": "提交时间",
+        "title": "标题",
+        "workLink": "作业链接"
+      },
+      "invitation": {
+        "joinButton": "加入",
+        "tips": "您将使用当前帐户加入课堂。"
+      },
+      "materials": {
+        "title": "材料"
+      }
+    },
+    "projectDetail": {
+      "submitTitle": "提交作品到班级"
+    },
+    "turnIn": {
+      "card": {
+        "assignment": "任务",
+        "classroom": "Cocrea 教室",
+        "classroomList": "我的教室",
+        "title": "将您的项目上交至："
+      },
+      "form": {
+        "myWork": "我的工作",
+        "title": "提交你的作业"
+      }
+    }
+  },
+  "teacher": {
+    "class": {
+      "assignment": {
+        "addNew": "创建新的",
+        "create": {
+          "dueDate": "截止日期",
+          "instruction": "简介",
+          "name": "创建作业",
+          "title": "创建标题"
+        },
+        "desc": "这将显示您为学生创建的所有作业的列表。您还可以给学生分配新作业。需要更多帮助吗？ <a href=\"https://scratch.st/zncr3D\" target=\"_blank\">加入我们的 Facebook 群组</a>",
+        "listCompleted": "已完成",
+        "listDue": "到期日",
+        "listOptions": "选项",
+        "listStatus": "状态",
+        "listTitle": "标题",
+        "title": "作业",
+        "turnedIn": "已提交",
+        "unsubmitted": "未提交"
+      },
+      "assignmentSummary": {
+        "assigned": "已分配",
+        "listId": "ID",
+        "listTeamMembers": "团队成员",
+        "listTime": "提交时间",
+        "listWorkLink": "工作链接",
+        "turnedIn": "已上交",
+        "unsubmit": "未提交"
+      },
+      "card": {
+        "operation": {
+          "delete": "删除",
+          "edit": "编辑",
+          "more": "更多"
+        },
+        "studentcount": "学生"
+      },
+      "courseCard": {
+        "addButton": "添加到班级",
+        "deleteButton": "从班级中移除",
+        "menuTitle": "没有班级",
+        "usedCount": "次使用",
+        "viewButton": "查看"
+      },
+      "create": {
+        "title": "创建班级"
+      },
+      "createAssignment": {
+        "latePermitted": "允许延迟提交"
+      },
+      "createButton": "取消",
+      "createName": "班级名称（必填）",
+      "createSubject": "学科（必填）",
+      "deleteAssignment": {
+        "desc": "此操作无法撤消，并且将从您的教室中删除。",
+        "tips": "您想删除该作业吗？"
+      },
+      "deleteClassroom": {
+        "desc": "此操作无法撤消，并且将从您的教室中删除。",
+        "tips": "您想删除该教室吗？"
+      },
+      "deleteStudent": {
+        "desc": "此操作无法撤消，并且将从您的教室中删除。",
+        "tips": "您想删除该学生吗？"
+      },
+      "reources": {
+        "title": "资源"
+      },
+      "student": {
+        "copyLInk": "复制链接",
+        "count": "学生总数",
+        "desc": "该列表显示所有班级的学生。",
+        "desc01": "显示班级学生名单并邀请新学生加入班级。如果您需要其他方式邀请学生，请加入我们的 <a href=\"https://scratch.st/0FtQNz\" target=\"_blank\">脸书群组</a> 并告诉我们。",
+        "invite": "邀请学生",
+        "inviteLink": "邀请链接"
+      },
+      "studentList": {
+        "class": "班级",
+        "email": "邮件",
+        "name": "姓名",
+        "options": "操作"
+      },
+      "updateAssignment": {
+        "title": "更新作业"
+      },
+      "updateClass": {
+        "title": "更新班级"
+      }
+    },
+    "home": {
+      "addNewClasses": "添加新班级",
+      "allClasses": "所有班级",
+      "classes": "班级",
+      "myClasses": "我的班级",
+      "settings": "设置",
+      "students": "学生"
+    }
+  }
+}

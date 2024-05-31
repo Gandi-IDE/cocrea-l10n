@@ -1,0 +1,79 @@
+{
+  "button": {
+    "like": {
+      "label": "Like"
+    }
+  },
+  "description": {
+    "default": "This is your project description. Provide a brief summary to help players understand the story and background of your project. Click on the text box to start.",
+    "label": "Description"
+  },
+  "instructions": {
+    "default": "This is your project instruction. Provide a brief instruction to help players understand how to play your project. Click on the text box to start.",
+    "label": "Instructions"
+  },
+  "otherProjects": {
+    "emptyDesc": "No more projects",
+    "title": "Projects from"
+  },
+  "projectEditButton": "Edit Project",
+  "projectRemixButton": "Remix",
+  "projectType": {
+    "original": "ORIGINAL",
+    "originalTitle": "The original project link:",
+    "remixed": "REMIX",
+    "reposted": "REPOST"
+  },
+  "rating": {
+    "tip": "This content may contain violence, suggestive themes, crude humor, blood, and other material not suitable for users under 13 years old."
+  },
+  "report": {
+    "desc": "The reported content will be reviewed by the official or mod team, and if found to be true, the work will be rated or taken down.",
+    "label": "Report",
+    "optional1": {
+      "content": "Pornographic or adult content; Violent, hateful, or discriminatory language; Harassment or threats towards others.",
+      "label": "Inappropriate Content"
+    },
+    "optional2": {
+      "content": "Works that infringe upon someone else's intellectual property rights, such as unauthorized use of images, audio, videos, etc.",
+      "label": "Copyright Infringement"
+    },
+    "optional3": {
+      "content": "Information in the work that is fabricated or misleading and may mislead other users.",
+      "label": "False Information"
+    },
+    "optional4": {
+      "content": "Works used for promoting products, services, or linking to external websites.; Excessive repetitive content, such as spam messages.",
+      "label": "Advertising or Spam"
+    },
+    "optional5": {
+      "content": "Works that disclose users' personal information or violate their privacy.; Works that maliciously disclose the personal information of others.",
+      "label": "Privacy Violation"
+    },
+    "optional6": {
+      "label": "Other"
+    },
+    "title": "Report project"
+  },
+  "stage": {
+    "cocreaText": "Cocrea",
+    "continue": "continue",
+    "fullScreen": "Full screen",
+    "fullScreenQuit": "Quit",
+    "like": "Like",
+    "pause": "Pause",
+    "played": "Played",
+    "restart": "Restart",
+    "run": "Run",
+    "scratchText": "Scratch",
+    "share": "Share",
+    "total": "Total"
+  },
+  "teamTitle": "Team",
+  "versions": {
+    "changelogDefault": "This is your change log. A brief change log can help players understand what new features have been updated in this version. Click on the text box to start.",
+    "hideHistory": "Hide",
+    "history": "Versions history",
+    "label": "Versions"
+  }
+}

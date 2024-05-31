@@ -1,0 +1,30 @@
+{
+  "earnCopywriting": "当好友注册成功时您将获得 1 NG 奖励",
+  "Email": "邮箱",
+  "emailInvite": {
+    "desc": "你的作品看起来很棒！快点邀请朋友一起来试玩吧！",
+    "title": "邀请好友试玩"
+  },
+  "Embed": "嵌入",
+  "embed": {
+    "copyButton": "复制代码",
+    "customizeCodeHide": "隐藏标题和作者",
+    "customizeCodeHideCreator": "隐藏作者",
+    "customizeCodeMiniCard": "小卡片",
+    "customizeCodeStageCard": "舞台卡片",
+    "customizeCodeTitle": "自定义代码",
+    "downloadHtml": "下载 HTML 文件",
+    "embedCode": "嵌入代码：",
+    "preview": "预览："
+  },
+  "Facebook": "Facebook",
+  "Link": "链接",
+  "referralLink": {
+    "desc": "您可以将链接分享到您的社交媒体🚀",
+    "Title": "分享链接"
+  },
+  "referralProgram": "了解邀请政策",
+  "Scratch": "Scratch",
+  "title": "将{projectName}分享给还有",
+  "Twitter": "Twitter"
+}

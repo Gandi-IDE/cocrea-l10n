@@ -1,0 +1,123 @@
+{
+  "gandi": {
+    "achievement": {
+      "createFirst ": "No se encontró ningún logro",
+      "saveFirst": "¡Debes guardar el proyecto antes de usar los logros!"
+    },
+    "AddtoInbox": "ponlo en la mochila",
+    "AllowEditing": "Permitir edición",
+    "announcemen": {
+      "changelog": "Registro de cambios",
+      "title": "Anuncio"
+    },
+    "AssetsStore": "Tienda de activos",
+    "CloudStorage": "Almacenamiento en la nube",
+    "CollaborationInvitationLink": "Invitar colaboradores",
+    "Collaborators": "Colaboradores",
+    "CopyLink": "Copiar enlace",
+    "Edit": "Editar",
+    "Extension": "Extensión",
+    "ExtensionAdded": "Instalado",
+    "extensionPath": {
+      "create": "Crear nueva pista",
+      "drawPathTip": "Por favor dibuja la pista primero",
+      "duration": "Duración",
+      "editPath": "Editar pista",
+      "mark": "Marca",
+      "motionPath": "Pista de movimiento",
+      "path": "Pista",
+      "pathName": "Nombre de la pista",
+      "redraw": "Redibujar",
+      "selectPath": "Seleccionar pista",
+      "splitPath": "Pista dividida"
+    },
+    "ExtensionRecommand": "Recomendar",
+    "leaderboard": {
+      "createFirst": "Haga clic en el ícono [🏆] en el menú de la izquierda para crear la tabla de clasificación."
+    },
+    "myBlockCreate": {
+      "%tip": "No se admite el uso de % como nombre."
+    },
+    "NoMembersYet": "Aún no hay miembros",
+    "Notification": "Notificación",
+    "NotLoginTips": "¡Bienvenido a Gandi! Puede experimentar la gama completa de funciones creando o iniciando sesión en su cuenta.",
+    "ObserverInvitationLink": "Invitar observadores",
+    "Observers": "Observadores",
+    "ObserversCanOnlyViewCodeAndRunProgram": "Los observadores solo pueden ver el código y ejecutar el programa, no pueden modificar el proyecto.",
+    "Offline": "Desconectado",
+    "OnlyCollaboratorsCanUploadProjectsLocally": "Solo los colaboradores pueden cargar proyectos localmente",
+    "OperationFailed": "Operación fallida",
+    "OperationSucceeded": "Operación exitosa",
+    "publish": {
+      "dialog": {
+        "rating": {
+          "optional1": {
+            "content": "el trabajo no contiene ningún contenido inapropiado.",
+            "label": "Para todo el mundo"
+          },
+          "optional2": {
+            "content": "El trabajo es apto para mayores de 13 años. (Seleccione esta calificación si el trabajo contiene violencia, derramamiento de sangre, humor crudo, juegos de azar, etc.)",
+            "label": "No para todos"
+          },
+          "title": "Seleccione la clasificación de edad adecuada para su proyecto."
+        }
+      },
+      "verification": {
+        "extension": "Después de publicar una extensión personalizada, es posible que el programa no se ejecute, por lo que solo admite la depuración local y no se puede publicar."
+      }
+    },
+    "PublishProject": "Publicar",
+    "Reload": "Recargar",
+    "ResetLinkConfirmation": "Confirmación de restablecimiento del enlace",
+    "ResetLinkConfirmationText": "Después de que se restablezca el enlace, los enlaces anteriores no serán válidos. ¿Continuar con el restablecimiento?",
+    "SaveProject": "Ahorrar",
+    "TeamMembers": "Miembros del equipo:",
+    "TeamMembersEmpty": "Miembros del equipo vacíos",
+    "teamwork": {
+      "dialog": {
+        "collaborationAnomaly": "Anomalía de colaboración, algo salió mal.",
+        "dataRetrievalFailed": "Error al recuperar los datos del proyecto. Actualice la página e inténtelo de nuevo.",
+        "errorReport": "Vaya, algo salió mal mientras colaborabas. Nuestros ingenieros han sido notificados del problema. Para evitar la pérdida de datos, te sugerimos que guardes tu trabajo y actualices la página para intentarlo de nuevo.",
+        "exitTeamwork": "dejó el equipo",
+        "joinTeamwork": "se unió al equipo",
+        "refreshButton": "Actualizar",
+        "restored": "El propietario del proyecto ha restaurado el proyecto a una versión anterior.",
+        "restoring": "El propietario del proyecto está restableciendo el proyecto. Espere...",
+        "saveToComputer": "Guardar en tu computadora"
+      },
+      "errorTip": "Sólo el propietario del proyecto puede cargar proyectos locales.",
+      "replaceSuccess": "¡Proyecto reemplazado exitosamente!",
+      "resetLinkTip": "El enlace ha sido restablecido."
+    },
+    "Teamwork": {
+      "loadFail": "Error al cargar el proyecto. Actualice la página e inténtelo de nuevo.",
+      "replaceTip": "Sólo el propietario del proyecto puede reemplazar el proyecto."
+    },
+    "TeamworkButton": "Invitar",
+    "TeamworkDescription": "Invita a tus amigos, compañeros de equipo y colegas directamente a tu proyecto y desarrolladlo juntos.",
+    "TeamworkInviteButoon": "Invitar",
+    "TeamworkInviteButton": "Invitar",
+    "TeamworkJoinErrorExpiredDescription": "Póngase en contacto con el propietario del proyecto para obtener un nuevo enlace de invitación.",
+    "TeamworkJoinErrorFullDescription": "Actualmente, un proyecto de colaboración solo admite la participación de menos de 5 personas.",
+    "TeamworkJoinErrorTitle": "¡Error al unirse a la colaboración!",
+    "TeamworkJoinToast": "{nombre} se unió a la colaboración",
+    "TeamworkLeaveConfirmation": "¿Estás seguro de que quieres abandonar la colaboración?",
+    "TeamworkLeaveToast": "{name} ha abandonado la colaboración",
+    "TeamworkManageTeamCopied": "Copiado",
+    "TeamworkManageTeamCopyLink": "Copiar enlace de invitación",
+    "TeamworkManageTeamLeave": "Dejar",
+    "TeamworkManageTeamMembers": "miembros",
+    "TeamworkManageTeamMembersFull": "lleno",
+    "TeamworkManageTeamOwner": "Dueño",
+    "TeamworkManageTeamRemove": "Eliminar",
+    "TeamworkManageTeamRemoveConfirmation": "¿Confirma eliminar a {nombre} de la colaboración?",
+    "TeamworkManageTeamRemoved": "El propietario del proyecto lo ha eliminado de la colaboración.",
+    "TeamworkManageTeamResetCopyLink": "Restablecer enlace",
+    "TeamworkManageTeamTitle": "Equipo",
+    "TeamworkManageTeamTransfer": "Transferir propiedad",
+    "TeamworkNetworkOffline": "¡La red se volvió a conectar exitosamente!",
+    "TeamworkNetworkOnline": "¡La conexión de red falló!",
+    "ViewOnly": "Solo ver",
+    "You": "Tú"
+  }
+}

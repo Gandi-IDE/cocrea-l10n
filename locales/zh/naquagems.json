@@ -1,0 +1,46 @@
+{
+  "balance": {
+    "desc": "NG 余额",
+    "leaderboard": {
+      "clickDCUserTip": "该用户来自Discord，尚未注册Cocrea。"
+    },
+    "leaderboardTitle": "NG 排行榜",
+    "whatNG": "什么是 Naquagems?"
+  },
+  "detail": {
+    "chart": {
+      "noData": "暂无数据"
+    },
+    "chartTitle": "图表",
+    "earnNG": "获得NG",
+    "form": {
+      "change": "变更",
+      "date": "日期",
+      "instruction": "说明"
+    },
+    "formTitle": "表格",
+    "LAST_1_DAY": "昨天",
+    "LAST_7_DAYS": "近 7 天",
+    "LAST_30_DAYS": "近 30 天",
+    "LAST_90_DAYS": "近 90 天",
+    "selectDate": "选择时间",
+    "title": "Naquagems 详情"
+  },
+  "earnNG": {
+    "desc": "你可以通过完成任务或邀请好友注册 Cocrea 来获得 NG",
+    "taskBoard": {
+      "completed": "已完成",
+      "desc": "描述",
+      "remark": "备注",
+      "reward": "奖励",
+      "time": "时间",
+      "title": "任务板"
+    },
+    "title": "如何获取 NG ?"
+  },
+  "link": {
+    "desc": "复制邀请链接发送给您的好友",
+    "subtitle": "邀请可以制作游戏、动画、故事绘本的好友。当被邀请者注册成功后，您和您的好友都将获得奖励。",
+    "title": "邀请好友获取奖励"
+  }
+}

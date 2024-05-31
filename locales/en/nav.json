@@ -1,0 +1,44 @@
+{
+  "about": "About Us",
+  "classroom": "Classroom",
+  "createButton": "Create",
+  "discord": "Join the Discord",
+  "docs": "Learn & Docs",
+  "educators": "For Educators",
+  "explore": "Explore",
+  "facebook": "Join Facebook Group",
+  "home": "Dashboard",
+  "homepage": "Homepage",
+  "menu": {
+    "account": "Account Settings",
+    "signout": "Sign out"
+  },
+  "projects": "Projects",
+  "refer": "Naquagems",
+  "search": {
+    "placeholder": "Search for projects or creators",
+    "resultTitle": "Search Results",
+    "popularSearches": "Popular Searches",
+    "seeMore": "See more>",
+    "tab": {
+      "all": "All",
+      "creators": "Creators",
+      "projects": "Projects"
+    }
+  },
+  "notification": {
+    "comment": "commented on",
+    "creationCreated": "has released a new project",
+    "creationUpdated": "has updated the project",
+    "follow": "is subscribing to you",
+    "joinClass": "joined the class",
+    "like": "liked your project",
+    "likeButtonText": "Like",
+    "loadMore": "Load More",
+    "publishAssignment": "New assignment!",
+    "reply": "replied to your comment on",
+    "submitWork": "submitted the classwork",
+    "subscribedUserLike": "liked the project",
+    "title": "Messages"
+  }
+}

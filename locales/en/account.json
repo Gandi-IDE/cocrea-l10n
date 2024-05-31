@@ -1,0 +1,112 @@
+{
+  "connect": {
+    "connect": "Connect",
+    "connected": "Connected",
+    "disconnect": "Disconnect",
+    "disconnectConfirm": "Are you sure you want to disconnect?",
+    "join": "Join our Discord!",
+    "title": "CONNECTED SERVICES"
+  },
+  "deleteRequest": {
+    "tips": "Please note that deleting your account is irreversible. Once the account is deleted, all your data, including profile information and projects will be PERMANENTLY removed from out system.",
+    "title": "DELETE ACCOUNT"
+  },
+  "deleteRequestConfirm": {
+    "tips": "Your account will be permanently deleted after 30 days.\nIf you change your mind and want to keep your account, please log in within 30 days to cancel the deletion process. Once the 30 days has passed, your account will be permanently deleted and cannot be recovered. Please make sure to backup any relevant data in advance.",
+    "title": "Are you sure you want to delete the account?"
+  },
+  "deleteRequestRevert": {
+    "button": "REVERT",
+    "time": "Real deletion time",
+    "tips": "After submitting the application, you can still access Cocrea normally within 30 days and revoke the delete operation at any time during this period. After 30 days, it will be permanently deleted.",
+    "title": "DEACTIVATE ACCOUNT"
+  },
+  "domain": {
+    "title": "DOMAIN",
+    "URLdesc": "Username is used on your page URL"
+  },
+  "loginDetail": {
+    "changePassword": {
+      "desc": "Please input your new password",
+      "easyGuess": "Please enter a password between 6-20 characters, containing both letters and numbers.",
+      "inputConfirmPlaceholder": "Confirm new password",
+      "inputPlaceholder": "New password",
+      "notSame": "Two passwords are not same",
+      "title": "Update password",
+      "update": "Update Password"
+    },
+    "newEmail": {
+      "confirmButton": "Send Confirmation Email",
+      "desc1": "Enter a new email address and we'll send you a 4-digit code to confirm it belongs to you and keep your account secure.",
+      "desc2": "Your current email address is {{email}}",
+      "inputPlaceholder": "Your new email",
+      "title": "Update email address"
+    },
+    "title": "LOGIN SETTING",
+    "validationDialog": {
+      "desc": "We sent a 4-digit code to {{email}}. Confirm it belongs to you to keep your account secure.",
+      "title": "Email Validation"
+    }
+  },
+  "other": {
+    "label": "OTHER",
+    "language": {
+      "label": "Language"
+    }
+  },
+  "profile": {
+    "birthday": "Birthday",
+    "title": "PROFILE"
+  },
+  "welcomeCard": {
+    "desc": {
+      "answer1": "Player",
+      "answer2": "Game Creator/Scratcher",
+      "answer3": "Teacher",
+      "birthday": {
+        "tip": "For the protection of minors, age information will be used to filter out projects that are not suitable for children under the age of 13 to play.",
+        "title": "What is your birthday?"
+      },
+      "Question": "How would you describe yourself?"
+    },
+    "Done": "Let's go!",
+    "hearUs": {
+      "option1": "Youtube",
+      "option2": "Google search",
+      "option3": "Scratch.mit.edu",
+      "option4": "Friend & Family",
+      "option5": "Teacher",
+      "option6": "Discord",
+      "option7": "Scratch game jam & Itch.io & Gamejolt",
+      "option8": "Social media post ",
+      "option9": "Other",
+      "Question": "How did you hear about us?",
+      "title": "Select one"
+    },
+    "title": "Welcome to Cocrea! "
+  },
+  "signIn": {
+    "dialog": {
+      "confirmButton": "Continue",
+      "emailInputBox": "Email",
+      "emailTypeError": "Incorrect Email.",
+      "otherSignIn": "Or you can sign in with",
+      "password": {
+        "back": "Sign in with Email",
+        "Error": "Incorrect username or password.",
+        "label": "Sign in with password",
+        "usernameInput": "Username or Email"
+      },
+      "pricacy": "By signing in, I agree to",
+      "pricacyPolicy": "Privacy Policy",
+      "title": "Welcome to Cocrea! ",
+      "verifyEmail": {
+        "codeError": "Your code was incorrect. Please try again.",
+        "des": "We just sent a 4-digit code to <email></email>. Please check your inbox.",
+        "resend": "Resend a code",
+        "resendTip": "Email sent!"
+      },
+      "warn": "It is Recommended to log in, otherwise project data may be lost."
+    }
+  }
+}

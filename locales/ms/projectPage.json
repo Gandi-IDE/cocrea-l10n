@@ -1,0 +1,43 @@
+{
+  "description": {
+    "default": "Ini ialah penerangan projek anda. Sediakan ringkasan ringkas untuk membantu pemain memahami cerita dan latar belakang projek anda. Klik pada kotak teks untuk mula.",
+    "label": "Penerangan"
+  },
+  "instructions": {
+    "default": "Ini adalah arahan projek anda. Sediakan arahan ringkas untuk membantu pemain memahami cara bermain projek anda. Klik pada kotak teks untuk mula.",
+    "label": "Arahan"
+  },
+  "otherProjects": {
+    "emptyDesc": "Tiada lagi projek",
+    "title": "Projek daripada"
+  },
+  "projectEditButton": "Edit Projek",
+  "projectRemixButton": "Adun semula",
+  "projectType": {
+    "original": "ASLI",
+    "originalTitle": "Pautan projek asal:",
+    "remixed": "ADUNAN SEMULA",
+    "reposted": "DISIARKAN SEMULA"
+  },
+  "stage": {
+    "cocreaText": "Cocrea",
+    "continue": "teruskan",
+    "fullScreen": "Skrin penuh",
+    "fullScreenQuit": "Berhenti",
+    "like": "Suka",
+    "pause": "Berhenti sebentar",
+    "played": "Dimainkan",
+    "restart": "Mula semula",
+    "run": "Main",
+    "scratchText": "Scratch",
+    "share": "Kongsi",
+    "total": "Jumlah"
+  },
+  "teamTitle": "Pasukan",
+  "versions": {
+    "changelogDefault": "Ini ialah log perubahan anda. Log perubahan ringkas boleh membantu pemain memahami ciri baharu yang telah dikemas kini dalam versi ini. Klik pada kotak teks untuk memulakan.",
+    "hideHistory": "Sembunyi",
+    "history": "Sejarah versi",
+    "label": "Versi"
+  }
+}

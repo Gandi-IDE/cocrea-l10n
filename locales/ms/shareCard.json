@@ -1,0 +1,33 @@
+{
+  "Email": "E-mel",
+  "emailInvite": {
+    "desc": "Kami akan menghantar e-mel untuk menjemput rakan anda memainkan ciptaan anda",
+    "title": "Ajak kawan bermain"
+  },
+  "Embed": "Benamkan",
+  "embed": {
+    "copyButton": "Salin Kod",
+    "customizeCodeHide": "Sembunyikan tajuk dan pencipta",
+    "customizeCodeHideCreator": "Sembunyikan Pencipta",
+    "customizeCodeMiniCard": "Kad Mini",
+    "customizeCodeStageCard": "Kad Pentas",
+    "customizeCodeTitle": "Sesuaikan kod anda:",
+    "downloadHtml": "Muat turun fail HTML",
+    "embedCode": "Kod pebenaman:",
+    "preview": "Pratonton:"
+  },
+  "Facebook": "Facebook",
+  "Link": "Pautan",
+  "referralLink": {
+    "desc": "Anda juga boleh menyalin dan berkongsi di media sosial anda. 🚀",
+    "Title": "Kongsi pautan"
+  },
+  "referralProgram": "Semak program rujukan kami",
+  "Scratch": "Scratch",
+  "socialCard": {
+    "referDesc": "Datang untuk melawati laman utama saya yang serba baharu dan buat dengan saya.",
+    "referTitle": "Laman {{nama pengguna}}"
+  },
+  "title": "Kongsi {{projectName}} dengan rakan",
+  "Twitter": "Twitter"
+}

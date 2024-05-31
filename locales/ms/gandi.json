@@ -1,0 +1,89 @@
+{
+  "gandi": {
+    "achievement": {
+      "createFirst ": "Tiada pencapaian ditemui",
+      "saveFirst": "Anda perlu menyimpan projek sebelum menggunakan pencapaian!"
+    },
+    "AddtoInbox": "Masukkan ke dalam beg galas",
+    "announcemen": {
+      "changelog": "LogPerubahan",
+      "title": "Pengumuman"
+    },
+    "AssetsStore": "Kedai Aset",
+    "CloudStorage": "Storan Awan",
+    "Extension": "Sambungan",
+    "ExtensionAdded": "Dipasang",
+    "extensionPath": {
+      "create": "Cipta landasan baharu",
+      "drawPathTip": "Sila lukis landasan dahulu",
+      "duration": "Tempoh",
+      "editPath": "Ubah landasan",
+      "mark": "Penanda",
+      "motionPath": "Trek Gerak",
+      "path": "Landasan",
+      "pathName": "Nama TrekNama landasan",
+      "redraw": "Lukis semula",
+      "selectPath": "Pilih laluan",
+      "splitPath": "Pisahkan laluan"
+    },
+    "ExtensionRecommand": "Mengesyorkan",
+    "leaderboard": {
+      "createFirst": "Klik ikon [🏆] dalam menu kiri untuk membuat papan kedudukan"
+    },
+    "myBlockCreate": {
+      "%tip": "Menggunakan % sebagai nama tidak disokong."
+    },
+    "NotLoginTips": "Selamat datang ke Gandi IDE! Anda boleh mengunakan rangkaian ciri-ciri penuh dengan membuat atau log masuk ke akaun anda.",
+    "publish": {
+      "verification": {
+        "extension": "Selepas menerbitkan Ciri Tambahan tersuai, ia mungkin menyebabkan program gagal dijalankan, jadi ia hanya menyokong penyahpepijatan setempat dan tidak boleh diterbitkan"
+      }
+    },
+    "PublishProject": "Menerbitkan",
+    "SaveProject": "Jimat",
+    "teamwork": {
+      "dialog": {
+        "collaborationAnomaly": "Anomali Kerjasama, sesuatu sudah tunggang terbalik",
+        "dataRetrievalFailed": "Pendapatan semula data projek gagal. Sila muat semula halaman dan cuba lagi",
+        "errorReport": "Op, berlaku masalah semasa bekerjasama. Jurutera kami telah dimaklumkan tentang isu ini. Untuk mengelakkan kehilangan data, kami cadangkan simpan kerja anda dan muat semula halaman untuk mencubanya semula.",
+        "exitTeamwork": "meninggalkan pasukan",
+        "joinTeamwork": "menyertai pasukan",
+        "refreshButton": "Segarkan semula",
+        "restored": "Pemilik projek telah memulihkan projek kepada versi sebelumnya.",
+        "restoring": "Pemilik projek sedang menetapkan semula projek. Sila tunggu...",
+        "saveToComputer": "Simpan ke komputer anda"
+      },
+      "errorTip": "Hanya pemilik projek boleh memuat naik projek tempatan.",
+      "replaceSuccess": "Projek berjaya diganti!",
+      "resetLinkTip": "Pautan telah ditetapkan semula."
+    },
+    "Teamwork": {
+      "loadFail": "Muatkan projek gagal, sila muat semula halaman dan cuba lagi.",
+      "replaceTip": "Hanya pemilik projek boleh menggantikan projek"
+    },
+    "TeamworkButton": "Jemput",
+    "TeamworkDescription": "Jemput rakan, rakan sepasukan dan rakan sekerja anda terus ke dalam projek anda dan bangunkannya bersama-sama.",
+    "TeamworkInviteButoon": "Jemput",
+    "TeamworkInviteButton": "Jemput",
+    "TeamworkJoinErrorExpiredDescription": "Hubungi pemilik projek untuk mendapatkan pautan jemputan baharu.",
+    "TeamworkJoinErrorFullDescription": "Pada masa ini, projek kerjasama hanya menyokong penyertaan kurang daripada 5 orang.",
+    "TeamworkJoinErrorTitle": "Gagal menyertai kerjasama!",
+    "TeamworkJoinToast": "{name} menyertai kerjasama",
+    "TeamworkLeaveConfirmation": "Adakah anda pasti mahu meninggalkan kerjasama?",
+    "TeamworkLeaveToast": "{name} telah meninggalkan kerjasama",
+    "TeamworkManageTeamCopied": "Disalin",
+    "TeamworkManageTeamCopyLink": "Salin pautan jemputan",
+    "TeamworkManageTeamLeave": "Keluar",
+    "TeamworkManageTeamMembers": "ahli",
+    "TeamworkManageTeamMembersFull": "penuh",
+    "TeamworkManageTeamOwner": "Pemilik",
+    "TeamworkManageTeamRemove": "Alih keluar",
+    "TeamworkManageTeamRemoveConfirmation": "Adakah anda mengesahkan untuk mengalih keluar {name} daripada kerjasama?",
+    "TeamworkManageTeamRemoved": "Anda telah dialih keluar daripada kerjasama oleh pemilik projek.",
+    "TeamworkManageTeamResetCopyLink": "Tetapkan Semula Pautan",
+    "TeamworkManageTeamTitle": "Pasukan",
+    "TeamworkManageTeamTransfer": "Pindah permilikan",
+    "TeamworkNetworkOffline": "Rangkaian berjaya disambungkan semula!",
+    "TeamworkNetworkOnline": "Sambungan rangkaian gagal!"
+  }
+}
