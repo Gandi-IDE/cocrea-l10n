@@ -8,7 +8,7 @@
     "title": "CONNECTED SERVICES"
   },
   "deleteRequest": {
-    "tips": "Please note that deleting your account is irreversible. Once the account is deleted, all your data, including profile information and projects will be PERMANENTLY removed from out system.",
+    "tips": "Please note that deleting your account is irreversible. Once the account is deleted, all your data, including profile information and projects will be PERMANENTLY removed from our system.",
     "title": "DELETE ACCOUNT"
   },
   "deleteRequestConfirm": {
@@ -31,20 +31,20 @@
       "easyGuess": "Please enter a password between 6-20 characters, containing both letters and numbers.",
       "inputConfirmPlaceholder": "Confirm new password",
       "inputPlaceholder": "New password",
-      "notSame": "Two passwords are not same",
+      "notSame": "The passwords are not same",
       "title": "Update password",
       "update": "Update Password"
     },
     "newEmail": {
       "confirmButton": "Send Confirmation Email",
       "desc1": "Enter a new email address and we'll send you a 4-digit code to confirm it belongs to you and keep your account secure.",
-      "desc2": "Your current email address is {{email}}",
+      "desc2": "Your current email address is: {{email}}",
       "inputPlaceholder": "Your new email",
       "title": "Update email address"
     },
     "title": "LOGIN SETTING",
     "validationDialog": {
-      "desc": "We sent a 4-digit code to {{email}}. Confirm it belongs to you to keep your account secure.",
+      "desc": "We sent a 4-digit code to {{email}}. Please input the 4-digit code to keep your account secure.",
       "title": "Email Validation"
     }
   },
@@ -61,7 +61,7 @@
   "welcomeCard": {
     "desc": {
       "answer1": "Player",
-      "answer2": "Game Creator/Scratcher",
+      "answer2": "Project Creator/Scratcher",
       "answer3": "Teacher",
       "birthday": {
         "tip": "For the protection of minors, age information will be used to filter out projects that are not suitable for children under the age of 13 to play.",
@@ -74,10 +74,10 @@
       "option1": "Youtube",
       "option2": "Google search",
       "option3": "Scratch.mit.edu",
-      "option4": "Friend & Family",
+      "option4": "Friend or Family",
       "option5": "Teacher",
       "option6": "Discord",
-      "option7": "Scratch game jam & Itch.io & Gamejolt",
+      "option7": "Scratch game jam or Itch.io or Gamejolt, or another service alike.",
       "option8": "Social media post ",
       "option9": "Other",
       "Question": "How did you hear about us?",
