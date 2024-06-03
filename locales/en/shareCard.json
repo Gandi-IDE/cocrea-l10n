@@ -27,7 +27,7 @@
   "Scratch": "Scratch",
   "socialCard": {
     "referDesc": "Come to visit my brand new homepage and create with me.",
-    "referTitle": "{{username}}’Home"
+    "referTitle": "{{username}}’s Home"
   },
   "title": "Share {{projectName}} with friends",
   "Twitter": "Twitter"
