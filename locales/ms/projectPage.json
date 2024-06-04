@@ -39,5 +39,8 @@
     "hideHistory": "Sembunyi",
     "history": "Sejarah versi",
     "label": "Versi"
+  },
+  "tags": {
+    "label": "Tambah Tag"
   }
 }

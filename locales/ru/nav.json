@@ -1,0 +1,44 @@
+{
+  "about": "Про нас",
+  "classroom": "Класна кімната",
+  "createButton": "Створити",
+  "discord": "Приєднуйтесь до Discord",
+  "docs": "Навчання & документи",
+  "educators": "Для освітян",
+  "explore": "Досліджуйте",
+  "facebook": "Приєднуйтеся до групи Facebook",
+  "home": "Панель приладів",
+  "homepage": "Домашня сторінка",
+  "menu": {
+    "account": "Налаштування Облікового запису",
+    "signout": "Вийти з облікового запису"
+  },
+  "projects": "Проекти",
+  "refer": "Наквагенс",
+  "search": {
+    "placeholder": "Пошук проектів або творців",
+    "resultTitle": "Результати пошуку",
+    "popularSearches": "Популярні пошукові запити",
+    "seeMore": "Побачити більше>",
+    "tab": {
+      "all": "всі",
+      "creators": "Творці",
+      "projects": "Проекти"
+    }
+  },
+  "notification": {
+    "comment": "прокоментував",
+    "creationCreated": "випустив новий проект",
+    "creationUpdated": "оновив проект",
+    "follow": "підписується на вас",
+    "joinClass": "приєднався до класу",
+    "like": "вподобав ваш проект",
+    "likeButtonText": "Вподобайка",
+    "loadMore": "Завантажити ще",
+    "publishAssignment": "Нове завдання!",
+    "reply": "відповів на ваш коментар до",
+    "submitWork": "подав класну роботу",
+    "subscribedUserLike": "вподобав проект",
+    "title": "Повідомлення"
+  }
+}
