@@ -97,8 +97,8 @@
         "label": "使用密码登录",
         "usernameInput": "用户名或邮箱"
       },
-      "pricacy": "已阅读并同意《法律声明》和《隐私协议》",
-      "pricacyPolicy": "《隐私协议》",
+      "privacy": "已阅读并同意《法律声明》和《隐私协议》",
+      "privacyPolicy": "《隐私协议》",
       "title": "欢迎来到 Cocrea！ 👋🏻",
       "verifyEmail": {
         "codeError": "验证码错误，请重试",

@@ -97,8 +97,8 @@
         "label": "Sign in with password",
         "usernameInput": "Username or Email"
       },
-      "pricacy": "By signing in, I agree to",
-      "pricacyPolicy": "Privacy Policy",
+      "privacy": "By signing in, I agree to",
+      "privacyPolicy": "Privacy Policy",
       "title": "Welcome to Cocrea! ",
       "verifyEmail": {
         "codeError": "Your code was incorrect. Please try again.",

@@ -97,8 +97,8 @@
         "label": "Iniciar sesión con contraseña",
         "usernameInput": "Nombre de usuario o correo electrónico"
       },
-      "pricacy": "Al iniciar sesión, acepto",
-      "pricacyPolicy": "política de privacidad",
+      "privacy": "Al iniciar sesión, acepto",
+      "privacyPolicy": "política de privacidad",
       "title": "¡Bienvenidos a Cocrea!",
       "verifyEmail": {
         "codeError": "Su código era incorrecto. Inténtelo de nuevo.",
