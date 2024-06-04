@@ -87,8 +87,8 @@
         "label": "Log masuk dengan kata laluan",
         "usernameInput": "Nama pengguna atau e-mel"
       },
-      "pricacy": "Dengan melog masuk, saya bersetuju dengan",
-      "pricacyPolicy": "Dasar Privasi",
+      "privacy": "Dengan melog masuk, saya bersetuju dengan",
+      "privacyPolicy": "Dasar Privasi",
       "title": "Selamat datang ke Cocrea!",
       "verifyEmail": {
         "codeError": "Kod anda salah. Sila cuba lagi.",
