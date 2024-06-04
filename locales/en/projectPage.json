@@ -75,5 +75,8 @@
     "hideHistory": "Hide",
     "history": "Versions history",
     "label": "Versions"
+  },
+  "tags": {
+    "label": "Add Tags"
   }
 }

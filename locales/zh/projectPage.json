@@ -75,5 +75,8 @@
     "hideHistory": "隐藏",
     "history": "历史版本",
     "label": "版本"
+  },
+  "tags": {
+    "label": "添加标签"
   }
 }
