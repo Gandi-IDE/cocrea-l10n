@@ -38,8 +38,8 @@
         "title": "Turn in your project to:"
       },
       "form": {
-        "myWork": "My work",
-        "title": "Turn in your work"
+        "myWork": "My project",
+        "title": "Turn in your project"
       }
     }
   },
@@ -53,7 +53,7 @@
           "name": "Create Assignment",
           "title": "Create title"
         },
-        "desc": "This displays a list of all the assignments you've created for students. You can also assign new assignments to students. Need more help? <a href=\"https://scratch.st/zncr3D\" target=\"_blank\">Join our Facebook Group</a>",
+        "desc": "This displays a list of all the assignments you've created for students. You can also assign new assignments to students. Need more help? <a href=\"https://scratch.st/zncr3D\" target=\"_blank\">Join our Facebook Group!</a>",
         "listCompleted": "COMPLETED",
         "listDue": "DUE DATE",
         "listOptions": "OPTIONS",
