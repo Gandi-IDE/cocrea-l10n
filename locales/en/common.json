@@ -51,7 +51,6 @@
     "hours": "hours ago",
     "Import": "Import",
     "Imported": "Imported",
-    "justNow": "just now",
     "learnMore": "Learn more",
     "Likes": "Likes",
     "loginTitle": "Welcome to Cocrea! ",
@@ -145,5 +144,15 @@
       "desc": "Code, Design, and Create Games Together",
       "title": "Hey, this is Gandi IDE"
     }
+  },
+  "time": {
+    "justNow": "just now",
+    "ago": "ago",
+    "day": "day",
+    "days": "days",
+    "month": "month",
+    "months": "months",
+    "year": "year",
+    "years": "years"
   }
 }
