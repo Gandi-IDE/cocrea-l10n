@@ -1,44 +1,44 @@
 {
-  "about": "Про нас",
-  "classroom": "Класна кімната",
-  "createButton": "Створити",
-  "discord": "Приєднуйтесь до Discord",
-  "docs": "Навчання & документи",
-  "educators": "Для освітян",
-  "explore": "Досліджуйте",
-  "facebook": "Приєднуйтеся до групи Facebook",
-  "home": "Панель приладів",
-  "homepage": "Домашня сторінка",
+  "about": "О нас",
+  "classroom": "Класс",
+  "createButton": "Создать",
+  "discord": "Присоединяйтесь к Discord",
+  "docs": "Учебные материалы и документация",
+  "educators": "Для педагогов",
+  "explore": "Исследовать",
+  "facebook": "Присоединяйтесь к группе Facebook",
+  "home": "Панель управления",
+  "homepage": "Главная страница",
   "menu": {
-    "account": "Налаштування Облікового запису",
-    "signout": "Вийти з облікового запису"
+    "account": "Настройки аккаунта",
+    "signout": "Выйти"
   },
-  "projects": "Проекти",
-  "refer": "Наквагенс",
+  "projects": "Проекты",
+  "refer": "Наквагемы",
   "search": {
-    "placeholder": "Пошук проектів або творців",
-    "resultTitle": "Результати пошуку",
-    "popularSearches": "Популярні пошукові запити",
-    "seeMore": "Побачити більше>",
+    "placeholder": "Поиск проектов или создателей",
+    "resultTitle": "Результаты поиска",
+    "popularSearches": "Популярные запросы",
+    "seeMore": "Показать больше>",
     "tab": {
-      "all": "всі",
-      "creators": "Творці",
-      "projects": "Проекти"
+      "all": "Все",
+      "creators": "Создатели",
+      "projects": "Проекты"
     }
   },
   "notification": {
-    "comment": "прокоментував",
-    "creationCreated": "випустив новий проект",
-    "creationUpdated": "оновив проект",
-    "follow": "підписується на вас",
-    "joinClass": "приєднався до класу",
-    "like": "вподобав ваш проект",
-    "likeButtonText": "Вподобайка",
-    "loadMore": "Завантажити ще",
-    "publishAssignment": "Нове завдання!",
-    "reply": "відповів на ваш коментар до",
-    "submitWork": "подав класну роботу",
-    "subscribedUserLike": "вподобав проект",
-    "title": "Повідомлення"
+    "comment": "прокомментировал",
+    "creationCreated": "выпустил новый проект",
+    "creationUpdated": "обновил проект",
+    "follow": "подписался на вас",
+    "joinClass": "присоединился к классу",
+    "like": "понравился ваш проект",
+    "likeButtonText": "Нравится",
+    "loadMore": "Загрузить еще",
+    "publishAssignment": "Новое задание!",
+    "reply": "ответил на ваш комментарий в",
+    "submitWork": "отправил задание",
+    "subscribedUserLike": "понравился проект",
+    "title": "Сообщения"
   }
 }

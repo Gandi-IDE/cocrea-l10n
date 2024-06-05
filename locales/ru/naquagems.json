@@ -1,41 +1,41 @@
 {
   "balance": {
-    "desc": "Баланс Naquagems",
+    "desc": "Баланс Наквагемов",
     "leaderboard": {
-      "clickDCUserTip": "Користувач із Discord і не зареєстрований у Cocrea."
+      "clickDCUserTip": "Пользователь из Discord и не зарегистрировался в Cocrea."
     },
-    "leaderboardTitle": "NG ТАБЛИЦІ ЛІДЕРІВ",
-    "whatNG": "Що таке Naquagems?"
+    "leaderboardTitle": "Лидерборд НГ",
+    "whatNG": "Что такое Наквагемы?"
   },
   "detail": {
     "chart": {
-      "noData": "Ми не змогли знайти жодних даних."
+      "noData": "Мы не смогли найти данные."
     },
-    "chartTitle": "Діаграма",
-    "earnNG": "зароблені NG",
+    "chartTitle": "График",
+    "earnNG": "заработано НГ",
     "form": {
-      "change": "ЗМІНИТИ",
+      "change": "ИЗМЕНИТЬ",
       "date": "ДАТА",
-      "instruction": "ІНСТРУКЦІЯ"
+      "instruction": "ИНСТРУКЦИЯ"
     },
     "formTitle": "Форма",
-    "LAST_1_DAY": "вчора",
-    "LAST_7_DAYS": "Останні 7 днів",
-    "LAST_30_DAYS": "Останні 30 днів",
-    "LAST_90_DAYS": "Останні 90 днів",
-    "selectDate": "Виберіть дату",
-    "title": "NG Подробиці"
+    "LAST_1_DAY": "Вчера",
+    "LAST_7_DAYS": "Последние 7 дней",
+    "LAST_30_DAYS": "Последние 30 дней",
+    "LAST_90_DAYS": "Последние 90 дней",
+    "selectDate": "Выберите дату",
+    "title": "Детали НГ"
   },
   "earnNG": {
-    "desc": "Ви можете заробляти NG, виконуючи завдання, запрошуючи друзів у Cocrea та беручи участь у Game Jams!",
+    "desc": "Вы можете зарабатывать НГ, выполняя задания, приглашая друзей в Cocrea и участвуя в Геймджемах!",
     "taskBoard": {
-      "completed": "Виконано",
-      "desc": "опис",
-      "remark": "Зауваження",
-      "reward": "Нагорода",
-      "time": "час",
-      "title": "Дошка завдань"
+      "completed": "Завершено",
+      "desc": "Описание",
+      "remark": "Примечание",
+      "reward": "Награда",
+      "time": "Время",
+      "title": "Доска заданий"
     },
-    "title": "Як я заробляю NG?"
+    "title": "Как я могу заработать НГ?"
   }
 }

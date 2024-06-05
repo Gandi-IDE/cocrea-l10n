@@ -1,0 +1,144 @@
+{
+  "home": {
+    "className": "Назва класу"
+  },
+  "student": {
+    "class": {
+      "classwork": {
+        "cancelButton": "Скасувати",
+        "desc": "Відображайте всі свої проекти, де ви можете подати та перевірити статус своїх проектів.",
+        "selectProject": "Виберіть свій проект",
+        "title": "Класна робота",
+        "turnInButton": "Здавати "
+      },
+      "classworkList": {
+        "dueDate": "ТЕРМІН",
+        "options": "ОПЦІЇ",
+        "status": "СТАТУС",
+        "submissionTime": "ЧАС ПОДАЧІ",
+        "title": "ЗАГОЛОВОК",
+        "workLink": "РОБОТА ПОСИЛАННЯ"
+      },
+      "invitation": {
+        "joinButton": "ПРИЄДНАТИСЯ",
+        "tips": "Ви приєднаєтеся до класу з поточним обліковим записом."
+      },
+      "materials": {
+        "title": "Матеріали"
+      }
+    },
+    "projectDetail": {
+      "submitTitle": "Здайте свій проект"
+    },
+    "turnIn": {
+      "card": {
+        "assignment": "призначення",
+        "classroom": "Cocrea Класна кімната",
+        "classroomList": "Мої класи",
+        "title": "Здайте свій проект:"
+      },
+      "form": {
+        "myWork": "Моя робота",
+        "title": "Здайте свою роботу"
+      }
+    }
+  },
+  "teacher": {
+    "class": {
+      "assignment": {
+        "addNew": "Створити новий",
+        "create": {
+          "dueDate": "Термін виконання",
+          "instruction": "інструкції",
+          "name": "Створити завдання",
+          "title": "Створіть Заголовок"
+        },
+        "desc": "Це відображає список усіх завдань, які ви створили для студентів. Ви також можете призначати нові завдання студентам. Потрібна додаткова допомога? <a href=\"https://scratch.st/zncr3D\" target=\"_blank\">Приєднуйтесь до нашого Facebook Group</a>",
+        "listCompleted": "ЗАВЕРШЕНО",
+        "listDue": "ТЕРМІН",
+        "listOptions": "ОПЦІЇ",
+        "listStatus": "СТАТУС",
+        "listTitle": "ЗАГОЛОВОК",
+        "title": "Завдання",
+        "turnedIn": "Здали",
+        "unsubmitted": "Не надіслано"
+      },
+      "assignmentSummary": {
+        "assigned": "Призначений",
+        "listId": "ID",
+        "listTeamMembers": "ЧЛЕНИ КОМАНДИ",
+        "listTime": "ЧАС ПОДАЧІ",
+        "listWorkLink": "РОБОТА ПОСИЛАННЯ",
+        "turnedIn": "Здано",
+        "unsubmit": "Не надіслано"
+      },
+      "card": {
+        "operation": {
+          "delete": "Видалити",
+          "edit": "Редагувати",
+          "more": "більше"
+        },
+        "studentcount": "студенти"
+      },
+      "courseCard": {
+        "addButton": "Додати до класу",
+        "deleteButton": "Видалити з класу",
+        "menuTitle": "Немає класів",
+        "usedCount": "Використано",
+        "viewButton": "Переглянути"
+      },
+      "create": {
+        "title": "Створити клас"
+      },
+      "createAssignment": {
+        "latePermitted": "Допускається подача із запізненням"
+      },
+      "createButton": "Скасувати",
+      "createName": "Назва класу (Обов'язково)",
+      "createSubject": "Тема (Обов'язково)",
+      "deleteAssignment": {
+        "desc": "Цю дію не можна скасувати, і її буде видалено з вашого класу.",
+        "tips": "Ви хочете видалити це призначення??"
+      },
+      "deleteClassroom": {
+        "desc": "Цю дію не можна скасувати, і її буде видалено з вашого класу.",
+        "tips": "Ви хочете видалити цей клас??"
+      },
+      "deleteStudent": {
+        "desc": "Цю дію не можна скасувати, і її буде видалено з вашого класу.",
+        "tips": "Ви хочете видалити цього студента??"
+      },
+      "reources": {
+        "title": "Ресурси"
+      },
+      "student": {
+        "copyLInk": "СКОПІЮВАТИ ПОСИЛАННЯ",
+        "count": "Кількість студентів",
+        "desc": "У цьому списку відображаються учні з усіх класів.",
+        "desc01": "Показати список учнів класу та запросити нових студентів приєднатися до класу. Якщо вам потрібні інші способи запросити студентів, приєднуйтеся до нас <a href=\"https://scratch.st/0FtQNz\" target=\"_blank\">Facebook Group</a> і розкажи нам.",
+        "invite": "Запросіть учнів",
+        "inviteLink": "Посилання на запрошення"
+      },
+      "studentList": {
+        "class": "КЛАС",
+        "email": "ЕЛЕКТРОННА ПОШТА",
+        "name": "ІМ'Я",
+        "options": "ОПЦІЇ"
+      },
+      "updateAssignment": {
+        "title": "Оновити Завдання"
+      },
+      "updateClass": {
+        "title": "Оновити Клас"
+      }
+    },
+    "home": {
+      "addNewClasses": "Додати новий клас",
+      "allClasses": "Всі класи",
+      "classes": "Класи",
+      "myClasses": "Мої Класи",
+      "settings": "Налаштування",
+      "students": "Студенти"
+    }
+  }
+}

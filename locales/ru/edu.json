@@ -1,47 +1,47 @@
 {
   "host": {
-    "acceleratedBy": "Прискорено завдяки",
-    "archive": "Архів",
-    "createBy": "Створено користувачем",
+    "acceleratedBy": "Ускорено",
+    "archive": "Архив",
+    "createBy": "Создано",
     "footer": {
-      "aboutGandi": "про Gandi",
-      "contactUs": "Зв'яжіться з Нами",
-      "copyright": "Cocrea.world · На основі Gandi",
-      "policy": "Політика конфіденційності"
+      "aboutGandi": "О Gandi",
+      "contactUs": "Свяжитесь с нами",
+      "copyright": "Cocrea.world · Поддерживается Gandi",
+      "policy": "Политика конфиденциальности"
     },
-    "instructionsTab": "Інструкції",
-    "loadingSpeed": "Швидкість завантаження",
-    "notesCredits": "Примітки та кредити",
-    "Played": "Грав",
-    "poweredBy": "На основі",
+    "instructionsTab": "Инструкции",
+    "loadingSpeed": "Скорость загрузки",
+    "notesCredits": "Примечания и благодарности",
+    "Played": "Сыграно",
+    "poweredBy": "Поддерживается",
     "publish": {
-      "advancedExtensionTip": "Це розширення несумісне зі Scratch. Проекти, створені з його допомогою, не можна завантажити на веб-сайт Scratch. Ви можете поділитися проектом на Cocrea. Переконайтеся, перш ніж використовувати його.",
+      "advancedExtensionTip": "Это расширение несовместимо со Scratch. Проекты, созданные с его помощью, не могут быть загружены на сайт Scratch. Вы можете поделиться проектом на Cocrea. Убедитесь в этом, прежде чем использовать его.",
       "cocrea": {
-        "label": "Опублікувати на Cocrea"
+        "label": "Опубликовать на Cocrea"
       },
-      "dialogCocreaAnswer1": "Cocrea сумісна з усіма розширеннями Gandi.",
-      "dialogCocreaAnswer2": "Складні проекти можна завантажувати та запускати дуже швидко.",
-      "dialogCocreaAnswer3": "Ви можете гнучко налаштувати власні сторінки проекту.",
-      "dialogCocreaTitle": "Навіщо публікувати в Cocrea?",
-      "dialogScratchTitle": "Як опублікувати в Scratch?",
-      "dialogTitle": "Опублікувати проект",
-      "retainDialogDesc": "Cocrea сумісна з усіма розширеннями Gandi. Складні проекти можна завантажувати та запускати дуже швидко.",
-      "retainDialogLearnMore": "Гммм, я хочу дізнатися більше",
+      "dialogCocreaAnswer1": "Cocrea совместима со всеми расширениями Gandi.",
+      "dialogCocreaAnswer2": "Сложные проекты могут загружаться и работать очень быстро.",
+      "dialogCocreaAnswer3": "Вы можете гибко настроить свои страницы проектов.",
+      "dialogCocreaTitle": "Почему публиковать на Cocrea?",
+      "dialogScratchTitle": "Как опубликовать на Scratch?",
+      "dialogTitle": "Опубликовать проект",
+      "retainDialogDesc": "Cocrea совместима со всеми расширениями Gandi. Сложные проекты могут загружаться и работать очень быстро.",
+      "retainDialogLearnMore": "Хммм, я хочу узнать больше",
       "retainDialogScratch": {
-        "goScratch": "Перейти до Scratch",
-        "label": "Проект збережено на вашому комп’ютері"
+        "goScratch": "Перейти к Scratch",
+        "label": "Проект был сохранен на ваш компьютер"
       },
-      "retainDialogTitle": "Спробуйте опублікувати на Cocrea",
-      "retainDialogTryButton": "Круто! Дай мені спробувати",
+      "retainDialogTitle": "Попробуйте опубликовать на Cocrea",
+      "retainDialogTryButton": "Круто! Дайте попробовать",
       "scratch": {
-        "label": "Поділіться на Scratch"
+        "label": "Поделиться на Scratch"
       },
-      "warnDesc": "Цей проект створено з розширеннями, несумісними зі Scratch. Його неможливо завантажити на веб-сайт Scratch.",
-      "warnTitle": "УВАГА",
-      "welcomeDialogTitle": "Ласкаво просимо до Gandi IDE !"
+      "warnDesc": "Этот проект создан с использованием расширений, несовместимых со Scratch. Его нельзя загрузить на сайт Scratch.",
+      "warnTitle": "Предупреждение",
+      "welcomeDialogTitle": "Добро пожаловать в Gandi IDE!"
     },
-    "run": "бігти",
-    "runningSpeed": "Швидкість роботи",
-    "seeInside": "Дивіться всередині"
+    "run": "Запустить",
+    "runningSpeed": "Скорость выполнения",
+    "seeInside": "Посмотреть внутри"
   }
 }
