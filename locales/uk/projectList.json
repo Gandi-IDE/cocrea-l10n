@@ -1,0 +1,28 @@
+{
+  "collaboratorEditTip": "Цим проектом може керувати лише власник.",
+  "createButton": "Новий проект",
+  "draftLabel": "ЧЕРНЕТКА",
+  "editTime": "Відредаговано",
+  "filterTitleProperty": {
+    "label": "Тип",
+    "normal": "нормально"
+  },
+  "filterTitleStatus": "Статус",
+  "importAllFromScratch": "Імпортувати всі мої проекти Scratch",
+  "importScratch": "Імпорт з Scratch",
+  "projectDeleteConfirmDescription": "Цю дію не можна скасувати, і її буде видалено з вашого облікового запису",
+  "projectDeleteConfirmTitle": "Ви хочете видалити цей проект??",
+  "projectFilterTypeAll": "всі",
+  "projectPrivateButton": "Приватний",
+  "projectPrivateConfirmDescription": "Тільки ви можете переглядати та грати в цей проект, якщо зробите його приватним.",
+  "projectPrivateConfirmTitle": "Do you want to make this project private?",
+  "projectTypeDraft": "Чернетка",
+  "projectTypePrivate": "Приватний",
+  "projectTypePublished": "Опубліковано",
+  "projectTypeTeamwork": "Командна робота",
+  "publishLabel": "ОПУБЛІКОВАНО",
+  "publishTime": "Опубліковано",
+  "setPrivate": "Зробити як приватне",
+  "setPublic": "Зробити як публічне",
+  "teamLabel": "Командна робота"
+}

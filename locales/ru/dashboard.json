@@ -1,18 +1,18 @@
 {
   "data": {
-    "Subscribers": "Підписники",
-    "totalPlayed": "Зіграно за весь час",
-    "totalPlaytime": "Час гри за весь час"
+    "Subscribers": "Подписчики",
+    "totalPlayed": "Всего сыграно",
+    "totalPlaytime": "Общее время игры"
   },
   "guide": {
-    "task1Create": "Створіть і опублікуйте проект за допомогою Gandi.",
-    "task2DesignProjectPage": "Налаштуйте сторінку проекту.",
-    "task3ProfileDomain": "Виберіть доменне ім’я свого профілю.",
-    "task4SharePage": "Поділіться сторінкою проекту або домашньою сторінкою з друзями.",
-    "task5DesignHomepage": "Налаштуйте свою домашню сторінку.",
-    "title": "Як почати？"
+    "task1Create": "Создайте и опубликуйте проект с помощью Gandi.",
+    "task2DesignProjectPage": "Настройте страницу вашего проекта.",
+    "task3ProfileDomain": "Выберите доменное имя для вашего профиля.",
+    "task4SharePage": "Поделитесь страницей проекта или домашней страницей с друзьями.",
+    "task5DesignHomepage": "Настройте свою домашнюю страницу.",
+    "title": "Как начать?"
   },
   "subscribe": {
-    "subscriptionsTab": "Підписки"
+    "subscriptionsTab": "Подписки"
   }
 }

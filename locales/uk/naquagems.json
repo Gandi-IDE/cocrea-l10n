@@ -1,0 +1,41 @@
+{
+  "balance": {
+    "desc": "Баланс Naquagems",
+    "leaderboard": {
+      "clickDCUserTip": "Користувач із Discord і не зареєстрований у Cocrea."
+    },
+    "leaderboardTitle": "NG ТАБЛИЦІ ЛІДЕРІВ",
+    "whatNG": "Що таке Naquagems?"
+  },
+  "detail": {
+    "chart": {
+      "noData": "Ми не змогли знайти жодних даних."
+    },
+    "chartTitle": "Діаграма",
+    "earnNG": "зароблені NG",
+    "form": {
+      "change": "ЗМІНИТИ",
+      "date": "ДАТА",
+      "instruction": "ІНСТРУКЦІЯ"
+    },
+    "formTitle": "Форма",
+    "LAST_1_DAY": "вчора",
+    "LAST_7_DAYS": "Останні 7 днів",
+    "LAST_30_DAYS": "Останні 30 днів",
+    "LAST_90_DAYS": "Останні 90 днів",
+    "selectDate": "Виберіть дату",
+    "title": "NG Подробиці"
+  },
+  "earnNG": {
+    "desc": "Ви можете заробляти NG, виконуючи завдання, запрошуючи друзів у Cocrea та беручи участь у Game Jams!",
+    "taskBoard": {
+      "completed": "Виконано",
+      "desc": "опис",
+      "remark": "Зауваження",
+      "reward": "Нагорода",
+      "time": "час",
+      "title": "Дошка завдань"
+    },
+    "title": "Як я заробляю NG?"
+  }
+}
