@@ -34,7 +34,6 @@
     "hours": "beberapa jam lalu",
     "Import": "Import",
     "Imported": "Diimport",
-    "justNow": "tadi",
     "learnMore": "Ketahui lebih lanjut",
     "Likes": "Suka",
     "loginTitle": "Selamat datang ke Cocrea!",
@@ -127,5 +126,15 @@
       "desc": "Kod, Reka Bentuk dan Cipta Permainan Bersama-sama",
       "title": "Hei, ini Gandi IDE"
     }
+  },
+  "time": {
+    "justNow": "baru sahaja",
+    "ago": "yang lalu",
+    "day": "hari",
+    "days": "hari",
+    "month": "bulan",
+    "months": "bulan",
+    "year": "tahun",
+    "years": "tahun"
   }
 }
