@@ -5,13 +5,18 @@
       "saveFirst": "Anda perlu menyimpan projek sebelum menggunakan pencapaian!"
     },
     "AddtoInbox": "Masukkan ke dalam beg galas",
+    "AllowEditing": "Benarkan peyuntingan",
     "announcemen": {
-      "changelog": "LogPerubahan",
+      "changelog": "Log Perubahan",
       "title": "Pengumuman"
     },
     "AssetsStore": "Kedai Aset",
     "CloudStorage": "Storan Awan",
-    "Extension": "Sambungan",
+    "CollaborationInvitationLink": "Jemput ahli anda",
+    "Collaborators": "Ahli",
+    "CopyLink": "Salin pautan",
+    "Edit": "Sunting",
+    "Extension": "Set Blok",
     "ExtensionAdded": "Dipasang",
     "extensionPath": {
       "create": "Cipta landasan baharu",
@@ -19,9 +24,8 @@
       "duration": "Tempoh",
       "editPath": "Ubah landasan",
       "mark": "Penanda",
-      "motionPath": "Trek Gerak",
       "path": "Landasan",
-      "pathName": "Nama TrekNama landasan",
+      "pathName": "Nama landasan",
       "redraw": "Lukis semula",
       "selectPath": "Pilih laluan",
       "splitPath": "Pisahkan laluan"
@@ -33,21 +37,46 @@
     "myBlockCreate": {
       "%tip": "Menggunakan % sebagai nama tidak disokong."
     },
+    "NoMembersYet": "Tiada ahli",
+    "Notification": "Notifikasi",
     "NotLoginTips": "Selamat datang ke Gandi IDE! Anda boleh mengunakan rangkaian ciri-ciri penuh dengan membuat atau log masuk ke akaun anda.",
+    "ObserverInvitationLink": "Jempu pemerhati",
+    "Observers": "Pemerhati",
+    "ObserversCanOnlyViewCodeAndRunProgram": "Pemerhati hanya boleh melihat dan memulakankod, mereka tidak boleh mengedit projek",
+    "Offline": "Luar talian",
+    "OnlyCollaboratorsCanUploadProjectsLocally": "Hanya ahli boleh memuat naik projek secara tempatan",
+    "OperationFailed": "Operasi Gagal",
+    "OperationSucceeded": "Operasi Berjaya",
     "publish": {
+      "dialog": {
+        "rating": {
+          "optional1": {
+            "content": "Projek tidak mengandungi unsur tidak sesuai",
+            "label": "Untuk penguna umum"
+          },
+          "optional2": {
+            "content": "Projek sesuai untuk penguna 13 tahun dan keatas. (Sila pilih ini jika projek mengandungi keganasan, darah, humor kasar, judi, etc.)",
+            "label": "Bukan untuk penguna umum"
+          },
+          "title": "Tolong pilih klasifikasi yang sesuai"
+        }
+      },
       "verification": {
-        "extension": "Selepas menerbitkan Ciri Tambahan tersuai, ia mungkin menyebabkan program gagal dijalankan, jadi ia hanya menyokong penyahpepijatan setempat dan tidak boleh diterbitkan"
+        "extension": "Projek tidak boleh diterbitkan. Blok tambahan mungkin membuatkan projek gagal untuk dimulakan, oleh itu, debugging setempat sahaja dibenarkan"
       }
     },
     "PublishProject": "Menerbitkan",
-    "SaveProject": "Jimat",
+    "Reload": "Reload",
+    "ResetLinkConfirmation": "Set semula pautan pengesahan",
+    "ResetLinkConfirmationText": "Selepas pautan pengesahan diset semula, pautan terdahulu tidak akan diterima. Sahkan set semula?",
+    "SaveProject": "Simpan",
+    "TeamMembers": "Ahli:",
+    "TeamMembersEmpty": "Tiada ahli",
     "teamwork": {
       "dialog": {
         "collaborationAnomaly": "Anomali Kerjasama, sesuatu sudah tunggang terbalik",
         "dataRetrievalFailed": "Pendapatan semula data projek gagal. Sila muat semula halaman dan cuba lagi",
-        "errorReport": "Op, berlaku masalah semasa bekerjasama. Jurutera kami telah dimaklumkan tentang isu ini. Untuk mengelakkan kehilangan data, kami cadangkan simpan kerja anda dan muat semula halaman untuk mencubanya semula.",
-        "exitTeamwork": "meninggalkan pasukan",
-        "joinTeamwork": "menyertai pasukan",
+        "errorReport": "Op, berlaku masalah semasa bekerjasama. Jurutera kami telah dimaklumkan. Untuk mengelakkan kehilangan data, kami cadangkan simpan kerja anda dan muat semula halaman untuk mencubanya semula.",
         "refreshButton": "Segarkan semula",
         "restored": "Pemilik projek telah memulihkan projek kepada versi sebelumnya.",
         "restoring": "Pemilik projek sedang menetapkan semula projek. Sila tunggu...",
@@ -61,7 +90,6 @@
       "loadFail": "Muatkan projek gagal, sila muat semula halaman dan cuba lagi.",
       "replaceTip": "Hanya pemilik projek boleh menggantikan projek"
     },
-    "TeamworkButton": "Jemput",
     "TeamworkDescription": "Jemput rakan, rakan sepasukan dan rakan sekerja anda terus ke dalam projek anda dan bangunkannya bersama-sama.",
     "TeamworkInviteButoon": "Jemput",
     "TeamworkInviteButton": "Jemput",
@@ -84,6 +112,8 @@
     "TeamworkManageTeamTitle": "Pasukan",
     "TeamworkManageTeamTransfer": "Pindah permilikan",
     "TeamworkNetworkOffline": "Rangkaian berjaya disambungkan semula!",
-    "TeamworkNetworkOnline": "Sambungan rangkaian gagal!"
+    "TeamworkNetworkOnline": "Sambungan rangkaian gagal!",
+    "ViewOnly": "Lihat sahaja",
+    "You": "Kamu"
   }
 }
