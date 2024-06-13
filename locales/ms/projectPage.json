@@ -1,4 +1,9 @@
 {
+  "button": {
+    "like": {
+      "label": "Suka"
+    }
+  },
   "description": {
     "default": "Ini ialah penerangan projek anda. Sediakan ringkasan ringkas untuk membantu pemain memahami cerita dan latar belakang projek anda. Klik pada kotak teks untuk mula.",
     "label": "Penerangan"
@@ -18,6 +23,37 @@
     "originalTitle": "Pautan projek asal:",
     "remixed": "ADUNAN SEMULA",
     "reposted": "DISIARKAN SEMULA"
+  },
+  "rating": {
+    "tip": "Projek ini mungkin mengandungi keganasan, tema lucah, humor keras, darah, dan lebih banyak bahan yang tidak sesuai untuk penguna bawah 13 tahun."
+  },
+  "report": {
+    "desc": "Projek yang dilaporkan akan dilihat oleh pasukan rasmi atau moderator, jika benar, projek akan diklasifikasikan atau dibuang.",
+    "label": "Laporkan",
+    "optional1": {
+      "content": "Lucah atau pornografi; Keganasan, kebencian, bahasa diskriminasi; Pembulian atau mengancam orang lain.",
+      "label": "Bahan tidak sesuai"
+    },
+    "optional2": {
+      "content": "Karya yang melanggar hak harta intelek orang lain, seperti pengunaan gambar, audio, video dan lain-lain tanpa kebenaran.",
+      "label": "Melanggar hak cipta"
+    },
+    "optional3": {
+      "content": "Informasi yang disampaikan adalah palsu atau menyesatkan dan mungkin mengelirukan penguna.",
+      "label": "Informasi Salah"
+    },
+    "optional4": {
+      "content": "Karya digunakan untuk mempromosi atau menyambungkan laman luaran; Kandungan yang berulangan dengan berlebihan, seperti mesej spam.",
+      "label": "Pengiklanan atau Spam"
+    },
+    "optional5": {
+      "content": "Karya yang membebaskan maklumat peribadi penguna atau melanggar hak privasi mereka; Karya yang mendedahkan maklumat peribadi orang lain dengan berniat jahat",
+      "label": "Melanggar hak privasi"
+    },
+    "optional6": {
+      "label": "Lain-lain"
+    },
+    "title": "Laporkan projek"
   },
   "stage": {
     "cocreaText": "Cocrea",
