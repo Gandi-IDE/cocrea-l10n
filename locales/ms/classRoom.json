@@ -87,7 +87,9 @@
         "usedCount": "terpakai",
         "viewButton": "Lihat"
       },
-      "create": "Cipta kelas",
+      "create": {
+        "title": "Cipta kelas"
+      },
       "createAssignment": {
         "latePermitted": "Penyerahan lewat dibenarkan"
       },
