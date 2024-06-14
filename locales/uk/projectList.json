@@ -1,28 +1,28 @@
 {
-  "collaboratorEditTip": "Цим проектом може керувати лише власник.",
-  "createButton": "Новий проект",
+  "collaboratorEditTip": "Цим проєктом може керувати лише власник.",
+  "createButton": "Новий проєкт",
   "draftLabel": "ЧЕРНЕТКА",
-  "editTime": "Відредаговано",
+  "editTime": "Змінено",
   "filterTitleProperty": {
     "label": "Тип",
-    "normal": "нормально"
+    "normal": "Звичайні"
   },
   "filterTitleStatus": "Статус",
-  "importAllFromScratch": "Імпортувати всі мої проекти Scratch",
+  "importAllFromScratch": "Імпортувати всі мої проєкти Scratch",
   "importScratch": "Імпорт з Scratch",
-  "projectDeleteConfirmDescription": "Цю дію не можна скасувати, і її буде видалено з вашого облікового запису",
-  "projectDeleteConfirmTitle": "Ви хочете видалити цей проект??",
-  "projectFilterTypeAll": "всі",
-  "projectPrivateButton": "Приватний",
-  "projectPrivateConfirmDescription": "Тільки ви можете переглядати та грати в цей проект, якщо зробите його приватним.",
-  "projectPrivateConfirmTitle": "Do you want to make this project private?",
+  "projectDeleteConfirmDescription": "Цю дію не можна скасувати, і проєкт буде видалено з вашого облікового запису",
+  "projectDeleteConfirmTitle": "Ви дійсно бажаєте видалити цей проєкт?",
+  "projectFilterTypeAll": "Усі",
+  "projectPrivateButton": "Приватні",
+  "projectPrivateConfirmDescription": "Лише ви можете переглядати і запускати цей проєкт, коли зробите його приватним.",
+  "projectPrivateConfirmTitle": "Бажаєте зробити цей проєкт приватним?",
   "projectTypeDraft": "Чернетка",
   "projectTypePrivate": "Приватний",
   "projectTypePublished": "Опубліковано",
-  "projectTypeTeamwork": "Командна робота",
+  "projectTypeTeamwork": "Робота команди",
   "publishLabel": "ОПУБЛІКОВАНО",
   "publishTime": "Опубліковано",
-  "setPrivate": "Зробити як приватне",
-  "setPublic": "Зробити як публічне",
-  "teamLabel": "Командна робота"
+  "setPrivate": "Зробити приватним",
+  "setPublic": "Зробити публічним",
+  "teamLabel": "Робота команди"
 }
