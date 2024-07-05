@@ -22,7 +22,9 @@
     "original": "ORIGINAL",
     "originalTitle": "El enlace original del proyecto:",
     "remixed": "REMEZCLAR",
-    "reposted": "VOLVER A ENVIAR"
+    "reposted": "VOLVER A ENVIAR",
+    "featured": "DESTACADO",
+    "monthly_picks": "SELECCIONES MENSUALES"
   },
   "rating": {
     "tip": "Este contenido puede contener violencia, temas sugerentes, humor crudo, sangre y otro material no apto para usuarios menores de 13 años."
