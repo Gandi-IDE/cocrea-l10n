@@ -2,43 +2,43 @@
   "about": "Про нас",
   "classroom": "Класна кімната",
   "createButton": "Створити",
-  "discord": "Приєднуйтесь до Discord",
-  "docs": "Навчання & документи",
-  "educators": "Для освітян",
-  "explore": "Досліджуйте",
-  "facebook": "Приєднуйтеся до групи Facebook",
+  "discord": "Сервер в Discord",
+  "docs": "Документація",
+  "educators": "Для викладачів",
+  "explore": "Досліджувати",
+  "facebook": "Група в Facebook",
   "home": "Панель приладів",
-  "homepage": "Домашня сторінка",
+  "homepage": "Домівка",
   "menu": {
-    "account": "Налаштування Облікового запису",
-    "signout": "Вийти з облікового запису"
+    "account": "Налаштування обл. запису",
+    "signout": "Вийти з обл. запису"
   },
-  "projects": "Проекти",
-  "refer": "Наквагенс",
+  "projects": "Проєкти",
+  "refer": "Naquagems",
   "search": {
-    "placeholder": "Пошук проектів або творців",
+    "placeholder": "Пошук проєктів або творців",
     "resultTitle": "Результати пошуку",
     "popularSearches": "Популярні пошукові запити",
-    "seeMore": "Побачити більше>",
+    "seeMore": "Дивитися більше",
     "tab": {
-      "all": "всі",
+      "all": "Усе",
       "creators": "Творці",
-      "projects": "Проекти"
+      "projects": "Проєкти"
     }
   },
   "notification": {
     "comment": "прокоментував",
-    "creationCreated": "випустив новий проект",
-    "creationUpdated": "оновив проект",
-    "follow": "підписується на вас",
+    "creationCreated": "випустив новий проєкт",
+    "creationUpdated": "оновив проєкт",
+    "follow": "підписався на вас",
     "joinClass": "приєднався до класу",
-    "like": "вподобав ваш проект",
-    "likeButtonText": "Вподобайка",
+    "like": "вподобав ваш проєкту",
+    "likeButtonText": "Уподобати",
     "loadMore": "Завантажити ще",
     "publishAssignment": "Нове завдання!",
-    "reply": "відповів на ваш коментар до",
+    "reply": "відповів на ваш коментар в",
     "submitWork": "подав класну роботу",
-    "subscribedUserLike": "вподобав проект",
+    "subscribedUserLike": "вподобав проєкт",
     "title": "Повідомлення"
   }
 }
