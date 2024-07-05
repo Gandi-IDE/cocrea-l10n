@@ -48,6 +48,12 @@
       "title": "Pengesahan E-mel"
     }
   },
+  "other": {
+    "label": "LEBIHAN",
+    "language": {
+      "label": "Bahasa"
+    }
+  },
   "profile": {
     "birthday": "Hari jadi",
     "title": "PROFIL"
@@ -57,9 +63,13 @@
       "answer1": "Pemain",
       "answer2": "Pencipta/Scratcher",
       "answer3": "Cikgu",
+      "birthday": {
+        "tip": "Untuk melindungi penguna bawah umur, info umur akan digunakan untuk melarang projek yang tidak sesuai bagi kanak-kanak bawah 13 tahun.",
+        "title": "Bilakah hari jadi awak?"
+      },
       "Question": "Bagaimana anda menggambarkan diri anda?"
     },
-    "Done": "Mari pergi!",
+    "Done": "Siap!",
     "hearUs": {
       "option1": "Youtube",
       "option2": "carian Google",

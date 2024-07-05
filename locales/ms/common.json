@@ -2,16 +2,33 @@
   "comment": {
     "add": "Tinggalkan komen",
     "commentButton": "Hantar",
+    "delete": {
+      "label": "Padam"
+    },
     "hide": "Sembunyikan {{count}} balasan",
     "pin": {
-      "content": "komen disematkan",
+      "content": "komen dipinkan",
       "title": "Pin"
     },
     "reply": "Balas",
+    "report": {
+      "desc": "Laporan akan dilihat oleh pasukan moderator. Jika disahkan, komen akan dipadam.",
+      "label": "Laporkan",
+      "reason": {
+        "label": "Sebab",
+        "optional1": "Pengiklanan atau spam",
+        "optional2": "Menyinggung",
+        "optional3": "Menganggu atau mengancam",
+        "optional4": "Melanggar privasi",
+        "optional5": "Lain-lain",
+        "title": "Sebab"
+      },
+      "title": "Laporkan komen"
+    },
     "seeMore": "Lihat {{count}} balasan",
     "totalNum": "{{count}} Komen",
     "unpin": {
-      "title": "nyahpin"
+      "title": "buang pin"
     }
   },
   "common": {
@@ -81,14 +98,15 @@
   "refer": {
     "balance": "Naquagems",
     "burn": {
-      "storage": "Storan awan",
+      "burnButton": "BAKAR",
+      "storage": "Storan awam",
+      "title": "BAKAR CWC",
       "typeAsset": "item"
     },
     "data": {
       "tableHeaderEarned": "DIPEROLEHI",
       "tableHeaderPage": "HALAMAN",
       "tableHeaderPV": "PV DARI PAUTAN ANDA",
-      "tableHeaderSignup": "PENDAFTAR",
       "title": "Orang yang telah anda jemput"
     },
     "howWork": {
