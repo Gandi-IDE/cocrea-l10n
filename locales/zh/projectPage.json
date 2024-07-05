@@ -22,7 +22,9 @@
     "original": "原创",
     "originalTitle": "原创作品链接：",
     "remixed": "改编",
-    "reposted": "转载"
+    "reposted": "转载",
+    "featured": "推荐",
+    "monthly_picks": "月度精选"
   },
   "rating": {
     "tip": "该内容可能包含暴力、暗示性主题、粗俗幽默、血腥以及其他不适合13岁以下用户的内容。"
