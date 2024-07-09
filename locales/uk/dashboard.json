@@ -2,7 +2,9 @@
   "data": {
     "Subscribers": "Підписники",
     "totalPlayed": "Зіграно за весь час",
-    "totalPlaytime": "Зіграний час за весь час"
+    "totalPlaytime": "Зіграний час за весь час",
+    "playCount": "Кількість відтворень",
+    "playTime": "Час відтворення"
   },
   "guide": {
     "task1Create": "Створіть і опублікуйте проєкт з Gandi.",
