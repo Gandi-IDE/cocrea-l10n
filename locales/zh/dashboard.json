@@ -2,7 +2,9 @@
   "data": {
     "Subscribers": "订阅者",
     "totalPlayed": "总试玩次数",
-    "totalPlaytime": "总试玩时长"
+    "totalPlaytime": "总试玩时长",
+    "playCount": "试玩次数",
+    "playTime": "试玩时长"
   },
   "guide": {
     "task1Create": "使用 Gandi 编辑器创建一个作品并完成发布",

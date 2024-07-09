@@ -2,7 +2,9 @@
   "data": {
     "Subscribers": "Pelanggan",
     "totalPlayed": "Jumlah pemain sepanjang masa",
-    "totalPlaytime": "Tempoh bermain sepanjang masa"
+    "totalPlaytime": "Tempoh bermain sepanjang masa",
+    "playCount": "Kiraan Main",
+    "playTime": "Masa Main"
   },
   "guide": {
     "task1Create": "Cipta dan terbitkan projek anda dengan Gandi IDE.",

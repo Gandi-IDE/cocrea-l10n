@@ -2,7 +2,9 @@
   "data": {
     "Subscribers": "Suscriptores",
     "totalPlayed": "Todos los tiempos jugados",
-    "totalPlaytime": "Tiempo de juego de todos los tiempos"
+    "totalPlaytime": "Tiempo de juego de todos los tiempos",
+    "playCount": "Recuento de reproducciones",
+    "playTime": "Tiempo de reproducción"
   },
   "guide": {
     "task1Create": "Crea y publica un proyecto con Gandi.",
