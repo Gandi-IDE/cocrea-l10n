@@ -148,6 +148,10 @@
   "time": {
     "justNow": "baru sahaja",
     "ago": "yang lalu",
+    "minute": "minit",
+    "minutes": "minit",
+    "hour": "jam",
+    "hours": "jam",
     "day": "hari",
     "days": "hari",
     "month": "bulan",

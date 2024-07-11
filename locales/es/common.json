@@ -147,6 +147,10 @@
   "time": {
     "justNow": "justo ahora",
     "ago": "hace",
+    "minute": "minuto",
+    "minutes": "minutos",
+    "hour": "hora",
+    "hours": "horas",
     "day": "día",
     "days": "días",
     "month": "mes",

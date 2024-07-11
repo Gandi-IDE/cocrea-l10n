@@ -97,7 +97,7 @@
     "section2ExcellentCreators": "Чудові творці"
   },
   "refer": {
-    "balance": "Naquagems", 
+    "balance": "Naquagems",
     "burn": {
       "burnButton": "СПАЛИТИ",
       "storage": "Хмарне сховище",
@@ -149,6 +149,10 @@
   "time": {
     "justNow": "щойно",
     "ago": "тому",
+    "minute": "хвилина",
+    "minutes": "хвилини",
+    "hour": "година",
+    "hours": "години",
     "day": "день",
     "days": "дн.",
     "month": "місяць",
