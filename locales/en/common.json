@@ -147,6 +147,10 @@
   },
   "time": {
     "justNow": "just now",
+    "minute": "minute",
+    "minutes": "minutes",
+    "hour": "hour",
+    "hours": "hours",
     "ago": "ago",
     "day": "day",
     "days": "days",

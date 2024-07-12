@@ -142,6 +142,10 @@
   "time": {
     "justNow": "刚刚",
     "ago": "前",
+    "minute": "分钟",
+    "minutes": "分钟",
+    "hour": "小时",
+    "hours": "小时",
     "day": "天",
     "days": "天",
     "month": "月",

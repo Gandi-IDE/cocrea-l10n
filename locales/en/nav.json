@@ -39,6 +39,7 @@
     "reply": "replied to your comment on",
     "submitWork": "submitted the classwork",
     "subscribedUserLike": "liked the project",
-    "title": "Messages"
+    "title": "Messages",
+    "remix_creation": "remixed your project"
   }
 }
