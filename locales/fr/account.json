@@ -1,0 +1,112 @@
+{
+  "connect": {
+    "connect": "Se connecter",
+    "connected": "Connecté",
+    "disconnect": "Déconnecté",
+    "disconnectConfirm": "Êtes vous sur de vous déconnecter?",
+    "join": "Rejoignez notre discord",
+    "title": "SERVICES CONNECTÉS"
+  },
+  "deleteRequest": {
+    "tips": "S'il vous plait notez bien que supprimer votre compte est irréversible. Quand votre compte sera suprimmé, toutes vos données, y compris votre profile et vos projets vont être supprimez de nos systemes DÉFINITIVEMENT.",
+    "title": "SUPPRIMER LE COMPTE"
+  },
+  "deleteRequestConfirm": {
+    "tips": "Votre compte vas être supprimer définitivement après 30 jours.\nSi vous changez d'avis et voulez garder votre compte, connectez vous a votre compte avant le délais de 30 jours pour annuler la supression. Lors que les 30 jours seront passés, votre compte sera supprimé définitivement et ne pourras plus être récupéré. Veuillez vous assurer de sauvegarder toutes les données pertinentes à l'avance.",
+    "title": "Êtes vous sur de vouloir supprimer votre compte?"
+  },
+  "deleteRequestRevert": {
+    "button": "REVENIR EN ARRIÈRE",
+    "time": "Temps de suppression réel",
+    "tips": "Après avoir complété le formulaire, vous pouvez toujours acceder a Cocrea normallement avant les 30 jours et annuler la suppresion de votre compte a n'importe quel moment pendant cette période. Après 30 jours, votre compte sera supprimé définitivement.",
+    "title": "DÉSACTIVER LE COMPTE"
+  },
+  "domain": {
+    "title": "DOMAINE",
+    "URLdesc": "Votre pseudo est utilisé dans l'url de votre page"
+  },
+  "loginDetail": {
+    "changePassword": {
+      "desc": "S'il vous plait entrez un nouveau mot de passe.",
+      "easyGuess": "Entrez un mot de passe entre 6 et 20 caractères, containant des lettres et des nombres.",
+      "inputConfirmPlaceholder": "Confirmez votre nouveau mot de passe",
+      "inputPlaceholder": "Nouveau mot de passe",
+      "notSame": "Les mots de passe ne sont pas les mêmes",
+      "title": "Mettre a jour le mot de passe",
+      "update": "Mettre a jour le mot de passe"
+    },
+    "newEmail": {
+      "confirmButton": "Envoyer un email de confirmation",
+      "desc1": "Entrez une nouvelle addresse email et nous vous enverrons a code de 4 chiffre pour confirmer qu'elle vous appartient et pour garder votre compte sécurisé.",
+      "desc2": "Votre addresse email actuelle est: {{email}}",
+      "inputPlaceholder": "Votre nouvel email",
+      "title": "Mettre a jour l'addresse email"
+    },
+    "title": "PARAMÈTRES DE CONNECTION",
+    "validationDialog": {
+      "desc": "Nous avons envoyer un code a 4 chiffres à {{email}}. Entrez les 4 chiffres du code pour garder votre compte sécurisé.",
+      "title": "Validation par email"
+    }
+  },
+  "other": {
+    "label": "AUTRES",
+    "language": {
+      "label": "Langue"
+    }
+  },
+  "profile": {
+    "birthday": "Date d'anniversaire",
+    "title": "PROFILE"
+  },
+  "welcomeCard": {
+    "desc": {
+      "answer1": "Joueur",
+      "answer2": "Créateur de projets/Scratcheur",
+      "answer3": "Professeur",
+      "birthday": {
+        "tip": "Pour la protection des mineurs, votre age sera utilisé pour filtrer les projets qui ne sont pas pour les enfants en dessous de 13 ans.",
+        "title": "Quelle est votre date de naissance?"
+      },
+      "Question": "Comment vous décrivez vous?"
+    },
+    "Done": "C'est parti!!",
+    "hearUs": {
+      "option1": "Youtube",
+      "option2": "Recherche google",
+      "option3": "Scratch.mit.edu",
+      "option4": "Famille ou Amis",
+      "option5": "Professeur",
+      "option6": "Discord",
+      "option7": "Le concour des jeux scratch ou Itch.io ou Gamejolt, ou un autre service de même type.",
+      "option8": "Un post sur un réseau social ",
+      "option9": "Autre",
+      "Question": "Comment avez vous entendus parler de nous?",
+      "title": "Clickez sur une des options"
+    },
+    "title": "Bienvenu sur Cocrea! "
+  },
+  "signIn": {
+    "dialog": {
+      "confirmButton": "Continuer",
+      "emailInputBox": "Email",
+      "emailTypeError": "Email incorrect.",
+      "otherSignIn": "Vous pouvez vous authentifier avec",
+      "password": {
+        "back": "Authentification par email",
+        "Error": "Pseudo ou mot de passe incorrect.",
+        "label": "Authentification par mot de passe",
+        "usernameInput": "Pseudo ou email"
+      },
+      "privacy": "En m'authentifiant, j'accepte la",
+      "privacyPolicy": "politique de confidentialité",
+      "title": "Bienvenue a Cocrea! ",
+      "verifyEmail": {
+        "codeError": "Votre code est incorrect. S'il vous plait rerentrez le.",
+        "des": "Nous vous avons envoyé un code à 4 chiffres a <email></email>. Regardez dans votre messagerie email.",
+        "resend": "Renvoyer un code",
+        "resendTip": "Email envoyé!"
+      },
+      "warn": "C'est recommandé de se connecter ou les données du projet pourrait être perdues."
+    }
+  }
+}

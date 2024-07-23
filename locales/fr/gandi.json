@@ -1,0 +1,119 @@
+{
+  "gandi": {
+    "achievement": {
+      "createFirst": "Aucune réalisation trouvée",
+      "saveFirst": "Vous devez enregistrer le projet avant d'utiliser les réalisations!"
+    },
+    "AddtoInbox": "Mettre dans le sac à dos",
+    "AllowEditing": "Autoriser la modification",
+    "announcemen": {
+      "changelog": "Journal des modifications",
+      "title": "Annonce"
+    },
+    "AssetsStore": "Magasin d'actifs",
+    "CloudStorage": "Stockage en nuage",
+    "CollaborationInvitationLink": "Inviter des collaborateurs",
+    "Collaborators": "Collaborateurs",
+    "CopyLink": "Copier le lien",
+    "Edit": "Modifier",
+    "Extension": "Extension",
+    "ExtensionAdded": "Installée",
+    "extensionPath": {
+      "create": "Créer une nouvelle piste",
+      "drawPathTip": "Veuillez d'abord dessiner la piste",
+      "duration": "Durée",
+      "editPath": "Modifier la piste",
+      "mark": "Marquer",
+      "path": "Piste",
+      "pathName": "Nom de la piste",
+      "redraw": "Redessiner",
+      "selectPath": "Sélectionner la piste",
+      "splitPath": "Diviser la piste"
+    },
+    "ExtensionRecommand": "Recommander",
+    "leaderboard": {
+      "createFirst": "Cliquez sur l'icône [🏆] dans le menu de gauche pour créer le classement"
+    },
+    "myBlockCreate": {
+      "%tip": "L'utilisation de % comme nom n'est pas prise en charge."
+    },
+    "NoMembersYet": "Pas encore de membres",
+    "Notification": "Notification",
+    "NotLoginTips": "Bienvenue chez Gandi! Vous pouvez profiter de toutes les fonctionnalités en créant ou en vous connectant à votre compte.",
+    "ObserverInvitationLink": "Inviter des observateurs",
+    "Observers": "Observateurs",
+    "ObserversCanOnlyViewCodeAndRunProgram": "Les observateurs peuvent uniquement voir le code et exécuter le programme, ils ne peuvent pas modifier le projet.",
+    "Offline": "Hors ligne",
+    "OnlyCollaboratorsCanUploadProjectsLocally": "Seuls les collaborateurs peuvent télécharger des projets localement",
+    "OperationFailed": "Échec de l'opération",
+    "OperationSucceeded": "Opération réussie",
+    "publish": {
+      "dialog": {
+        "rating": {
+          "optional1": {
+            "content": "le travail ne contient aucun contenu inapproprié.",
+            "label": "Pour tout le monde"
+          },
+          "optional2": {
+            "content": "le travail est adapté aux personnes de 13 ans et plus. (Veuillez sélectionner cette classification si le travail contient de la violence, du sang, de l'humour grossier, des jeux de hasard, etc.)",
+            "label": "Pas pour tout le monde"
+          },
+          "title": "Veuillez sélectionner la classification d'âge appropriée pour votre projet."
+        }
+      },
+      "verification": {
+        "extension": "Après la publication d'une extension personnalisée, elle peut empêcher le programme de s'exécuter, donc elle ne prend en charge que le débogage local et ne peut pas être publiée"
+      }
+    },
+    "PublishProject": "Publier",
+    "Reload": "Recharger",
+    "ResetLinkConfirmation": "Confirmation de réinitialisation du lien",
+    "ResetLinkConfirmationText": "Après la réinitialisation du lien, les liens précédents seront invalidés. Veuillez procéder avec prudence. Confirmer la réinitialisation?",
+    "SaveProject": "Enregistrer",
+    "TeamMembers": "Membres de l'équipe:",
+    "TeamMembersEmpty": "Pas de membres dans l'équipe",
+    "teamwork": {
+      "dialog": {
+        "collaborationAnomaly": "Anomalie de collaboration, quelque chose s'est mal passé.",
+        "dataRetrievalFailed": "Échec de la récupération des données du projet. Veuillez rafraîchir la page et réessayer",
+        "errorReport": "Oups, quelque chose s'est mal passé lors de la collaboration. Nos ingénieurs ont été informés du problème. Pour éviter la perte de données, nous vous suggérons d'enregistrer votre travail et de rafraîchir la page pour réessayer.",
+        "refreshButton": "Rafraîchir",
+        "restored": "Le propriétaire du projet a restauré le projet à une version précédente.",
+        "restoring": "Le propriétaire du projet réinitialise le projet. Veuillez patienter...",
+        "saveToComputer": "Enregistrer sur votre ordinateur"
+      },
+      "errorTip": "Seul le propriétaire du projet peut télécharger des projets locaux.",
+      "replaceSuccess": "Projet remplacé avec succès!",
+      "resetLinkTip": "Le lien a été réinitialisé."
+    },
+    "Teamwork": {
+      "loadFail": "Échec du chargement du projet, veuillez rafraîchir la page et réessayer.",
+      "replaceTip": "Seul le propriétaire du projet peut remplacer le projet"
+    },
+    "TeamworkDescription": "Invitez vos amis, coéquipiers et collègues directement dans votre projet et développez-le ensemble.",
+    "TeamworkInviteButoon": "Inviter",
+    "TeamworkInviteButton": "Inviter",
+    "TeamworkJoinErrorExpiredDescription": "Contactez le propriétaire du projet pour obtenir un nouveau lien d'invitation.",
+    "TeamworkJoinErrorFullDescription": "L'équipe de collaboration est déjà pleine. Veuillez réessayer plus tard.",
+    "TeamworkJoinErrorTitle": "Échec de la participation à la collaboration!",
+    "TeamworkJoinToast": "{{name}} a rejoint la collaboration",
+    "TeamworkLeaveConfirmation": "Êtes-vous sûr de vouloir quitter la collaboration?",
+    "TeamworkLeaveToast": "{{name}} a quitté la collaboration",
+    "TeamworkManageTeamCopied": "Copié",
+    "TeamworkManageTeamCopyLink": "Copier le lien d'invitation",
+    "TeamworkManageTeamLeave": "Quitter",
+    "TeamworkManageTeamMembers": "membres",
+    "TeamworkManageTeamMembersFull": "complet",
+    "TeamworkManageTeamOwner": "Propriétaire",
+    "TeamworkManageTeamRemove": "Retirer",
+    "TeamworkManageTeamRemoveConfirmation": "Confirmez-vous le retrait de {{name}} de la collaboration?",
+    "TeamworkManageTeamRemoved": "Vous avez été retiré de la collaboration par le propriétaire du projet.",
+    "TeamworkManageTeamResetCopyLink": "Réinitialiser le lien",
+    "TeamworkManageTeamTitle": "Équipe",
+    "TeamworkManageTeamTransfer": "Transférer la propriété",
+    "TeamworkNetworkOffline": "La reconnexion au réseau a réussi!",
+    "TeamworkNetworkOnline": "Échec de la connexion réseau!",
+    "ViewOnly": "Consultation uniquement",
+    "You": "Vous"
+  }
+}

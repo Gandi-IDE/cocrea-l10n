@@ -58,6 +58,7 @@
     },
     "bgTitle": "Latar belakang",
     "edit": "Mengedit",
+    "editPage": "Edit Halaman",
     "theme": {
       "title": "Pilih templat halaman yang anda suka"
     },
@@ -70,6 +71,8 @@
         "projectDesc": "Sisipkan projek daripada yang dimainkan baru-baru ini",
         "projectList": "Senarai projek",
         "projectListDesc": "Masukkan senarai projek",
+        "portfolio": "Projek-projek saya",
+        "portfolioDesc": "Mempersembahkan projek-projek saya",
         "titleOption": "Pilihan",
         "titleStyle": "Gaya",
         "user": "pengguna",
@@ -114,6 +117,10 @@
       },
       "projectList": {
         "repeatTip": "Project tersebut sudah pun wujud"
+      },
+      "portfolio": {
+        "emptyText": "Ruang ini sedang menunggu kreativiti anda. Tambahkan projek pertama anda!",
+        "addButtonText": "Tambahkan projek pertama anda!"
       },
       "projectListCardSize": {
         "four": "4 Item / Baris",

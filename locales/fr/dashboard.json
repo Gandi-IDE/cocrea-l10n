@@ -1,0 +1,20 @@
+{
+  "data": {
+    "Subscribers": "Abonnés",
+    "totalPlayed": "Temps total passé a jouer",
+    "totalPlaytime": "Temps joué depuis la création du compte",
+    "playCount": "Nombre de fois joués",
+    "playTime": "Temps de jeu"
+  },
+  "guide": {
+    "task1Create": "Crée et publie un projet avec Gandi.",
+    "task2DesignProjectPage": "customise ta page de projet.",
+    "task3ProfileDomain": "Choisis le nom de domaine de ton profil.",
+    "task4SharePage": "partage ta page de projet ou ta page d'accueil avec tes amis.",
+    "task5DesignHomepage": "Customiser sa page d'accueil.",
+    "title": "Commencer par quoi?"
+  },
+  "subscribe": {
+    "subscriptionsTab": "Abonnements"
+  }
+}

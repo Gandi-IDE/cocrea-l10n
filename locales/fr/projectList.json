@@ -1,0 +1,28 @@
+{
+  "collaboratorEditTip": "Ce projet ne peut être géré que par le propriétaire.",
+  "createButton": "Nouveau projet",
+  "draftLabel": "BROUILLON",
+  "editTime": "Modifié",
+  "filterTitleProperty": {
+    "label": "Type",
+    "normal": "Normal"
+  },
+  "filterTitleStatus": "Statut",
+  "importAllFromScratch": "Importer tous mes projets Scratch",
+  "importScratch": "Importer depuis Scratch",
+  "projectDeleteConfirmDescription": "Cette action est irréversible et le projet sera supprimé de votre compte.",
+  "projectDeleteConfirmTitle": "Voulez-vous supprimer ce projet?",
+  "projectFilterTypeAll": "Tous",
+  "projectPrivateButton": "Privé",
+  "projectPrivateConfirmDescription": "Vous seul pouvez voir et jouer ce projet lorsque vous le rendez privé.",
+  "projectPrivateConfirmTitle": "Voulez-vous rendre ce projet privé?",
+  "projectTypeDraft": "Brouillon",
+  "projectTypePrivate": "Privé",
+  "projectTypePublished": "Publié",
+  "projectTypeTeamwork": "Travail d'équipe",
+  "publishLabel": "PUBLIÉ",
+  "publishTime": "Publié",
+  "setPrivate": "Définir comme privé",
+  "setPublic": "Rendre public",
+  "teamLabel": "Travail d'équipe"
+}

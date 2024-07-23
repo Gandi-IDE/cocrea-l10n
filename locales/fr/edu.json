@@ -1,0 +1,47 @@
+{
+  "host": {
+    "acceleratedBy": "Accéléré par",
+    "archive": "Archive",
+    "createBy": "Créé par",
+    "footer": {
+      "aboutGandi": "À propos de Gandi",
+      "contactUs": "Contactez-nous",
+      "copyright": "Cocrea.world · Propulsé par Gandi",
+      "policy": "Politique de confidentialité"
+    },
+    "instructionsTab": "Instructions",
+    "loadingSpeed": "Vitesse de chargement",
+    "notesCredits": "Notes et crédits",
+    "Played": "Joué",
+    "poweredBy": "Propulsé par",
+    "publish": {
+      "advancedExtensionTip": "Cette extension est incompatible avec Scratch. Les projets créés avec ne peuvent pas être téléchargés sur le site Scratch. Vous pouvez partager le projet sur Cocrea. Assurez-vous avant de l'utiliser.",
+      "cocrea": {
+        "label": "Publier sur Cocrea"
+      },
+      "dialogCocreaAnswer1": "Cocrea est compatible avec toutes les extensions Gandi.",
+      "dialogCocreaAnswer2": "Les projets complexes peuvent être chargés et exécutés très rapidement.",
+      "dialogCocreaAnswer3": "Vous pouvez personnaliser vos pages de projet de manière flexible.",
+      "dialogCocreaTitle": "Pourquoi publier sur Cocrea ?",
+      "dialogScratchTitle": "Comment publier sur Scratch ?",
+      "dialogTitle": "Publier le projet",
+      "retainDialogDesc": "Cocrea est compatible avec toutes les extensions Gandi. Les projets complexes peuvent être chargés et exécutés très rapidement.",
+      "retainDialogLearnMore": "Hum, je veux en savoir plus",
+      "retainDialogScratch": {
+        "goScratch": "Aller sur Scratch",
+        "label": "Le projet a été sauvegardé sur votre ordinateur"
+      },
+      "retainDialogTitle": "Essayez de publier sur Cocrea",
+      "retainDialogTryButton": "Cool ! Laissez-moi essayer",
+      "scratch": {
+        "label": "Partager sur Scratch"
+      },
+      "warnDesc": "Ce projet est créé avec des extensions incompatibles avec Scratch. Il ne peut pas être téléchargé sur le site Scratch.",
+      "warnTitle": "Avertissement",
+      "welcomeDialogTitle": "Bienvenue sur Gandi IDE !"
+    },
+    "run": "Exécuter",
+    "runningSpeed": "Vitesse d'exécution",
+    "seeInside": "Voir à l'intérieur"
+  }
+}

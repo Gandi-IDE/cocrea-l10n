@@ -1,0 +1,41 @@
+{
+  "balance": {
+    "desc": "Solde des Naquagems",
+    "leaderboard": {
+      "clickDCUserTip": "L'utilisateur est de Discord et ne s'est pas inscrit à Cocrea."
+    },
+    "leaderboardTitle": "Classement NG",
+    "whatNG": "Qu'est-ce que les Naquagems ?"
+  },
+  "detail": {
+    "chart": {
+      "noData": "Nous n'avons trouvé aucune donnée."
+    },
+    "chartTitle": "Graphique",
+    "earnNG": "NG gagnés",
+    "form": {
+      "change": "CHANGER",
+      "date": "DATE",
+      "instruction": "INSTRUCTION"
+    },
+    "formTitle": "Formulaire",
+    "LAST_1_DAY": "Hier",
+    "LAST_7_DAYS": "Les 7 derniers jours",
+    "LAST_30_DAYS": "Les 30 derniers jours",
+    "LAST_90_DAYS": "Les 90 derniers jours",
+    "selectDate": "Sélectionner une date",
+    "title": "Détails des NG"
+  },
+  "earnNG": {
+    "desc": "Vous pouvez gagner des NG en complétant des tâches, en invitant des amis à Cocrea et en participant aux Game Jams !",
+    "taskBoard": {
+      "completed": "Terminé",
+      "desc": "Description",
+      "remark": "Remarque",
+      "reward": "Récompense",
+      "time": "Temps",
+      "title": "Tableau des tâches"
+    },
+    "title": "Comment gagner des NG ?"
+  }
+}
