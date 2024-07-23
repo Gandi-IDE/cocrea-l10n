@@ -80,5 +80,10 @@
   },
   "tags": {
     "label": "Add Tags"
+  },
+  "remix": {
+    "disabled": "Remix Disabled",
+    "cannot_remix": "You cannot remix your own project",
+    "not_permitted": "Remixing is not permitted"
   }
 }

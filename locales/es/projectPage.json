@@ -80,5 +80,10 @@
   },
   "tags": {
     "label": "Agregar Etiquetas"
+  },
+  "remix": {
+    "disabled": "Remix deshabilitado",
+    "cannot_remix": "No puedes remezclar tu propio proyecto",
+    "not_permitted": "Remezclar no está permitido"
   }
 }
