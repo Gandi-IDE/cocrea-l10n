@@ -80,5 +80,10 @@
   },
   "tags": {
     "label": "Tambah Tag"
+  },
+  "remix": {
+    "disabled": "Remix Dinonaktifkan",
+    "cannot_remix": "Anda tidak boleh remix projek anda sendiri",
+    "not_permitted": "Remix tidak dibenarkan"
   }
 }

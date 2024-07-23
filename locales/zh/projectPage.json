@@ -80,5 +80,10 @@
   },
   "tags": {
     "label": "添加标签"
+  },
+  "remix": {
+    "disabled": "改编已禁用",
+    "cannot_remix": "你不能改编自己的项目",
+    "not_permitted": "不允许改编"
   }
 }
