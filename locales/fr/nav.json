@@ -1,0 +1,45 @@
+{
+  "about": "À propos de nous",
+  "classroom": "Salle de classe",
+  "createButton": "Créer",
+  "discord": "Rejoindre le Discord",
+  "docs": "Apprendre & Docs",
+  "educators": "Pour les éducateurs",
+  "explore": "Explorer",
+  "facebook": "Rejoindre le groupe Facebook",
+  "home": "Tableau de bord",
+  "homepage": "Page d'accueil",
+  "menu": {
+    "account": "Paramètres du compte",
+    "signout": "Se déconnecter"
+  },
+  "projects": "Projets",
+  "refer": "Naquagems",
+  "search": {
+    "placeholder": "Rechercher des projets ou des créateurs",
+    "resultTitle": "Résultats de recherche",
+    "popularSearches": "Recherches populaires",
+    "seeMore": "Voir plus",
+    "tab": {
+      "all": "Tout",
+      "creators": "Créateurs",
+      "projects": "Projets"
+    }
+  },
+  "notification": {
+    "comment": "a commenté sur",
+    "creationCreated": "a publié un nouveau projet",
+    "creationUpdated": "a mis à jour le projet",
+    "follow": "vous suit",
+    "joinClass": "a rejoint la classe",
+    "like": "a aimé votre projet",
+    "likeButtonText": "J'aime",
+    "loadMore": "Charger plus",
+    "publishAssignment": "Nouvelle tâche!",
+    "reply": "a répondu à votre commentaire sur",
+    "submitWork": "a soumis le travail de classe",
+    "subscribedUserLike": "a aimé le projet",
+    "title": "Messages",
+    "remix_creation": "a remixé votre projet"
+  }
+}

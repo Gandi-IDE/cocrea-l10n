@@ -58,6 +58,7 @@
     },
     "bgTitle": "Background",
     "edit": "Editing",
+    "editPage": "Edit Page",
     "theme": {
       "title": "Pick a page template you love"
     },
@@ -70,6 +71,8 @@
         "projectDesc": "Insert a project from recently played",
         "projectList": "Project list",
         "projectListDesc": "Insert a project list",
+        "portfolio": "My projects",
+        "portfolioDesc": "Showcase my projects",
         "titleOption": "Option",
         "titleStyle": "Style",
         "user": "User",
@@ -114,6 +117,10 @@
       },
       "projectList": {
         "repeatTip": "The project already exists"
+      },
+      "portfolio": {
+        "emptyText": "This space is waiting for your creativity. Add your first project!",
+        "addButtonText": "Add your first project!"
       },
       "projectListCardSize": {
         "four": "4 Items / Row",

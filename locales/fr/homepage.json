@@ -1,0 +1,198 @@
+{
+  "bio": {
+    "default": "Décrivez-vous..."
+  },
+  "joinedTime": "Inscrit il y a xxx",
+  "joinTime": "Inscrit",
+  "multiplePage": {
+    "addPage": "Ajouter une page",
+    "duplicate": "Dupliquer",
+    "pageManagement": "Gérer les pages",
+    "remove": "Supprimer",
+    "removeDialogDes": "Cette action est irréversible et la page sera supprimée de votre compte",
+    "removeDialogTitle": "Voulez-vous supprimer cette page ?",
+    "rename": "Renommer",
+    "title": "Page"
+  },
+  "pageEdit": {
+    "bgColor": {
+      "tab": "Couleur"
+    },
+    "bgImage": {
+      "cancel": "Annuler et ne pas enregistrer",
+      "clear": "Vider",
+      "fill": {
+        "auto": "Automatique",
+        "contain": "Contenir",
+        "cover": "Couvrir"
+      },
+      "fillTitle": "Taille",
+      "position": {
+        "centerBottom": "Centre bas",
+        "centerCenter": "Centre centre",
+        "centerTop": "Centre haut",
+        "leftBottom": "Gauche bas",
+        "leftCenter": "Gauche centre",
+        "leftTop": "Gauche haut",
+        "rightBottom": "Droite bas",
+        "rightCenter": "Droite centre",
+        "rightTop": "Droite haut"
+      },
+      "positionTitle": "Position",
+      "repeat": {
+        "no-repeat": "Ne pas répéter",
+        "repeat": "Répéter",
+        "repeat-x": "Répéter seulement horizontalement",
+        "repeat-y": "Répéter seulement verticalement"
+      },
+      "repeatTitle": "Répétition",
+      "scroll": {
+        "fixed": "Fixé",
+        "scroll": "Défilant"
+      },
+      "scrollTitle": "Attachement",
+      "subtitle": "Style",
+      "tab": "Image",
+      "upload": "Téléverser",
+      "uploadChange": "Remplacer"
+    },
+    "bgTitle": "Arrière-plan",
+    "edit": "Édition",
+    "editPage": "Éditer la page",
+    "theme": {
+      "title": "Choisissez un modèle de page que vous aimez"
+    },
+    "editor": {
+      "editMenu": {
+        "addBelow": "Ajouter en dessous",
+        "Image": "Image",
+        "ImageDesc": "Insérer une image",
+        "project": "Projet",
+        "projectDesc": "Insérer un projet récemment joué",
+        "projectList": "Liste de projets",
+        "projectListDesc": "Insérer une liste de projets",
+        "portfolio": "Mes projets",
+        "portfolioDesc": "Présentez mes projets",
+        "titleOption": "Option",
+        "titleStyle": "Style",
+        "user": "Utilisateur",
+        "userDesc": "Mentionner un utilisateur",
+        "website": "Lien",
+        "websiteDesc": "Insérer un lien web",
+        "websiteTip": {
+          "desc": "Ce lien vous mènera à un autre site web. Êtes-vous sûr de vouloir continuer ?",
+          "title": "ATTENTION"
+        }
+      },
+      "imageCardSize": {
+        "brief": "Bref",
+        "fullscreen": "Plein écran",
+        "minimal": "Minimal",
+        "normal": "Normal"
+      },
+      "imageInput": {
+        "inputBoxPlaceholder": "Titre de l'image",
+        "placeholder": "Collez ou faites glisser pour téléverser ici"
+      },
+      "linkCardSize": {
+        "card": "Carte",
+        "minimal": "Minimal"
+      },
+      "linkInput": {
+        "titleDefault": "Entrer le titre",
+        "URLDefault": "Entrer l'URL",
+        "URLerror": "URL invalide"
+      },
+      "linkSafeTip": "Le site web est sécurisé. Vous pouvez lui faire confiance.",
+      "project": {
+        "cardDesc": "Ajouter un projet",
+        "invalid": "Projet invalide",
+        "searchInputText": "Entrer le nom du projet"
+      },
+      "projectCardSize": {
+        "fullScreen": "Plein écran",
+        "minimal": "Minimal",
+        "stageCard": "Stage",
+        "workCard": "Vignette"
+      },
+      "projectList": {
+        "repeatTip": "Le projet existe déjà"
+      },
+      "portfolio": {
+        "emptyText": "Cet espace attend votre créativité. Ajoutez votre premier projet!",
+        "addButtonText": "Ajoutez votre premier projet!"
+      },
+      "projectListCardSize": {
+        "four": "4 éléments / rangée",
+        "three": "3 éléments / rangée"
+      },
+      "useInfo": {
+        "editDialog": {
+          "photoDes": "Seuls les formats .png, .jpg, .jpeg sont autorisés"
+        }
+      },
+      "user": {
+        "invalid": "Utilisateur invalide"
+      },
+      "userCardSize": {
+        "brief": "Bref",
+        "crosswise": "Croisé",
+        "minimal": "Minimal",
+        "normal": "Normal",
+        "rich": "Riche"
+      }
+    }
+  },
+  "SEO_Edit": {
+    "homepage": {
+      "defaultDesc": "Venez visiter ma toute nouvelle page d'accueil et créer avec moi !",
+      "defaultKeywords": "scratch mit homepage project game create"
+    },
+    "keywords": {
+      "label": "Mots-clés",
+      "desc": "Les mots-clés permettent aux gens de trouver votre page via les moteurs de recherche."
+    },
+    "projectPage": {
+      "defaultDesc": "Bienvenue sur mon jeu {projectName} !",
+      "defaultKeywords": "scratch mit project game create"
+    },
+    "title": "Informations SEO",
+    "URL": {
+      "pathLengthError": "Elle doit comporter entre 4 et 60 caractères",
+      "pathTaken": "Cette URL est déjà utilisée par un autre utilisateur.",
+      "pathTypeError": "Les URL peuvent contenir des lettres, des chiffres, des tirets (-) et des underscores (_)."
+    },
+    "username": {
+      "confirmText": "Je comprends que le nom d'utilisateur que je choisis NE PEUT PAS être changé",
+      "lengthError": "4-20 caractères",
+      "takenError": "Ce nom d'utilisateur est déjà pris.",
+      "title": "Réclamez un nom d'utilisateur pour vous",
+      "typeError": "Les noms d'utilisateur peuvent contenir des lettres, des chiffres, des tirets (-) et des underscores (_)."
+    }
+  },
+  "pageError": {
+    "accessRestrictions": {
+      "desc": "Vous n'avez pas l'autorisation d'accéder à cette page. Veuillez vous inscrire.",
+      "title": "Oh.. Vous n'êtes pas autorisé ! 🔐"
+    },
+    "authorized": {
+      "desc": "Vous n'avez pas l'autorisation d'accéder à cette page. Passez à Creator pour débloquer.",
+      "title": "Vous n'êtes pas autorisé ! 🔐"
+    },
+    "launching": {
+      "desc": "Notre site web ouvrira bientôt.",
+      "title": "Nous lançons bientôt 🚀"
+    },
+    "notFound": {
+      "desc": "Nous ne trouvons pas la page que vous cherchez",
+      "title": "Page introuvable ⚠️"
+    },
+    "nothing": {
+      "desc": "Rien à montrer"
+    },
+    "serverError": {
+      "desc": "Oups, quelque chose s'est mal passé !",
+      "title": "Erreur interne du serveur 👨🏻‍💻"
+    }
+  }
+}

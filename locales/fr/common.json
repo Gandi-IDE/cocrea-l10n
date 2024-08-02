@@ -1,0 +1,162 @@
+{
+  "comment": {
+    "add": "Laisser un commentaire",
+    "commentButton": "Publier",
+    "delete": {
+      "label": "Supprimer"
+    },
+    "hide": "Masquer {{count}} réponses",
+    "pin": {
+      "content": "commentaire épinglé",
+      "title": "Épingler"
+    },
+    "reply": "Répondre",
+    "report": {
+      "desc": "Les signalements seront examinés par l'équipe de modération. Si approuvé, les commentaires signalés seront supprimés.",
+      "label": "Signaler",
+      "reason": {
+        "label": "Raison",
+        "optional1": "Publicité ou spam",
+        "optional2": "Offensant",
+        "optional3": "Harcèlement ou menaces",
+        "optional4": "Violation de la vie privée",
+        "optional5": "Autre",
+        "title": "Raison"
+      },
+      "title": "Signaler un commentaire"
+    },
+    "seeMore": "Voir {{count}} réponses",
+    "totalNum": "{{count}} Commentaires",
+    "unpin": {
+      "title": "Désépingler"
+    }
+  },
+  "common": {
+    "back": "Retour",
+    "bio": "Bio",
+    "cancel": "Annuler",
+    "change": "Modifier",
+    "charactersLimit": "caractères",
+    "commingSoon": "À venir",
+    "confirm": "Confirmer",
+    "copied": "COPIÉ!",
+    "copy": "COPIER",
+    "days": "il y a jours",
+    "delete": "Supprimer",
+    "description": "Description",
+    "done": "Terminé",
+    "edit": "Modifier",
+    "email": "Email",
+    "GotIt": "Compris",
+    "hours": "il y a heures",
+    "Import": "Importer",
+    "Imported": "Importé",
+    "learnMore": "En savoir plus",
+    "Likes": "J'aime",
+    "loginTitle": "Bienvenue sur Cocrea!",
+    "minutes": "il y a minutes",
+    "months": "il y a mois",
+    "next": "Suivant",
+    "nickname": "Pseudo",
+    "ok": "OK",
+    "password": "Mot de passe",
+    "preview": "Aperçu",
+    "previous": "Précédent",
+    "projectsNum": "Projets",
+    "publish": "Publier",
+    "reset": "Réinitialiser",
+    "save": "Sauvegarder",
+    "send": "ENVOYER",
+    "sent": "ENVOYÉ!",
+    "share": "Partager",
+    "signIn": "Se connecter",
+    "signOut": "Se déconnecter",
+    "subscribe": "S'ABONNER",
+    "subscribed": "ABONNÉ",
+    "subscribers": "Abonnés",
+    "title": "Titre",
+    "tryIt": "Essayer",
+    "unlimited": "Illimité",
+    "unsavedLeaveDialog": {
+      "desc": "Vous avez des modifications non sauvegardées. Êtes-vous sûr de vouloir quitter cette page?",
+      "leaveButton": "Réinitialiser et quitter",
+      "stayButton": "Rester sur cette page",
+      "title": "Attention, soyez prudent!"
+    },
+    "update": "Mettre à jour",
+    "upload": "Télécharger",
+    "url": "URL",
+    "username": "Nom d'utilisateur",
+    "years": "il y a années"
+  },
+  "explore": {
+    "section1Populargames": "Jeux populaires",
+    "section1ProjectCardLikedData": "Total de J'aime",
+    "section1ProjectCardPlayedData": "Total joué",
+    "section2ExcellentCreators": "Créateurs excellents"
+  },
+  "refer": {
+    "balance": "Naquagems",
+    "burn": {
+      "burnButton": "BRÛLER",
+      "storage": "Stockage cloud",
+      "title": "Brûler NG",
+      "typeAsset": "article"
+    },
+    "data": {
+      "tableHeaderEarned": "GAGNÉ",
+      "tableHeaderPage": "PAGE",
+      "tableHeaderPV": "PV DE VOTRE LIEN",
+      "title": "Personnes que vous avez invitées"
+    },
+    "howWork": {
+      "desc": "Lorsque vous parrainez quelqu'un sur Cocrea.world en utilisant votre lien de parrainage unique, il recevra 1 Nequagem dès qu'il créera un projet éligible. Et vous recevrez également 1 Nequagem avec Cocrea.",
+      "step1Content": "Parlez de Cocrea à vos amis. Copiez et envoyez votre lien de parrainage. Ou partagez simplement les jeux, histoires ou projets que vous aimez avec eux.",
+      "step1Title": "Parlez à vos amis",
+      "step2Content": "Vous pouvez suivre quand ils s'inscrivent, commencent à créer un projet, publient leur premier jeu, et plus encore.",
+      "step2Title": "Suivez leur progression",
+      "step3Content": "Gagnez des Naquagems lorsqu'ils créent un projet éligible.",
+      "step3Title": "Obtenez votre récompense!",
+      "title": "Comment ça marche?"
+    },
+    "link": {
+      "desc": "Copiez et partagez votre lien de parrainage avec vos amis.",
+      "subtitle": "Invitez quelqu'un qui peut créer des jeux, des animations, des histoires interactives et gagnez des Naquagems lorsqu'ils créent un projet éligible.",
+      "title": "Gagnez des Naquagems pour chaque nouveau créateur que vous parrainez"
+    },
+    "share": {
+      "answer": "R: Absolument! Ça compte!",
+      "nextGroup": "Groupe suivant",
+      "othersProjectDesc": "Découvrez ces projets, choisissez-en un et partagez-le avec vos amis.",
+      "ownProjectDesc": "Bien sûr, votre projet compte aussi!",
+      "question": "Q: Est-ce que cela compte pour un créateur qui s'inscrit avec le lien de jeu que je partage?"
+    },
+    "sharecard": {
+      "title": "Invitez un ami à Cocrea"
+    }
+  },
+  "fullScreen": {
+    "cocrea": {
+      "desc": "Construisez Mon Espace Scratch avec une personnalisation simple et flexible",
+      "title": "Bienvenue sur Cocrea"
+    },
+    "gandi": {
+      "desc": "Codez, concevez et créez des jeux ensemble",
+      "title": "Salut, c'est Gandi IDE"
+    }
+  },
+  "time": {
+    "justNow": "à l'instant",
+    "minute": "minute",
+    "minutes": "minutes",
+    "hour": "heure",
+    "hours": "heures",
+    "ago": "il y a",
+    "day": "jour",
+    "days": "jours",
+    "month": "mois",
+    "months": "mois",
+    "year": "année",
+    "years": "années"
+  }
+}

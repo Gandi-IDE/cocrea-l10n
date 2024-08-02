@@ -58,6 +58,7 @@
     },
     "bgTitle": "背景",
     "edit": "编辑中",
+    "editPage": "编辑页面",
     "theme": {
       "title": "挑选你喜欢的页面模板"
     },
@@ -70,6 +71,8 @@
         "projectDesc": "添加一个作品",
         "projectList": "作品列表",
         "projectListDesc": "添加一个作品列表",
+        "portfolio": "我的作品",
+        "portfolioDesc": "展示我的作品",
         "user": "用户",
         "userDesc": "提及一个用户",
         "website": "链接",
@@ -112,6 +115,10 @@
       },
       "projectList": {
         "repeatTip": "作品已添加"
+      },
+      "portfolio": {
+        "emptyText": "这个空间正等待你的创意。添加你的第一个项目吧！",
+        "addButtonText": "添加你的第一个项目吧！"
       },
       "projectListCardSize": {
         "four": "一行 4 个",

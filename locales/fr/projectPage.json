@@ -1,0 +1,89 @@
+{
+  "button": {
+    "like": {
+      "label": "J'aime"
+    }
+  },
+  "description": {
+    "default": "Voici la description de votre projet. Fournissez un bref résumé pour aider les joueurs à comprendre l'histoire et le contexte de votre projet. Cliquez sur la zone de texte pour commencer.",
+    "label": "Description"
+  },
+  "instructions": {
+    "default": "Voici les instructions de votre projet. Fournissez une brève instruction pour aider les joueurs à comprendre comment jouer à votre projet. Cliquez sur la zone de texte pour commencer.",
+    "label": "Instructions"
+  },
+  "otherProjects": {
+    "emptyDesc": "Pas d'autres projets",
+    "title": "Projets de"
+  },
+  "projectEditButton": "Modifier le projet",
+  "projectRemixButton": "Remixer",
+  "projectType": {
+    "original": "ORIGINAL",
+    "originalTitle": "Lien du projet original :",
+    "remixed": "REMIX",
+    "reposted": "REPOST",
+    "featured": "EN VEDETTE",
+    "monthly_picks": "SÉLECTIONS DU MOIS"
+  },
+  "rating": {
+    "tip": "Ce contenu peut contenir de la violence, des thèmes suggestifs, de l'humour grossier, du sang, et d'autres matériaux non adaptés aux utilisateurs de moins de 13 ans."
+  },
+  "report": {
+    "desc": "Le contenu signalé sera examiné par l'équipe officielle ou les modérateurs, et s'il est jugé inapproprié, le travail sera évalué ou supprimé.",
+    "label": "Signaler",
+    "optional1": {
+      "content": "Contenu pornographique ou adulte ; Langage violent, haineux ou discriminatoire ; Harcèlement ou menaces envers autrui.",
+      "label": "Contenu Inapproprié"
+    },
+    "optional2": {
+      "content": "Œuvres enfreignant les droits de propriété intellectuelle d'autrui, comme l'utilisation non autorisée d'images, d'audio, de vidéos, etc.",
+      "label": "Violation de Droits d'Auteur"
+    },
+    "optional3": {
+      "content": "Informations fabriquées ou trompeuses dans le travail pouvant induire les autres utilisateurs en erreur.",
+      "label": "Informations Fausses"
+    },
+    "optional4": {
+      "content": "Œuvres utilisées pour promouvoir des produits, services, ou liens vers des sites externes ; Contenu répétitif excessif, tel que des messages spam.",
+      "label": "Publicité ou Spam"
+    },
+    "optional5": {
+      "content": "Œuvres divulguant des informations personnelles des utilisateurs ou violant leur vie privée ; Œuvres divulguant malicieusement les informations personnelles d'autrui.",
+      "label": "Violation de la Vie Privée"
+    },
+    "optional6": {
+      "label": "Autre"
+    },
+    "title": "Signaler le projet"
+  },
+  "stage": {
+    "cocreaText": "Cocrea",
+    "continue": "continuer",
+    "fullScreen": "Plein écran",
+    "fullScreenQuit": "Quitter",
+    "like": "J'aime",
+    "pause": "Pause",
+    "played": "Joué",
+    "restart": "Redémarrer",
+    "run": "Lancer",
+    "scratchText": "Scratch",
+    "share": "Partager",
+    "total": "Total"
+  },
+  "teamTitle": "Équipe",
+  "versions": {
+    "changelogDefault": "Voici votre journal des modifications. Un bref journal des modifications peut aider les joueurs à comprendre les nouvelles fonctionnalités mises à jour dans cette version. Cliquez sur la zone de texte pour commencer.",
+    "hideHistory": "Cacher",
+    "history": "Historique des versions",
+    "label": "Versions"
+  },
+  "tags": {
+    "label": "Ajouter des Tags"
+  },
+  "remix": {
+    "disabled": "Remix désactivé",
+    "cannot_remix": "Vous ne pouvez pas remixer votre propre projet",
+    "not_permitted": "Remix non autorisé"
+  }
+}

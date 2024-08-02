@@ -1,0 +1,34 @@
+{
+  "earnCopywriting": "Vous gagnerez 1NG lorsque votre ami s'inscrira",
+  "Email": "Email",
+  "emailInvite": {
+    "desc": "Nous enverrons un email pour inviter vos amis à jouer à votre création",
+    "title": "Inviter des amis à jouer"
+  },
+  "Embed": "Intégrer",
+  "embed": {
+    "copyButton": "Copier le code",
+    "customizeCodeHide": "Masquer le titre et le créateur",
+    "customizeCodeHideCreator": "Masquer le créateur",
+    "customizeCodeMiniCard": "Mini-carte",
+    "customizeCodeStageCard": "Carte de scène",
+    "customizeCodeTitle": "Personnalisez votre code :",
+    "downloadHtml": "Télécharger le fichier HTML",
+    "embedCode": "Code d'intégration :",
+    "preview": "Aperçu :"
+  },
+  "Facebook": "Facebook",
+  "Link": "Lien",
+  "referralLink": {
+    "desc": "Vous pouvez aussi le copier et le partager sur vos réseaux sociaux. 🚀",
+    "Title": "Partager le lien"
+  },
+  "referralProgram": "Découvrez notre programme de parrainage",
+  "Scratch": "Scratch",
+  "socialCard": {
+    "referDesc": "Venez visiter ma toute nouvelle page d'accueil et créez avec moi.",
+    "referTitle": "Page d'accueil de {{username}}"
+  },
+  "title": "Partagez {{projectName}} avec des amis",
+  "Twitter": "Twitter"
+}

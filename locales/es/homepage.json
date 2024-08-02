@@ -58,6 +58,7 @@
     },
     "bgTitle": "Fondo",
     "edit": "Edición",
+    "editPage": "Editar página",
     "theme": {
       "title": "Elige la plantilla de página que te guste"
     },
@@ -70,6 +71,8 @@
         "projectDesc": "Insertar un proyecto reproducido recientemente",
         "projectList": "Lista de proyectos",
         "projectListDesc": "Insertar una lista de proyectos",
+        "portfolio": "Mis proyectos",
+        "portfolioDesc": "Mostrar mis proyectos",
         "titleOption": "Opción",
         "titleStyle": "Estilo",
         "user": "Usuario",
@@ -114,6 +117,10 @@
       },
       "projectList": {
         "repeatTip": "El proyecto ya existe"
+      },
+      "portfolio": {
+        "emptyText": "Este espacio está esperando tu creatividad. ¡Agrega tu primer proyecto!",
+        "addButtonText": "¡Agrega tu primer proyecto!"
       },
       "projectListCardSize": {
         "four": "4 artículos/filas",
