@@ -15,7 +15,7 @@
     "Played": "Joué",
     "poweredBy": "Propulsé par",
     "publish": {
-      "advancedExtensionTip": "Cette extension est incompatible avec Scratch. Les projets créés avec ne peuvent pas être téléchargés sur le site Scratch. Vous pouvez partager le projet sur Cocrea. Assurez-vous avant de l'utiliser.",
+      "advancedExtensionTip": "Cette extension n'est pas compatible avec Scratch. Les projets réalisés avec ne peuvent pas être téléchargés sur le site Scratch. Vous pouvez toujours partager le projet sur Cocrea.",
       "cocrea": {
         "label": "Publier sur Cocrea"
       },
@@ -26,19 +26,19 @@
       "dialogScratchTitle": "Comment publier sur Scratch ?",
       "dialogTitle": "Publier le projet",
       "retainDialogDesc": "Cocrea est compatible avec toutes les extensions Gandi. Les projets complexes peuvent être chargés et exécutés très rapidement.",
-      "retainDialogLearnMore": "Hum, je veux en savoir plus",
+      "retainDialogLearnMore": "En savoir plus",
       "retainDialogScratch": {
         "goScratch": "Aller sur Scratch",
-        "label": "Le projet a été sauvegardé sur votre ordinateur"
+        "label": "Ce projet a été enregistré sur votre ordinateur"
       },
       "retainDialogTitle": "Essayez de publier sur Cocrea",
       "retainDialogTryButton": "Cool ! Laissez-moi essayer",
       "scratch": {
         "label": "Partager sur Scratch"
       },
-      "warnDesc": "Ce projet est créé avec des extensions incompatibles avec Scratch. Il ne peut pas être téléchargé sur le site Scratch.",
+      "warnDesc": "Ce projet contient des extensions qui ne sont pas compatibles avec Scratch. Il ne peut pas être téléchargé sur le site Scratch.",
       "warnTitle": "Avertissement",
-      "welcomeDialogTitle": "Bienvenue sur Gandi IDE !"
+      "welcomeDialogTitle": "Bienvenue sur Gandi IDE!"
     },
     "run": "Exécuter",
     "runningSpeed": "Vitesse d'exécution",

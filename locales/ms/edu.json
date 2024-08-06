@@ -15,7 +15,7 @@
     "Played": "Dimainkan",
     "poweredBy": "Dikuasai oleh",
     "publish": {
-      "advancedExtensionTip": "Set blok ini tidak serasi dengan Scratch. Projek yang dibuat dengannya tidak boleh dimuat naik ke laman web Scratch. Anda boleh berkongsi projek di Cocrea. Pastikan sebelum anda menggunakannya.",
+      "advancedExtensionTip": "Sambungan ini tidak serasi dengan Scratch. Projek yang dibuat dengannya tidak boleh dimuat naik ke laman web Scratch. Anda masih boleh berkongsi projek di Cocrea.",
       "cocrea": {
         "label": "Terbitkan di Cocrea"
       },
@@ -26,19 +26,19 @@
       "dialogScratchTitle": "Bagaimana untuk menerbitkan ke Scratch?",
       "dialogTitle": "Terbitkan Projek",
       "retainDialogDesc": "Cocrea serasi dengan semua Set Blok Gandi IDE. Projek kompleks boleh dimuatkan dan berjalan dengan sangat pantas.",
-      "retainDialogLearnMore": "Ummmm, saya nak belajar lagi",
+      "retainDialogLearnMore": "Ketahui lebih lanjut",
       "retainDialogScratch": {
         "goScratch": "Pergi ke Scratch",
-        "label": "Projek telah disimpan ke komputer anda"
+        "label": "Projek ini telah disimpan ke komputer anda"
       },
       "retainDialogTitle": "Cuba terbitkan di Cocrea",
       "retainDialogTryButton": "Hebat! Biar saya cuba",
       "scratch": {
         "label": "Kongsi di Scratch"
       },
-      "warnDesc": "Projek ini dibuat dengan Set Blok yang tidak serasi dengan Scratch. Ia tidak boleh dimuat naik ke Scratch.",
+      "warnDesc": "Projek ini mempunyai sambungan yang tidak serasi dengan Scratch. Ia tidak boleh dimuat naik ke laman web Scratch.",
       "warnTitle": "Amaran",
-      "welcomeDialogTitle": "Selamat datang ke Gandi IDE !"
+      "welcomeDialogTitle": "Selamat datang ke Gandi IDE!"
     },
     "run": "Main",
     "runningSpeed": "Kelajuan Larian",

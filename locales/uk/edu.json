@@ -15,7 +15,7 @@
     "Played": "Грав",
     "poweredBy": "На основі",
     "publish": {
-      "advancedExtensionTip": "Це розширення несумісне зі Scratch. Проекти, створені з його допомогою, не можна завантажити на веб-сайт Scratch. Ви можете поділитися проектом на Cocrea. Переконайтеся, перш ніж використовувати його.",
+      "advancedExtensionTip": "Це розширення несумісне з Scratch. Проекти, створені з його використанням, не можна завантажити на сайт Scratch. Ви все ще можете поділитися проектом на Cocrea.",
       "cocrea": {
         "label": "Опублікувати на Cocrea"
       },
@@ -26,19 +26,19 @@
       "dialogScratchTitle": "Як опублікувати в Scratch?",
       "dialogTitle": "Опублікувати проект",
       "retainDialogDesc": "Cocrea сумісна з усіма розширеннями Gandi. Складні проекти можна завантажувати та запускати дуже швидко.",
-      "retainDialogLearnMore": "Гммм, я хочу дізнатися більше",
+      "retainDialogLearnMore": "Дізнатися більше",
       "retainDialogScratch": {
         "goScratch": "Перейти до Scratch",
-        "label": "Проект збережено на вашому комп’ютері"
+        "label": "Цей проект збережено на вашому комп'ютері"
       },
       "retainDialogTitle": "Спробуйте опублікувати на Cocrea",
       "retainDialogTryButton": "Круто! Дай мені спробувати",
       "scratch": {
         "label": "Поділіться на Scratch"
       },
-      "warnDesc": "Цей проект створено з розширеннями, несумісними зі Scratch. Його неможливо завантажити на веб-сайт Scratch.",
+      "warnDesc": "Цей проект має розширення, несумісні з Scratch. Його не можна завантажити на сайт Scratch.",
       "warnTitle": "УВАГА",
-      "welcomeDialogTitle": "Ласкаво просимо до Gandi IDE !"
+      "welcomeDialogTitle": "Ласкаво просимо до Gandi IDE!"
     },
     "run": "бігти",
     "runningSpeed": "Швидкість роботи",

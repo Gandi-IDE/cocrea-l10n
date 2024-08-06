@@ -15,7 +15,7 @@
     "Played": "Сыграно",
     "poweredBy": "Поддерживается",
     "publish": {
-      "advancedExtensionTip": "Это расширение несовместимо со Scratch. Проекты, созданные с его помощью, не могут быть загружены на Scratch. Вы можете поделиться проектом на Cocrea. Убедитесь в этом, прежде чем использовать его.",
+      "advancedExtensionTip": "Это расширение несовместимо со Scratch. Проекты, созданные с его помощью, нельзя загрузить на сайт Scratch. Вы все еще можете поделиться проектом на Cocrea.",
       "cocrea": {
         "label": "Опубликовать на Cocrea"
       },
@@ -26,17 +26,17 @@
       "dialogScratchTitle": "Как опубликовать на Scratch?",
       "dialogTitle": "Опубликовать проект",
       "retainDialogDesc": "Cocrea совместима со всеми расширениями Gandi. Сложные проекты могут загружаться и работать очень быстро.",
-      "retainDialogLearnMore": "Хммм, я хочу узнать больше",
+      "retainDialogLearnMore": "Узнать больше",
       "retainDialogScratch": {
         "goScratch": "Перейти к Scratch",
-        "label": "Проект сохранен на ваш компьютер"
+        "label": "Этот проект был сохранен на вашем компьютере"
       },
       "retainDialogTitle": "Попробуйте опубликовать на Cocrea",
       "retainDialogTryButton": "Круто! Дайте попробовать",
       "scratch": {
         "label": "Поделиться на Scratch"
       },
-      "warnDesc": "Этот проект создан с использованием расширений, несовместимых со Scratch. Его нельзя загрузить на сайт Scratch.",
+      "warnDesc": "Этот проект имеет расширения, несовместимые со Scratch. Его нельзя загрузить на сайт Scratch.",
       "warnTitle": "Предупреждение",
       "welcomeDialogTitle": "Добро пожаловать в Gandi IDE!"
     },
