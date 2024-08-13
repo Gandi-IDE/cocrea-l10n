@@ -5,12 +5,14 @@
     }
   },
   "description": {
-    "default": "Esta es la descripción de su proyecto. Proporcione un breve resumen para ayudar a los jugadores a comprender la historia y los antecedentes de su proyecto. Haga clic en el cuadro de texto para comenzar.",
+    "default": "Por favor, haz clic en el botón Editar Página en la barra de navegación para modificar la descripción.",
+    "players_default": "El creador no ha agregado ninguna descripción todavía.",
     "label": "Descripción"
   },
   "instructions": {
-    "default": "Estas son las instrucciones de tu proyecto. Proporciona una breve instrucción para ayudar a los jugadores a entender cómo jugar tu proyecto. Haz clic en el cuadro de texto para comenzar.",
-    "label": "InstructionsInstrucciones"
+    "default": "Por favor, haz clic en el botón Editar Página en la barra de navegación para modificar las instrucciones.",
+    "players_default": "El creador no ha agregado ninguna instrucción todavía.",
+    "label": "Instructions"
   },
   "otherProjects": {
     "emptyDesc": "No más proyectos",

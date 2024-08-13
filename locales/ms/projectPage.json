@@ -5,11 +5,13 @@
     }
   },
   "description": {
-    "default": "Ini ialah penerangan projek anda. Sediakan ringkasan ringkas untuk membantu pemain memahami cerita dan latar belakang projek anda. Klik pada kotak teks untuk mula.",
+    "default": "Sila klik butang Edit Page dalam bar navigasi untuk mengubah deskripsi.",
+    "players_default": "Pencipta belum menambah sebarang deskripsi lagi.",
     "label": "Penerangan"
   },
   "instructions": {
-    "default": "Ini adalah arahan projek anda. Sediakan arahan ringkas untuk membantu pemain memahami cara bermain projek anda. Klik pada kotak teks untuk mula.",
+    "default": "Sila klik butang Edit Page dalam bar navigasi untuk mengubah arahan.",
+    "players_default": "Pencipta belum menambah sebarang arahan lagi.",
     "label": "Arahan"
   },
   "otherProjects": {
