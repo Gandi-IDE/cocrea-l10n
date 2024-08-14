@@ -5,11 +5,13 @@
     }
   },
   "description": {
-    "default": "This is your project description. Provide a brief summary to help players understand the story and background of your project. Click on the text box to start.",
+    "default": "Please click the Edit Page button in the navigation bar to modify the description.",
+    "players_default": "The creator has not added any description yet.",
     "label": "Description"
   },
   "instructions": {
-    "default": "This is your project instruction. Provide a brief instruction to help players understand how to play your project. Click on the text box to start.",
+    "default": "Please click the Edit Page button in the navigation bar to modify the instructions.",
+    "players_default": "The creator has not added any instructions yet.",
     "label": "Instructions"
   },
   "otherProjects": {

@@ -5,11 +5,13 @@
     }
   },
   "description": {
-    "default": "Voici la description de votre projet. Fournissez un bref résumé pour aider les joueurs à comprendre l'histoire et le contexte de votre projet. Cliquez sur la zone de texte pour commencer.",
+    "default": "Veuillez cliquer sur le bouton Modifier la page dans la barre de navigation pour modifier la description.",
+    "players_default": "Le créateur n'a pas encore ajouté de description.",
     "label": "Description"
   },
   "instructions": {
-    "default": "Voici les instructions de votre projet. Fournissez une brève instruction pour aider les joueurs à comprendre comment jouer à votre projet. Cliquez sur la zone de texte pour commencer.",
+    "default": "Veuillez cliquer sur le bouton Modifier la page dans la barre de navigation pour modifier les instructions.",
+    "players_default": "Le créateur n'a pas encore ajouté d'instructions.",
     "label": "Instructions"
   },
   "otherProjects": {
